@@ -1,0 +1,3776 @@
+{
+  "I01168" : {
+    "id" : "I01168",
+    "body" : "Project Rationale & Significance:\nEGI has world-class expertise on organic and inorganic geochemistry of fluids, rocks and minerals. We are applying our craft to develop new integrative tools to improve discovery and production of oil and gas from conventional and unconventional resources. These efforts compliment EGI projects dealing with shale gas characterization, basin modeling, iCORDS™, and tracer testing.\nAreas of New Research\nTrace metals in carbon-rich source rocks in terrestrial and marine sedimentary rock – This study involves geochemical characterization of trace metals in source rocks. One task will test the existence of geochemical zonation haloes around concentrations of gas and oil in unconventional reservoirs. A second task will test the potential of distinguishing global from local anoxia events in marine sediments.\nFormation water chemistry: fluid-rock interactions and fluid flow histories related to basin evolution, reservoir filling, and oil-gas recovery – This investigation centers on the chemistry of formation waters (gases) in and around productive hydrocarbons reservoirs. One task will test for the existence of aqueous geo-indicators that reflect thermal history, fluid flow, and porosity-permeability development. Another task will assess the potential of mineral deposition in pore space and pipe scales during production and reinjection.\nSecondary minerals, diagenesis and fluid flow in oil and gas basins – This work focuses on the role of fine scale diagenetic effects that transform porosity and permeability and control fluid flow in source and reservoir rocks. ",
+    "lon" : "25",
+    "small image" : "I01168_sml.png",
+    "sponsorship" : "1",
+    "contact" : "Dr. Stuart Simmons",
+    "title" : "Fluid Mineral and Source Rock Chemistry",
+    "price" : "TBD USD",
+    "lat" : "-53",
+    "pdf" : "Fluid_Mineral_Source_Rock_Chemistry_I_01168",
+    "status" : "In Development",
+    "video" : ""
+  },
+  "I01232" : {
+    "id" : "I01232",
+    "body" : "Value\nA redefined basin architecture, new play types, source rocks and reservoirs in the southern (foreland) sections of the Papuan Basin covering parts of Papua New Guinea (PNG), Indonesia and Iran Jaya.\nDefine and quantify source and reservoir potential using available open file samples of outcrop, shallow boreholes, drill cores, side wall cores and drill chips\nDefine and quantify available oil and gas samples from existing oil well samples and oil and gas seeps in situ Ø Evaluate the stratigraphic and paleoenvironmental geological controls and parameters of source and reservoir intervals of the southern Papuan Basin\nQuantify the geochemical, petrophysical and geophysical attributes of the source rock and reservoir intervals of the southern Papuan Basin Ø Evaluate the gas\/liquid potential of the southern Papuan Basin\nAssess potential gas\/liquid resources in place\nKey Deliverables\n1. ArcGIS database including geographic information, satellite imagery, basin outline and structure, surface geological map, well locations, typical seismic imagery, structural cross sections, oil and gas seep locations, oil and gas field data and sample locations with interpretation 2. ArcGIS based report on stratigraphy, sedimentology, tectonic setting, burial history, petroleum system analysis, geochemical and petrophysical properties of source rock intervals 3. Conceptual target ranking including multivariate geostatistical analysis based on the key parameters identified in each gas\/liquid province.",
+    "lon" : "145.2431532",
+    "small image" : "I01232_sml.png",
+    "sponsorship" : "1",
+    "contact" : "Dr. John Conolly, Mr. David Thul",
+    "title" : "Southern Papuan Basin Integrated Petroleum Systems",
+    "price" : "$75k USD",
+    "lat" : "-10.21865833",
+    "pdf" : "So_Papuan_Basin_Petroleum_Systems_I_01232",
+    "status" : "In Progress",
+    "video" : ""
+  },
+  "I01021" : {
+    "id" : "I01021",
+    "body" : "EGI currently has over 15 shale gas\/oil related projects that are completed, underway or proposed, with more than 20 researchers actively engaged in these studies. Regarding Central Eurasian experience, EGI has completed 38 in-house reports since 1990. The database also includes 309 other reports. EGI has over 450 well logs (digital and paper), close to 60,000 km of seismic and almost 2,100 rock samples from wells or outcrop.\nModern concepts of shale stratigraphy indicate highly variable depositional conditions that lead to heterogeneous grain size, composition, and variable organic matter preservation. The Energy and Geoscience Institute has an established petrological analysis workflow with key instrumentation, hardware, software and personnel in place. This permits examination of shales from micro- to nano-scales, using thin section petrography, QEMSCAN®, XRD, SEM and FIB-SEM. The results allow for a comprehensive interpretation of composition, texture, fabric, porosity, permeability, micro-tectonics and diagenetic history. The petrologic results for this study will be both qualitative and quantitative.\nAn effort will be made to evaluate the shale source rock variability in a sequence stratigraphic framework to more realistically define“sweet spots”within major shale intervals. It is believed this approach and level of detail will have regional implications reflected in the shale parasequences and resultant stacking patterns that are detectable on well logs and hence important to define the resource extent geographically and its potential richness.",
+    "lon" : "39.095342",
+    "small image" : "I01021_sml.png",
+    "sponsorship" : "1",
+    "contact" : "Dr. Júlia Kotulová, Dr. Raymond Levey",
+    "layover" : [
+      [
+        [
+          "65.09758236",
+          "54.21519238"
+        ],
+        [
+          "63.76508419",
+          "52.50198046"
+        ],
+        [
+          "62.90847823",
+          "51.1694823"
+        ],
+        [
+          "62.71812135",
+          "50.12251945"
+        ],
+        [
+          "62.62294291",
+          "48.21895065"
+        ],
+        [
+          "63.00365667",
+          "47.26716625"
+        ],
+        [
+          "63.76508419",
+          "45.268419"
+        ],
+        [
+          "63.09883511",
+          "44.3166346"
+        ],
+        [
+          "61.67115851",
+          "44.12627772"
+        ],
+        [
+          "57.76884246",
+          "46.31538184"
+        ],
+        [
+          "56.72187962",
+          "47.93341533"
+        ],
+        [
+          "56.34116586",
+          "49.17073505"
+        ],
+        [
+          "56.9122365",
+          "49.83698413"
+        ],
+        [
+          "58.14955622",
+          "51.6453745"
+        ],
+        [
+          "58.8158053",
+          "53.83447862"
+        ],
+        [
+          "56.34116586",
+          "55.35733367"
+        ],
+        [
+          "55.19902457",
+          "57.16572403"
+        ],
+        [
+          "55.19902457",
+          "58.78375751"
+        ],
+        [
+          "55.48455989",
+          "60.78250476"
+        ],
+        [
+          "56.62670118",
+          "62.40053824"
+        ],
+        [
+          "57.67366402",
+          "63.54267953"
+        ],
+        [
+          "59.2916975",
+          "63.92339329"
+        ],
+        [
+          "61.29044475",
+          "64.39928549"
+        ],
+        [
+          "65.51338845",
+          "64.79616778"
+        ],
+        [
+          "66.29861058",
+          "67.72290481"
+        ],
+        [
+          "67.58380073",
+          "68.75819688"
+        ],
+        [
+          "62.74191596",
+          "69.6340997"
+        ],
+        [
+          "58.74442147",
+          "70.63347332"
+        ],
+        [
+          "57.24536104",
+          "70.70485715"
+        ],
+        [
+          "55.67491677",
+          "71.56146311"
+        ],
+        [
+          "56.17460359",
+          "72.7036044"
+        ],
+        [
+          "57.81643168",
+          "73.98851334"
+        ],
+        [
+          "60.31486573",
+          "75.05927079"
+        ],
+        [
+          "63.38437043",
+          "75.70172526"
+        ],
+        [
+          "68.52400621",
+          "76.41556357"
+        ],
+        [
+          "69.88029898",
+          "76.4869474"
+        ],
+        [
+          "72.24160341",
+          "75.7412854"
+        ],
+        [
+          "80.2898413",
+          "73.43361123"
+        ],
+        [
+          "82.4313562",
+          "72.22008611"
+        ],
+        [
+          "88.21344645",
+          "72.93392442"
+        ],
+        [
+          "91.56848647",
+          "73.86191421"
+        ],
+        [
+          "98.64798254",
+          "74.70235164"
+        ],
+        [
+          "104.6028848",
+          "75.4373398"
+        ],
+        [
+          "104.9886465",
+          "75.71789379"
+        ],
+        [
+          "107.3443129",
+          "75.78927762"
+        ],
+        [
+          "111.0562721",
+          "75.64650996"
+        ],
+        [
+          "112.5553325",
+          "75.21820698"
+        ],
+        [
+          "112.2822941",
+          "73.63159419"
+        ],
+        [
+          "113.8527384",
+          "73.20329121"
+        ],
+        [
+          "118.8496065",
+          "72.98913972"
+        ],
+        [
+          "123.1326363",
+          "72.84637206"
+        ],
+        [
+          "125.2027674",
+          "72.84637206"
+        ],
+        [
+          "127.2015146",
+          "72.27530142"
+        ],
+        [
+          "127.9867367",
+          "71.9897661"
+        ],
+        [
+          "128.1295044",
+          "71.49007928"
+        ],
+        [
+          "128.6578103",
+          "69.95181665"
+        ],
+        [
+          "127.474553",
+          "68.15120779"
+        ],
+        [
+          "127.8314722",
+          "64.86755161"
+        ],
+        [
+          "131.9128474",
+          "64.06616095"
+        ],
+        [
+          "133.9115946",
+          "63.78062563"
+        ],
+        [
+          "135.6248066",
+          "63.56647414"
+        ],
+        [
+          "137.0524832",
+          "63.20955498"
+        ],
+        [
+          "137.4094023",
+          "62.781252"
+        ],
+        [
+          "137.0524832",
+          "62.0674137"
+        ],
+        [
+          "136.1958772",
+          "61.85326221"
+        ],
+        [
+          "135.9103419",
+          "61.28219157"
+        ],
+        [
+          "136.4100287",
+          "60.85388859"
+        ],
+        [
+          "135.3392712",
+          "60.78250476"
+        ],
+        [
+          "134.1257461",
+          "61.13942391"
+        ],
+        [
+          "133.0549887",
+          "61.63911072"
+        ],
+        [
+          "131.4131606",
+          "62.0674137"
+        ],
+        [
+          "130.1871386",
+          "62.44050138"
+        ],
+        [
+          "128.7719589",
+          "62.63848434"
+        ],
+        [
+          "124.0172895",
+          "62.61863706"
+        ],
+        [
+          "122.9184848",
+          "62.92401966"
+        ],
+        [
+          "121.4194244",
+          "64.56584776"
+        ],
+        [
+          "121.133889",
+          "65.56522138"
+        ],
+        [
+          "121.3480405",
+          "66.49321117"
+        ],
+        [
+          "122.7043333",
+          "67.2784333"
+        ],
+        [
+          "124.547816",
+          "67.72290481"
+        ],
+        [
+          "126.1182603",
+          "70.50687419"
+        ],
+        [
+          "126.4580624",
+          "71.12984484"
+        ],
+        [
+          "124.4175452",
+          "71.70423078"
+        ],
+        [
+          "122.7757171",
+          "71.91838227"
+        ],
+        [
+          "120.7769699",
+          "71.9897661"
+        ],
+        [
+          "117.6360814",
+          "71.9897661"
+        ],
+        [
+          "112.6392133",
+          "72.27530142"
+        ],
+        [
+          "109.062361",
+          "72.16352479"
+        ],
+        [
+          "105.1567405",
+          "71.81728882"
+        ],
+        [
+          "89.56973922",
+          "70.43549036"
+        ],
+        [
+          "88.07067879",
+          "70.14995504"
+        ],
+        [
+          "88.07067879",
+          "68.29397545"
+        ],
+        [
+          "89.36808462",
+          "65.63660521"
+        ],
+        [
+          "90.01053909",
+          "64.99415074"
+        ],
+        [
+          "90.5102259",
+          "64.28031244"
+        ],
+        [
+          "91.2240642",
+          "63.06678732"
+        ],
+        [
+          "93.15142762",
+          "60.42558561"
+        ],
+        [
+          "94.07941741",
+          "58.56960602"
+        ],
+        [
+          "94.57910422",
+          "57.49884857"
+        ],
+        [
+          "94.57910422",
+          "56.99916176"
+        ],
+        [
+          "93.50834677",
+          "56.28532346"
+        ],
+        [
+          "91.43821569",
+          "56.99916176"
+        ],
+        [
+          "89.15393313",
+          "57.49884857"
+        ],
+        [
+          "87.29795354",
+          "57.85576772"
+        ],
+        [
+          "86.22719609",
+          "58.14130304"
+        ],
+        [
+          "85.01367098",
+          "58.49822219"
+        ],
+        [
+          "83.30045905",
+          "58.56960602"
+        ],
+        [
+          "82.72938841",
+          "58.14130304"
+        ],
+        [
+          "82.2297016",
+          "57.78438389"
+        ],
+        [
+          "81.65863096",
+          "56.99916176"
+        ],
+        [
+          "81.58724713",
+          "55.85702048"
+        ],
+        [
+          "82.01555011",
+          "54.71487919"
+        ],
+        [
+          "84.3712165",
+          "54.21519238"
+        ],
+        [
+          "85.65612545",
+          "54.00104089"
+        ],
+        [
+          "86.22719609",
+          "53.50135408"
+        ],
+        [
+          "84.51398416",
+          "52.64474812"
+        ],
+        [
+          "83.01492373",
+          "52.07367748"
+        ],
+        [
+          "81.08756032",
+          "51.71675833"
+        ],
+        [
+          "80.44510584",
+          "51.57399067"
+        ],
+        [
+          "79.44573222",
+          "51.93090982"
+        ],
+        [
+          "77.23283349",
+          "53.50135408"
+        ],
+        [
+          "76.80453051",
+          "54.07242472"
+        ],
+        [
+          "74.37748028",
+          "53.85827323"
+        ],
+        [
+          "72.7231553",
+          "53.50135408"
+        ],
+        [
+          "66.86573874",
+          "54.41873135"
+        ],
+        [
+          "65.09758236",
+          "54.21519238"
+        ]
+      ],
+      [
+        [
+          "42.06439982",
+          "69.6340997"
+        ],
+        [
+          "48.06064155",
+          "70.20517034"
+        ],
+        [
+          "52.72438513",
+          "69.72927814"
+        ],
+        [
+          "56.34116586",
+          "69.72927814"
+        ],
+        [
+          "59.57723282",
+          "68.96785062"
+        ],
+        [
+          "60.99301212",
+          "67.40930366"
+        ],
+        [
+          "60.71937411",
+          "65.54142677"
+        ],
+        [
+          "57.48330714",
+          "64.68482081"
+        ],
+        [
+          "55.57973833",
+          "63.92339329"
+        ],
+        [
+          "54.05688329",
+          "63.06678732"
+        ],
+        [
+          "52.43884981",
+          "61.16321852"
+        ],
+        [
+          "50.535281",
+          "59.16447127"
+        ],
+        [
+          "49.01242596",
+          "59.64036348"
+        ],
+        [
+          "48.34617688",
+          "61.44875384"
+        ],
+        [
+          "48.34617688",
+          "62.87643044"
+        ],
+        [
+          "48.44135532",
+          "64.30410705"
+        ],
+        [
+          "48.1574711",
+          "66.55810338"
+        ],
+        [
+          "45.39564523",
+          "68.6823153"
+        ],
+        [
+          "42.06439982",
+          "69.6340997"
+        ]
+      ],
+      [
+        [
+          "31.78601387",
+          "67.21600562"
+        ],
+        [
+          "37.59101313",
+          "64.77999925"
+        ],
+        [
+          "38.92351129",
+          "64.11375017"
+        ],
+        [
+          "40.3511879",
+          "62.59089512"
+        ],
+        [
+          "41.39815074",
+          "61.3535754"
+        ],
+        [
+          "44.25350395",
+          "59.9258988"
+        ],
+        [
+          "46.72814339",
+          "58.68857907"
+        ],
+        [
+          "48.34617688",
+          "58.49822219"
+        ],
+        [
+          "49.96421036",
+          "58.30786531"
+        ],
+        [
+          "50.91599476",
+          "57.35608091"
+        ],
+        [
+          "52.53402825",
+          "56.02358275"
+        ],
+        [
+          "52.53402825",
+          "54.0248355"
+        ],
+        [
+          "51.20153008",
+          "52.50198046"
+        ],
+        [
+          "50.15456724",
+          "51.35983918"
+        ],
+        [
+          "48.06064155",
+          "50.59841165"
+        ],
+        [
+          "46.72814339",
+          "49.36109193"
+        ],
+        [
+          "46.72814339",
+          "48.69484285"
+        ],
+        [
+          "46.53778651",
+          "46.79127405"
+        ],
+        [
+          "45.30046679",
+          "44.98288368"
+        ],
+        [
+          "45.87153743",
+          "42.98413644"
+        ],
+        [
+          "45.49082367",
+          "40.12878323"
+        ],
+        [
+          "47.10885715",
+          "38.60592818"
+        ],
+        [
+          "48.6317122",
+          "37.08307314"
+        ],
+        [
+          "51.20153008",
+          "35.65539654"
+        ],
+        [
+          "56.24598742",
+          "35.36986122"
+        ],
+        [
+          "58.53026998",
+          "35.36986122"
+        ],
+        [
+          "63.09883511",
+          "34.98914746"
+        ],
+        [
+          "64.90722548",
+          "34.89396902"
+        ],
+        [
+          "66.52525896",
+          "32.89522177"
+        ],
+        [
+          "65.95418832",
+          "32.22897269"
+        ],
+        [
+          "63.95544107",
+          "31.84825893"
+        ],
+        [
+          "59.38687594",
+          "32.03861581"
+        ],
+        [
+          "55.67491677",
+          "33.18075709"
+        ],
+        [
+          "53.20027733",
+          "33.84700617"
+        ],
+        [
+          "51.39188696",
+          "34.41807681"
+        ],
+        [
+          "49.67867504",
+          "34.70361214"
+        ],
+        [
+          "47.58474935",
+          "35.65539654"
+        ],
+        [
+          "45.68118055",
+          "36.9878947"
+        ],
+        [
+          "43.58725486",
+          "38.8914635"
+        ],
+        [
+          "42.92100578",
+          "40.31914011"
+        ],
+        [
+          "42.44511358",
+          "41.93717359"
+        ],
+        [
+          "40.92225854",
+          "44.12627772"
+        ],
+        [
+          "39.30422505",
+          "44.69734836"
+        ],
+        [
+          "37.78137001",
+          "45.36359744"
+        ],
+        [
+          "36.06815809",
+          "45.36359744"
+        ],
+        [
+          "33.68869708",
+          "46.41056028"
+        ],
+        [
+          "32.73691268",
+          "46.98163092"
+        ],
+        [
+          "31.21405763",
+          "48.31412909"
+        ],
+        [
+          "29.21531039",
+          "49.17073505"
+        ],
+        [
+          "29.59602415",
+          "50.50323321"
+        ],
+        [
+          "34.25976772",
+          "49.64662725"
+        ],
+        [
+          "37.01994249",
+          "49.07555661"
+        ],
+        [
+          "39.68493881",
+          "48.88519973"
+        ],
+        [
+          "41.3029723",
+          "49.45627037"
+        ],
+        [
+          "41.58850762",
+          "50.59841165"
+        ],
+        [
+          "41.20779386",
+          "52.31162358"
+        ],
+        [
+          "37.21029937",
+          "54.97661991"
+        ],
+        [
+          "34.06941084",
+          "54.69108458"
+        ],
+        [
+          "29.12013195",
+          "54.59590614"
+        ],
+        [
+          "27.02620626",
+          "55.26215523"
+        ],
+        [
+          "25.97924342",
+          "55.92840431"
+        ],
+        [
+          "25.78888654",
+          "57.64161623"
+        ],
+        [
+          "30.64298699",
+          "58.68857907"
+        ],
+        [
+          "33.40316176",
+          "59.06929283"
+        ],
+        [
+          "34.83083836",
+          "59.83072036"
+        ],
+        [
+          "36.06815809",
+          "59.83072036"
+        ],
+        [
+          "37.49583469",
+          "61.25839696"
+        ],
+        [
+          "37.68619157",
+          "62.11500292"
+        ],
+        [
+          "31.78601387",
+          "67.21600562"
+        ]
+      ]
+    ],
+    "title" : "Central Eurasia Shales",
+    "price" : "$80k USD",
+    "lat" : "59.546029",
+    "pdf" : "Central_Eurasia_Shales_I_01021",
+    "status" : "Completed",
+    "video" : ""
+  },
+  "I01075" : {
+    "id" : "I01075",
+    "body" : "The Central Utah-Nevada region covers a large part of the Great Basin bounded by the Rockies\/Colorado Plateau on the east and the Sierra Nevada Mountains on the west. The region includes the Lower Paleozoic shelf of the North American continent which has been affected by a series of tectonic collisions (fold-and-thrust belts) from Late Paleozoic through Eocene times, and upon which the Neogene Basin-and-Range extensional basins were superimposed. The Paleozoic-Mesozoic plays of the region offer important frontier exploration targets both for conventional and unconventional oil and gas resources.",
+    "lon" : "-116.448683",
+    "small image" : "I01075_sml.png",
+    "sponsorship" : "1",
+    "contact" : "Dr. Rasoul Sorkhabi, Dr. Greg Nash",
+    "layover" : [
+      [
+        [
+          "-111.8526291",
+          "40.76991223"
+        ],
+        [
+          "-111.9407238",
+          "40.0052279"
+        ],
+        [
+          "-112.1191834",
+          "39.2913896"
+        ],
+        [
+          "-112.4463593",
+          "38.39909173"
+        ],
+        [
+          "-112.8627649",
+          "37.80422648"
+        ],
+        [
+          "-113.2791706",
+          "37.29859101"
+        ],
+        [
+          "-113.3981437",
+          "36.73346902"
+        ],
+        [
+          "-113.9037791",
+          "35.33553568"
+        ],
+        [
+          "-114.4689011",
+          "34.56221085"
+        ],
+        [
+          "-114.8853068",
+          "34.62169738"
+        ],
+        [
+          "-115.5099153",
+          "34.94887327"
+        ],
+        [
+          "-116.0750373",
+          "35.57348178"
+        ],
+        [
+          "-116.7227121",
+          "36.02213721"
+        ],
+        [
+          "-118.0569814",
+          "36.84493663"
+        ],
+        [
+          "-118.8019485",
+          "37.60102258"
+        ],
+        [
+          "-119.5469155",
+          "38.1236114"
+        ],
+        [
+          "-120.2029313",
+          "38.75738933"
+        ],
+        [
+          "-120.3252393",
+          "39.09095667"
+        ],
+        [
+          "-120.3808338",
+          "39.68025895"
+        ],
+        [
+          "-120.4364284",
+          "40.12501539"
+        ],
+        [
+          "-120.4141906",
+          "40.45858272"
+        ],
+        [
+          "-120.3808338",
+          "40.66984203"
+        ],
+        [
+          "-120.5031419",
+          "40.88110134"
+        ],
+        [
+          "-120.4586662",
+          "41.19243085"
+        ],
+        [
+          "-120.5587364",
+          "41.37033343"
+        ],
+        [
+          "-120.5476175",
+          "41.69278185"
+        ],
+        [
+          "-120.4475473",
+          "42.18201394"
+        ],
+        [
+          "-120.3030015",
+          "42.43774889"
+        ],
+        [
+          "-120.3030015",
+          "42.59341365"
+        ],
+        [
+          "-119.7470559",
+          "42.89362424"
+        ],
+        [
+          "-119.2244671",
+          "43.10488355"
+        ],
+        [
+          "-118.5350946",
+          "43.049289"
+        ],
+        [
+          "-118.2571218",
+          "43.08264573"
+        ],
+        [
+          "-117.7567708",
+          "42.99369444"
+        ],
+        [
+          "-117.3453711",
+          "43.00481335"
+        ],
+        [
+          "-117.1007551",
+          "42.98257553"
+        ],
+        [
+          "-116.7671878",
+          "42.86026751"
+        ],
+        [
+          "-116.489215",
+          "42.81579187"
+        ],
+        [
+          "-116.1222909",
+          "42.71572167"
+        ],
+        [
+          "-115.5329886",
+          "42.6490082"
+        ],
+        [
+          "-115.232778",
+          "42.60453256"
+        ],
+        [
+          "-114.6545947",
+          "42.548938"
+        ],
+        [
+          "-114.2654328",
+          "42.548938"
+        ],
+        [
+          "-113.7650818",
+          "42.548938"
+        ],
+        [
+          "-113.4982279",
+          "42.60453256"
+        ],
+        [
+          "-113.109066",
+          "42.61565147"
+        ],
+        [
+          "-112.8866878",
+          "42.72684058"
+        ],
+        [
+          "-112.5975961",
+          "42.8491486"
+        ],
+        [
+          "-112.4085746",
+          "42.51558127"
+        ],
+        [
+          "-112.2084342",
+          "42.31544087"
+        ],
+        [
+          "-112.1528397",
+          "41.95963572"
+        ],
+        [
+          "-112.0972451",
+          "41.50376036"
+        ],
+        [
+          "-112.0750073",
+          "41.31473888"
+        ],
+        [
+          "-112.0194127",
+          "41.05900392"
+        ],
+        [
+          "-111.8526291",
+          "40.76991223"
+        ]
+      ]
+    ],
+    "title" : "Central Utah-Nevada Deep Plays",
+    "price" : "$57k USD",
+    "lat" : "39.453160",
+    "pdf" : "Central_Utah_Nevada_Deep_Plays_I_01075",
+    "status" : "Completed",
+    "video" : ""
+  },
+  "I01020" : {
+    "id" : "I01020",
+    "body" : "Sedimentary rocks, which are mature both in terms of their organic carbon content and thermal history, lie at the base of the petroleum system analysis. A quantitative knowledge of the distribution of source rocks in space and through time has important implications not only for the global budget of hydrocarbon resources but also for evaluating the geologic conditions favorable for the generation of oil and gas on a basinal scale.\nAn enormous body of data on source rocks by new analytical techniques and from various basins around the world has been collected in recent decades. EGI, with its four decades of research work in various basins and regions of the world, holds an archive of thousands of reports and documents, which can constitute a valuable database on global source rocks. This research work is also timely in view of the recent trends in the industry to drill directly into source-rock targets. The project is to be conducted as an industry-funded research consortium. Given the wide scale, expectations and implications of the project, active participation of experts from the sponsoring companies in the project work is greatly encouraged.\nThe significance of this research project may be summarized in the following five key points:\n\t-The geospatial and temporal distribution of source rocks analyzed statistically and paleogeographically in this study has practical implications for the risk\/success evaluation of petroleum basins and identifying frontier or bypassed plays;\n\t\t-Sponsoring companies can augment their internal database on source rocks with the EGI database provided for in this project;\n\t\t-This research study attempts, in a holistic way, to decipher the fundamental controls resulting from tectonic, sedimentologic, geochemical, atmospheric and biotic processes, on the basinal deposition and preservation and the global distribution of hydrocarbon source rocks.\n\t\t-The Project will offer a new perspective on world basins classification and mapping based on source- rock deposition, rather than the present-day basin tectonic type. This will, in turn, generate new scheme to evaluate the relationship between basin type and hydrocarbon resources. ",
+    "lon" : "-10",
+    "small image" : "I01020_sml.png",
+    "sponsorship" : "1",
+    "contact" : "Dr. Rasoul Sorkhabi",
+    "title" : "Source Rocks in Space & through Time",
+    "price" : "$87.8k USD",
+    "lat" : "-47",
+    "pdf" : "Source_Rocks_in_Space_and_through_Time_I_01020",
+    "status" : "In Progress",
+    "video" : ""
+  },
+  "I01244" : {
+    "id" : "I01244",
+    "body" : "Strategies for refracturing to arrest production decline, provide methodology for zone selection, and improve EUR. Provision of economic balance between infill drilling and refracturing. Opportunities for reduction of operational costs in the low oil price scenario.",
+    "lon" : "-29",
+    "small image" : "I01244_sml.png",
+    "sponsorship" : "1",
+    "contact" : "Dr. Xiaochun “Jacob” Jin, Dr. John McLennan",
+    "title" : "Optimizing Refracturing & Infill Drilling",
+    "price" : "$TBDk USD",
+    "lat" : "-53",
+    "pdf" : "Optimize_Refracturing_Infill_Drilling_I_01244",
+    "status" : "In Development",
+    "video" : ""
+  },
+  "I01229" : {
+    "id" : "I01229",
+    "body" : "Value\nRecalibration of the stratigraphy and evaluation of petroleum systems of the Central & North Atlantic Ocean conjugate margin.\nTimely opportunity to leverage a carefully selected array of 35 wells: COST – Continental Offshore Stratigraphic Test plus commercial wells and DSDP-ODP-IODP sites, recommended by EGI corporate members. Ø Both in-house and affiliate scientist expertise and partnerships with 12 international institutes.\nUnique world class capability in high resolution chronostratigraphy via composite standards calibrated to the 2012 time scale, and novel analytical techniques in petroleum geochemistry (e.g., HAWK pyrolysis).\nArcGIS delivery platform.\nKey Deliverables\n1. Multi-disciplinary age and paleoenvironmental interpretation: Annotated graphic correlation charts for each study well. 2. Chronostratigraphic cross-sections: illustrating regional chronostratigraphy and distribution of biofacies. 3. Integrated sedimentology data and paleofacies maps for key time horizons relevant to major source rock intervals. 4. Source rock characterization for richness, maturity, kerogen type, and kinetics 5. Source (kerogen) type, depositional environment, and petroleum systems integration 6. Anhydrous pyrolysis kinetic values for elected source intervals 7. Progression onshore on conjugate margins in terms of uplift amount\/ uplift rate and timing using apatite fission track analysis. This is key to understanding sediment pathways and provenance. ",
+    "lon" : "-41.3541789",
+    "small image" : "I01229_sml.png",
+    "sponsorship" : "1",
+    "contact" : "Dr. Sudeep Kanungo, Mr. David Thul, Dr. Eiichi Setoyama",
+    "title" : "EGI Oceans – C & N Atlantic Petroleum Systems",
+    "price" : "$180K USD Total\n$60k USD – Upon signing\n$60k USD – Start of year 2\n$60k USD – Start of year 3",
+    "lat" : "32.42128289",
+    "pdf" : "EGIOceans_C&N_Atlantic_I_01229",
+    "status" : "In Progress",
+    "video" : ""
+  },
+  "I01231" : {
+    "id" : "I01231",
+    "body" : "A\t detailed understanding of thermal histories of individual oceanic crust tiles, each of them accreted over a 5 Ma-long interval (this understanding includes identification of any extra thermal events added on top of each tile’s cooling history);\n\t\tA detailed understanding of the radiator effect of the thinner oceanic crust associated with the tile-dividing oceanic fracture zones; and\n\t\tA definition of regions affected by a dysoxic event, done for several selected stratigraphies (this definition includes both well-derived analytical proofs for individual tiles and regional extrapolations).\n\t\tA scientific and competitive advantage for EGI Corporate Associates exploring in this frontier region.\n\t\tA comprehensive exploration manual for understanding the thermal history of the Central and North Atlantic region that can be used for other oceanic basin settings worldwide by EGI Corporate Associates not currently active in exploring this region.\n\t1.\tA present-day map of oceanic crust tiles color-coded according to their accretion speed category (ultra-slow, slow, intermediate and fast).\n\t2.\tMap of zonal representation of oceanic fracture zones including their individual main troughs and ridges.\n\t3.\tMap of oceanic crust tiles with anomalous thermal histories including hyperlinked texts describing the reasons for their abnormality.\n\t4.\tAttempted map of radiator effect of thinned oceanic crust of oceanic fracture zones;\n\t5.\tRaw maps of specific tiles proving the existence of dysoxic event for a set of chosen stratigraphic intervals.\n\t6.\tExtrapolated maps of rough areal extents of identified dysoxic events made for each of the chosen stratigraphic intervals.\n",
+    "lon" : "-32.59970759",
+    "small image" : "I01231_sml.png",
+    "sponsorship" : "1",
+    "contact" : "Dr. Michal Nemcok",
+    "title" : "EGI Oceans – Oceanic Crust",
+    "price" : "$74K USD",
+    "lat" : "40.53914637",
+    "pdf" : "EGIOceans_i01231_Oceanic_Crust_D_p",
+    "status" : "In Development",
+    "video" : ""
+  },
+  "I01022_2" : {
+    "id" : "I01022_2",
+    "body" : "The ongoing research on petroleum systems at sheared margins has created new models, ideas and results that are breaking down barriers and opening up new and previously overlooked frontier regions. Phase 1 proved that sheared margins are an order of magnitude more complex than extensional margins. Instead of being similar everywhere along the strike of the margin, (a well-understood characteristic of extensional margins) sheared margins have well defined spatial and temporal distribution parameters. This fact makes each area locally unique from adjacent locales associated with the same margin.\nPhase 2 incorporates all basins of sheared margins (margin segments) worldwide, with special emphasis on the Equatorial Atlantic margin segments, the East Indian margin segments, selected South Atlantic margin segments, selected East African margins segments and selected West Australian margin segments.\nThe strategy is to define the significant controlling mechanisms and controlling factors to improve hydrocarbon exploration models available for sheared margins. We aim to develop a new and better appreciation of the factors controlling structural architecture and basin development in sheared margin settings (Module 1). Synthesis of this knowledge combined with Phase 1 insights will be used to tackle the mechanisms and factors controlling depositional systems of sheared margin settings (Module 2). Both modules 1 and 2 feed into development of the thermal models characterizing the sheared margins affected by local magmatism, lower crustal flow, and development of models of systematics of the source rock maturation history patterns typical for sheared margins.",
+    "lon" : "-5",
+    "small image" : "I01022_2_sml.png",
+    "sponsorship" : "1",
+    "contact" : "Dr. Michal Nemcok, Dr. Júlia Kotulová",
+    "title" : "Petroleum Systems of Sheared Margins, Phase 2",
+    "price" : "$74k USD",
+    "lat" : "-53",
+    "pdf" : "Petroleum_Systems_Sheared_Margins_Ph2_I_01022_2",
+    "status" : "In Development",
+    "video" : ""
+  },
+  "I01230" : {
+    "id" : "I01230",
+    "body" : "Value\nA detailed understanding of the Salton Sea-Gulf of California region for thermal and hydrocarbon development history as a function of pull-apart basin maturity sponsors creating a competitive advantage for sponsors.\nCreate an exploration manual for both regional exploration of Mexico and for companies focused on pull-apart settings around the world\nUltimately, this work will lead to a true understanding of the continuum that exists between petroleum systems in pull-apart basins at different phases of their evolution from the initial stretching to sea-floor spreading.\n\nKey Deliverables\n1. Set of present-day thermal regime maps in GIS format\n2. Crustal thickness map in GIS format\n3. Fault map in GIS format\n4. Magmatic product distribution map in GIS format\n5. Geothermal field distribution map in GIS format\n6. Regional facies distribution maps for pull-apart fill in GIS format\n7. Color-coded maps showing the distribution of various properties of source, reservoir and seal rocks of the pull-apart fill in GIS format\n8. Gravity maps of different types (free-air, Bouguer, Isostatic residual anomaly, 1st vertical derivative, total horizontal derivative, several band passes of the Isostatic residual anomaly map) and magnetic maps (using gravity and magnetic data from existing sources)\n9. Map of the main sediment entry points into the pull-apart basins – all in GIS\n10. Set of 1D PetroMod source rock maturation and expulsion history models, characterizing individual pull-apart basins during their evolution from initial phases of crustal thinning to sea-floor spreading. Submitted in both exported bitmap and original PetroMod file formats. Each chapter of the report will include a short text. The main focus of the report will be to evaluate the factors controlling the thermal regime and hydrocarbon development in a progressively developing pull-apart basin through the seafloor spreading stage. ArcGIS™ format databases with full documentation will be included.",
+    "lon" : "-110.3109588",
+    "small image" : "I01230_sml.png",
+    "sponsorship" : "1",
+    "contact" : "Dr. Michal Nemcok, Mr. David Thul, Dr. Joseph Moore",
+    "title" : "Frontier Basins of Mexico Region 1: Gulf of California",
+    "price" : "$72k USD",
+    "lat" : "28.11445847",
+    "pdf" : "Frontier_Basins_Mexico_Gulf_of_CA_I_01230",
+    "status" : "In Development",
+    "video" : ""
+  },
+  "I00980_2" : {
+    "id" : "I00980_2",
+    "body" : "Enhance the geologic understanding of the most promising marine and lacustrine shales from four primary basins\/ regions (Sichuan (key marine gas-producing basin), Yangtze Platform outside Sichuan (area of interest and bidding blocks), Ordos (key lacustrine oil and marine-transitional gas-producing basin), and Bohai Bay (key lacustrine oil- producing basin) by acquiring new samples and expanding the tests performed on the new and existing samples. Laboratory evaluation of marine and lacustrine shales using traditional assessment tools and new testing tools, procedures, and measurements to characterize geochemistry, mineralogy, petrophysical properties, gas and\/or oil content and brittle response\/“fracability” of Chinese shales, especially for the lacustrine shales.\n-Catalog characteristics from seismic reflection surveys, well logs, image logs, mineralogy, and geomechanical properties (where possible) for typical shale wells;\n\t\t-Correlate geologic properties and geomechanical measurements; e.g., relationships between mineralogy, rock fabric, storage capacity, and geomechanical parameters.\n\t\t-Conduct representative hydraulic fracturing simulations\/fracture propagation forecasts for representative marine and lacustrine shales. Interrelate these with geological characteristics. The goal is to attempt to establish differences between vertical and aerial fracture growth behavior and fracture potential\/morphology (natural and induced) for various marine and lacustrine shales;\n\t\t-Develop relationships (between similar and dissimilar shales) employing the database that has\/is being developed to aid in evaluation and inference of various shale properties;\n\t\t-Provide detailed quantitative and qualitative comparisons between properties of U.S. producing marine shales and China’s most promising marine and lacustrine shales to understand the merits and potential downsides;\n\t\t-Expand the database by including new core and outcrop sample testing and revise interpretations that will guide the appraisal and exploitation of Chinese shales. ",
+    "lon" : "111.795411",
+    "small image" : "I00980_2_sml.png",
+    "sponsorship" : "1",
+    "contact" : "Dr. Shu Jiang",
+    "layover" : [
+      [
+        [
+          "72.89214621",
+          "39.71303746"
+        ],
+        [
+          "86.47812851",
+          "48.28807421"
+        ],
+        [
+          "95.70834692",
+          "42.83141122"
+        ],
+        [
+          "95.83374871",
+          "41.7539658"
+        ],
+        [
+          "92.60354284",
+          "41.50476214"
+        ],
+        [
+          "92.87162384",
+          "39.78190931"
+        ],
+        [
+          "99.66192964",
+          "37.16092205"
+        ],
+        [
+          "104.5549993",
+          "37.23850149"
+        ],
+        [
+          "104.5903186",
+          "41.79746835"
+        ],
+        [
+          "114.4573013",
+          "41.36796076"
+        ],
+        [
+          "123.7601622",
+          "50.15628687"
+        ],
+        [
+          "130.394657",
+          "49.09327965"
+        ],
+        [
+          "128.4726194",
+          "44.24736289"
+        ],
+        [
+          "117.8159594",
+          "33.96138534"
+        ],
+        [
+          "123.7540601",
+          "33.0775046"
+        ],
+        [
+          "122.3841728",
+          "27.19774101"
+        ],
+        [
+          "120.8119239",
+          "25.44521913"
+        ],
+        [
+          "101.3201617",
+          "26.75474419"
+        ],
+        [
+          "101.0927172",
+          "33.50637418"
+        ],
+        [
+          "78.77084971",
+          "35.33938331"
+        ],
+        [
+          "72.89214621",
+          "39.71303746"
+        ]
+      ]
+    ],
+    "title" : "China Shale, Phase 2",
+    "price" : "$75k USD",
+    "lat" : "32.232003",
+    "pdf" : "China_Shale_Gas_Oil_Ph2_I_00980_2",
+    "status" : "Completed",
+    "video" : ""
+  },
+  "I01243" : {
+    "id" : "I01243",
+    "body" : "This project aims to provide a detailed analysis of kerogen behavior under maturation with regards to resource specific parameters that are required for a robust play fairway prediction.",
+    "lon" : "0",
+    "small image" : "I01243_sml.png",
+    "sponsorship" : "1",
+    "contact" : "Dr. Matthias Greb, Dr. David J. Thul",
+    "title" : "Improved Kinetic Models for Resource Play Assessment",
+    "price" : "$75k USD",
+    "lat" : "-47",
+    "pdf" : "Improved_Kinetic_Models_Resource_Play_I_01243",
+    "status" : "In Development",
+    "video" : ""
+  },
+  "I01242" : {
+    "id" : "I01242",
+    "body" : "Recent estimates of unconventional resources in the Karoo Basin, suggest recoverable shale gas in-place from ~30 Tcf to ~500 Tcf (i.e. Decker and Marot, 2012). Potentially large gas reserves; coupled with the present energy shortfall in South Africa, has led to shale gas becoming an attractive new energy prospect, with much of the renewed exploration focus falling on the Karoo Basin shales.\nThe project is designed to evaluate the gas potential of key carbonaceous shales within the Ecca and Dwyka Groups of the Karoo Basin; with integrated results used to define and evaluate the fundamental factors important to shale hydrocarbon potential in the Karoo Basin. A subsequent comparison of key parameters and results to analogous basins in North America will be used to identify areas with the greatest potential to viably host and produce shale gas within the Karoo.",
+    "lon" : "26.503416",
+    "small image" : "I01242_sml.png",
+    "sponsorship" : "1",
+    "contact" : "Dr. Bryony Richards-McClung",
+    "layover" : [
+      [
+        [
+          "20.1765396",
+          "-30.6678799"
+        ],
+        [
+          "20.79409092",
+          "-30.21142893"
+        ],
+        [
+          "21.76069299",
+          "-30.13087875"
+        ],
+        [
+          "23.31799632",
+          "-29.67442778"
+        ],
+        [
+          "23.64019701",
+          "-29.37907714"
+        ],
+        [
+          "23.82814741",
+          "-29.05687645"
+        ],
+        [
+          "23.80129735",
+          "-29.29852697"
+        ],
+        [
+          "24.1503481",
+          "-29.80867806"
+        ],
+        [
+          "24.71419931",
+          "-29.51332743"
+        ],
+        [
+          "24.82159954",
+          "-28.89577611"
+        ],
+        [
+          "24.84844959",
+          "-28.5198753"
+        ],
+        [
+          "24.84844959",
+          "-28.27822479"
+        ],
+        [
+          "25.33175063",
+          "-27.98287416"
+        ],
+        [
+          "25.94930195",
+          "-27.49957312"
+        ],
+        [
+          "26.16410241",
+          "-27.17737243"
+        ],
+        [
+          "26.19095246",
+          "-26.90887186"
+        ],
+        [
+          "26.51315316",
+          "-26.8820218"
+        ],
+        [
+          "26.96960413",
+          "-26.77462157"
+        ],
+        [
+          "27.21125465",
+          "-26.6940714"
+        ],
+        [
+          "27.47975522",
+          "-26.61352123"
+        ],
+        [
+          "27.80195591",
+          "-26.53297105"
+        ],
+        [
+          "28.28525695",
+          "-26.53297105"
+        ],
+        [
+          "28.58060758",
+          "-26.61352123"
+        ],
+        [
+          "28.76855798",
+          "-26.55982111"
+        ],
+        [
+          "28.71485786",
+          "-26.3181706"
+        ],
+        [
+          "28.47320735",
+          "-26.3181706"
+        ],
+        [
+          "28.33895706",
+          "-25.9959699"
+        ],
+        [
+          "29.1981589",
+          "-26.02281996"
+        ],
+        [
+          "29.62775982",
+          "-25.78116945"
+        ],
+        [
+          "30.29901126",
+          "-25.51266887"
+        ],
+        [
+          "30.51381171",
+          "-25.91541973"
+        ],
+        [
+          "30.70176212",
+          "-26.21077036"
+        ],
+        [
+          "30.48696166",
+          "-26.34502065"
+        ],
+        [
+          "30.40641149",
+          "-26.64037128"
+        ],
+        [
+          "30.32586131",
+          "-26.90887186"
+        ],
+        [
+          "30.32586131",
+          "-27.20422249"
+        ],
+        [
+          "30.40641149",
+          "-27.44587301"
+        ],
+        [
+          "30.648062",
+          "-27.52642318"
+        ],
+        [
+          "30.94341263",
+          "-27.44587301"
+        ],
+        [
+          "30.94341263",
+          "-27.25792261"
+        ],
+        [
+          "31.15821309",
+          "-27.25792261"
+        ],
+        [
+          "31.26561332",
+          "-27.39217289"
+        ],
+        [
+          "31.21191321",
+          "-27.68752353"
+        ],
+        [
+          "31.21191321",
+          "-27.9560241"
+        ],
+        [
+          "31.10451298",
+          "-28.46617519"
+        ],
+        [
+          "30.8360124",
+          "-28.86892605"
+        ],
+        [
+          "30.56751183",
+          "-29.37907714"
+        ],
+        [
+          "30.59436189",
+          "-29.62072766"
+        ],
+        [
+          "30.16476097",
+          "-30.13087875"
+        ],
+        [
+          "29.84256028",
+          "-30.50677956"
+        ],
+        [
+          "30.05736074",
+          "-30.6678799"
+        ],
+        [
+          "30.05736074",
+          "-30.99008059"
+        ],
+        [
+          "29.70830999",
+          "-31.20488105"
+        ],
+        [
+          "29.46665947",
+          "-31.58078185"
+        ],
+        [
+          "30.05736074",
+          "-31.76873226"
+        ],
+        [
+          "29.92311045",
+          "-32.19833318"
+        ],
+        [
+          "29.54720965",
+          "-32.52053386"
+        ],
+        [
+          "28.92965832",
+          "-32.89643467"
+        ],
+        [
+          "28.25840689",
+          "-33.43343582"
+        ],
+        [
+          "28.01675637",
+          "-33.72878645"
+        ],
+        [
+          "27.10385442",
+          "-34.31948771"
+        ],
+        [
+          "26.4863031",
+          "-34.56113823"
+        ],
+        [
+          "26.19095246",
+          "-34.15838737"
+        ],
+        [
+          "25.94930195",
+          "-33.43343582"
+        ],
+        [
+          "25.57340114",
+          "-33.3797357"
+        ],
+        [
+          "24.49939885",
+          "-33.29918553"
+        ],
+        [
+          "24.1503481",
+          "-33.16493524"
+        ],
+        [
+          "22.700445",
+          "-33.1917853"
+        ],
+        [
+          "21.46534236",
+          "-33.62138622"
+        ],
+        [
+          "20.36449",
+          "-33.62138622"
+        ],
+        [
+          "19.37103787",
+          "-33.54083605"
+        ],
+        [
+          "19.37103787",
+          "-32.38628358"
+        ],
+        [
+          "19.39788793",
+          "-31.44653157"
+        ],
+        [
+          "20.1765396",
+          "-30.6678799"
+        ]
+      ]
+    ],
+    "title" : "Karoo Basin Unconventional Characterization",
+    "price" : "$80k USD",
+    "lat" : "-31.256415",
+    "pdf" : "Karoo_Basin_Reservoir_Characterization_I_01242",
+    "status" : "In Development",
+    "video" : ""
+  },
+  "I01216" : {
+    "id" : "I01216",
+    "body" : "Value\nØ New core sample analyses of selected intervals from 20 DSDP-ODP sites in\nthe South Atlantic with ArcGIS delivery in November 2015\nØ 20 key sites from the South Atlantic conjugate margins (South America and\nwestern Africa), including one site (DSDP 249) from East Africa.\nØ Concurrent chronostratigraphic, paleoenvironmental and geochemical\nanalysis of up to 200 samples from critically identified gaps.\nØ Source rock related Cretaceous and Jurassic intervals for Hydrocarbon\nAnalyzer with Kinetics (HAWK™) geochemical analyses; quality control and\nnew data generation using modern HAWK™ instrumentation.\nØ At least 1000 new data points (from the 200 samples) resulting from\nchronostratigraphy and geochemical measurements will be added to the\nregional synthesis dataset\nDeliverables\n1. Improved age re-synthesis: Based on interpretations via new sample\nacquisition and analysis that have indicated some large shifts, especially in\nthe Falkland sector.\n2. Paleoenvironmental interpretations, and data-permitting, paleofacies\nmaps for selected intervals, e.g., Tithonian, early Aptian, mid-to late Albian.\n3. Improved chronostratigraphic cross-sections will illustrate the regional\nchronostratigraphy and distribution of biofacies, data permitting.\n4. Source rock characterization for richness, maturity, kerogen type, and\nkinetics as well as petroleum systems integration\n5. Geochemical logs: Posted depth standardized data for geochemical log for\nage-depth interpretation of results.\n6. Anhydrous pyrolysis kinetic values for elected source intervals",
+    "lon" : "-13.51448513",
+    "small image" : "I01216_sml.png",
+    "sponsorship" : "1",
+    "contact" : "Dr. Sudeep Kanungo, Mr. David Thul,  Dr. Eiichi Setoyama, Mr. Matthias Greb",
+    "title" : "EGI Oceans – South Atlantic",
+    "price" : "$88K USD",
+    "lat" : "-33.25184087",
+    "pdf" : "EGIOceans_So_Atlantic_I_01216",
+    "status" : "In Progress",
+    "video" : ""
+  },
+  "I01073" : {
+    "id" : "I01073",
+    "body" : "It is evident that liquid recoveries, even under reasonably ideal conditions are only on the order of 10%. Improving these recoveries is extremely important for economic sustainability of producing liquids from shales. Our research in Phase 1 and 2 of Liquids from Shales (EGI reports I 00973) also showed that developing a comprehensive understanding of underlying processes and optimization requires integration of robust geological modeling, hydraulic fracturing representation, and accurate simulation of the stimulated reservoir volume.\nThis next generation of research is designed to develop tools for optimizing recovery of fluids in shales and identify improved recovery processes. Project tasks will be focused toward understanding creation, characterization and effect of stimulated reservoir volumes on improved liquid recoveries in unconventional reservoirs. Research will also be performed on understanding the overall logistics of development – hydraulic fracture spacing, well spacing, gas and water injection possibilities, for secondary recovery.",
+    "lon" : "20",
+    "small image" : "I01073_sml.png",
+    "sponsorship" : "1",
+    "contact" : "Dr. Milind Deo",
+    "title" : "Improved Liquid Recovery in Shales",
+    "price" : "$50k USD",
+    "lat" : "-47",
+    "pdf" : "Improved_Liquid_Recovery_in_Shales_I_01073",
+    "status" : "In Progress",
+    "video" : ""
+  },
+  "I01214" : {
+    "id" : "I01214",
+    "body" : "With the current focus on liquids-rich shale plays in North America and the global importance of gas condensate plays, there is an increased need to develop reservoir engineering methods to analyze production data and to develop optimal methods of producing such reservoirs. Without careful planning a gas condensate reservoir can choke on its own production. Drawdown below the dew point of the reservoir fluid can result in condensate liquid dropout, particularly close to the wellbore, the sand face or the fracture face. The increased liquid saturation leads to reduced permeability to gas and, in some cases, significant choking back of the gas production. The impact on well production is most significant for shale reservoirs where most of the total pressure drop is in the formation. In recent EGI research projects (Shale Gas Production Analysis (SGPA) Phase 1 and Phase 2), we have developed a mathematical model of the gas production process from shales. In Phase 2 of that project we explored the applicability of the ideas developed in Phase 1 to production of saturated oil from shale reservoirs. The model developed provided no more than a first pass at analyzing the complex processes at play in this two-phase production system. Nevertheless the results were sufficiently encouraging that further development is warranted. In this project proposal we suggest that, first, an extension to gas condensate plays should be considered and second, a more detailed and rigorous mathematical analysis is merited.",
+    "lon" : "15",
+    "small image" : "I01214_sml.png",
+    "sponsorship" : "1",
+    "contact" : "Dr. Ian Walton",
+    "title" : "Shale Liquids Production Analysis",
+    "price" : "$52k USD",
+    "lat" : "-53",
+    "pdf" : "Shale_Liquids_Production_Analysis_I_01214",
+    "status" : "In Development",
+    "video" : ""
+  },
+  "I01005_2" : {
+    "id" : "I01005_2",
+    "body" : "In addition to delivering the technical information in Phase 1, a further outcome was the signing of significant technical cooperation agreements with various governmental agencies and educational institutions in Colombia, Peru, Argentina and Brazil. These agreements allow for the exchange of technical expertise and data that includes previous interpretations, wells, seismic, samples and reservoir information.\nThe over-riding objective of Phase 2 is to comprehensively build on the knowledge, database, methodology, experience, contacts and signed agreements of Phase 1. It is the intention to establish an unparalleled understanding of shale resources in South America, enabling sponsors to make well informed exploration and exploitation decisions. Phase 2 research will follow two major avenues.\n\t-To collect a significant number of reservoir-specific core samples to enable extensive testing and measurements. It will also include an integrated interpretation involving seismic and well data.\n\t-To use the experience, methodologies and relationships developed in Phase 1, to evaluate an additional set of basins. ",
+    "lon" : "-57.309968",
+    "small image" : "I01005_2_sml.png",
+    "sponsorship" : "1",
+    "contact" : "Mr. David Thul, Dr. Raymond Levey",
+    "layover" : [
+      [
+        [
+          "-47.64694466",
+          "-11.9969539"
+        ],
+        [
+          "-47.5163584",
+          "-9.878564136"
+        ],
+        [
+          "-47.7543045",
+          "-8.748320158"
+        ],
+        [
+          "-48.17071017",
+          "-7.558589655"
+        ],
+        [
+          "-48.7060889",
+          "-6.130913051"
+        ],
+        [
+          "-49.4199272",
+          "-4.822209498"
+        ],
+        [
+          "-49.4199272",
+          "-3.810938571"
+        ],
+        [
+          "-49.12249458",
+          "-2.740181118"
+        ],
+        [
+          "-48.28968322",
+          "-2.323775442"
+        ],
+        [
+          "-47.63533145",
+          "-2.145315867"
+        ],
+        [
+          "-46.92149314",
+          "-2.145315867"
+        ],
+        [
+          "-46.02919527",
+          "-2.145315867"
+        ],
+        [
+          "-44.06613994",
+          "-2.561721543"
+        ],
+        [
+          "-43.47127469",
+          "-2.561721543"
+        ],
+        [
+          "-42.75743638",
+          "-2.561721543"
+        ],
+        [
+          "-41.98411156",
+          "-2.799667643"
+        ],
+        [
+          "-40.97284063",
+          "-3.156586794"
+        ],
+        [
+          "-40.25900233",
+          "-3.870425096"
+        ],
+        [
+          "-39.42619098",
+          "-4.762722973"
+        ],
+        [
+          "-39.0097853",
+          "-5.952453476"
+        ],
+        [
+          "-39.18824488",
+          "-7.320643554"
+        ],
+        [
+          "-39.9615697",
+          "-8.926779733"
+        ],
+        [
+          "-40.49694843",
+          "-9.640618035"
+        ],
+        [
+          "-40.91335411",
+          "-10.59240244"
+        ],
+        [
+          "-40.49694843",
+          "-11.36572726"
+        ],
+        [
+          "-39.7236236",
+          "-11.36572726"
+        ],
+        [
+          "-38.71235267",
+          "-11.36572726"
+        ],
+        [
+          "-37.52262217",
+          "-11.84161947"
+        ],
+        [
+          "-37.3441626",
+          "-12.67443082"
+        ],
+        [
+          "-37.52262217",
+          "-14.16159395"
+        ],
+        [
+          "-38.295947",
+          "-15.11337835"
+        ],
+        [
+          "-39.30721793",
+          "-15.7082436"
+        ],
+        [
+          "-42.75340214",
+          "-16.48156843"
+        ],
+        [
+          "-44.06613994",
+          "-17.1359202"
+        ],
+        [
+          "-45.19638392",
+          "-17.3738663"
+        ],
+        [
+          "-46.32662789",
+          "-17.3738663"
+        ],
+        [
+          "-47.57584492",
+          "-16.54105495"
+        ],
+        [
+          "-47.93276407",
+          "-15.58927055"
+        ],
+        [
+          "-47.81379102",
+          "-14.22108047"
+        ],
+        [
+          "-47.64694466",
+          "-11.9969539"
+        ]
+      ],
+      [
+        [
+          "-72.02480676",
+          "-47.56357327"
+        ],
+        [
+          "-68.93998655",
+          "-33.4900116"
+        ],
+        [
+          "-66.19512729",
+          "-33.4900116"
+        ],
+        [
+          "-65.42180247",
+          "-34.03009334"
+        ],
+        [
+          "-64.84759692",
+          "-34.80226937"
+        ],
+        [
+          "-64.82618231",
+          "-35.52603451"
+        ],
+        [
+          "-66.19512729",
+          "-37.42082528"
+        ],
+        [
+          "-66.90896559",
+          "-38.90798841"
+        ],
+        [
+          "-67.50383085",
+          "-40.69258416"
+        ],
+        [
+          "-67.56331737",
+          "-42.59615297"
+        ],
+        [
+          "-67.56331737",
+          "-43.66691042"
+        ],
+        [
+          "-66.84947907",
+          "-44.67818135"
+        ],
+        [
+          "-65.71923509",
+          "-44.97561397"
+        ],
+        [
+          "-65.15097598",
+          "-45.22641969"
+        ],
+        [
+          "-64.88642374",
+          "-46.28431752"
+        ],
+        [
+          "-65.00539679",
+          "-47.23610193"
+        ],
+        [
+          "-65.89769467",
+          "-47.56357327"
+        ],
+        [
+          "-72.02480676",
+          "-47.56357327"
+        ]
+      ],
+      [
+        [
+          "-77.7949997",
+          "6.956122481"
+        ],
+        [
+          "-76.24835004",
+          "8.80020476"
+        ],
+        [
+          "-74.88015996",
+          "9.692502637"
+        ],
+        [
+          "-73.74991599",
+          "9.930448738"
+        ],
+        [
+          "-72.67915853",
+          "9.930448738"
+        ],
+        [
+          "-71.07320721",
+          "9.766763819"
+        ],
+        [
+          "-69.16945355",
+          "8.086366458"
+        ],
+        [
+          "-68.21766915",
+          "7.075095531"
+        ],
+        [
+          "-67.68229042",
+          "4.457688425"
+        ],
+        [
+          "-67.68229042",
+          "1.780794793"
+        ],
+        [
+          "-68.15818262",
+          "-0.003800961"
+        ],
+        [
+          "-69.84163177",
+          "-1.371208296"
+        ],
+        [
+          "-72.49397163",
+          "-1.540884514"
+        ],
+        [
+          "-79.87702808",
+          "-0.241747062"
+        ],
+        [
+          "-80.23394723",
+          "2.256686994"
+        ],
+        [
+          "-79.81754155",
+          "4.160255799"
+        ],
+        [
+          "-78.92524367",
+          "5.468959352"
+        ],
+        [
+          "-77.7949997",
+          "6.956122481"
+        ]
+      ],
+      [
+        [
+          "-66.13564077",
+          "-22.07330179"
+        ],
+        [
+          "-65.95718119",
+          "-20.58613866"
+        ],
+        [
+          "-65.54077552",
+          "-19.87230036"
+        ],
+        [
+          "-64.58899111",
+          "-18.98000248"
+        ],
+        [
+          "-63.04234146",
+          "-18.86102943"
+        ],
+        [
+          "-61.79312443",
+          "-18.86102943"
+        ],
+        [
+          "-60.60339393",
+          "-19.33692163"
+        ],
+        [
+          "-59.88955563",
+          "-19.93178689"
+        ],
+        [
+          "-58.99725775",
+          "-20.34819256"
+        ],
+        [
+          "-58.6403386",
+          "-20.28870604"
+        ],
+        [
+          "-57.86701377",
+          "-19.93178689"
+        ],
+        [
+          "-57.27214852",
+          "-19.69384078"
+        ],
+        [
+          "-56.20139107",
+          "-19.27743511"
+        ],
+        [
+          "-55.19012014",
+          "-19.15846206"
+        ],
+        [
+          "-54.35730879",
+          "-19.15846206"
+        ],
+        [
+          "-53.58398396",
+          "-19.63435426"
+        ],
+        [
+          "-53.17716213",
+          "-20.25448028"
+        ],
+        [
+          "-53.10809176",
+          "-21.59740959"
+        ],
+        [
+          "-53.40552439",
+          "-22.01381527"
+        ],
+        [
+          "-55.04303992",
+          "-24.20905755"
+        ],
+        [
+          "-56.14190454",
+          "-26.5942777"
+        ],
+        [
+          "-54.77371446",
+          "-27.5460621"
+        ],
+        [
+          "-52.57271303",
+          "-28.55733303"
+        ],
+        [
+          "-50.96657686",
+          "-30.10398268"
+        ],
+        [
+          "-51.01316755",
+          "-31.67660626"
+        ],
+        [
+          "-52.14408724",
+          "-33.24886046"
+        ],
+        [
+          "-53.37332904",
+          "-34.95780638"
+        ],
+        [
+          "-56.73676979",
+          "-34.95780638"
+        ],
+        [
+          "-60.3059613",
+          "-34.95780638"
+        ],
+        [
+          "-61.13877265",
+          "-33.67317419"
+        ],
+        [
+          "-61.2577457",
+          "-32.89984937"
+        ],
+        [
+          "-61.2577457",
+          "-31.29371319"
+        ],
+        [
+          "-61.49569181",
+          "-30.04449616"
+        ],
+        [
+          "-61.49569181",
+          "-28.49784651"
+        ],
+        [
+          "-61.79312443",
+          "-27.66503515"
+        ],
+        [
+          "-62.98285493",
+          "-27.36760253"
+        ],
+        [
+          "-64.29155849",
+          "-27.0701699"
+        ],
+        [
+          "-65.24334289",
+          "-26.53479118"
+        ],
+        [
+          "-65.60026204",
+          "-25.82095288"
+        ],
+        [
+          "-65.75991242",
+          "-24.49530401"
+        ],
+        [
+          "-66.13564077",
+          "-22.07330179"
+        ]
+      ],
+      [
+        [
+          "-67.3848578",
+          "-33.4900116"
+        ],
+        [
+          "-66.19512729",
+          "-33.4900116"
+        ],
+        [
+          "-65.42180247",
+          "-34.03009334"
+        ],
+        [
+          "-64.84759692",
+          "-34.80226937"
+        ],
+        [
+          "-65.17531594",
+          "-36.00927905"
+        ],
+        [
+          "-66.19512729",
+          "-37.42082528"
+        ],
+        [
+          "-66.90896559",
+          "-38.90798841"
+        ],
+        [
+          "-67.50383085",
+          "-40.69258416"
+        ],
+        [
+          "-67.54521025",
+          "-42.01672519"
+        ],
+        [
+          "-67.56331737",
+          "-43.66691042"
+        ],
+        [
+          "-66.84947907",
+          "-44.67818135"
+        ],
+        [
+          "-65.71923509",
+          "-44.97561397"
+        ],
+        [
+          "-65.15097598",
+          "-45.22641969"
+        ],
+        [
+          "-64.88642374",
+          "-46.28431752"
+        ],
+        [
+          "-65.00539679",
+          "-47.23610193"
+        ],
+        [
+          "-65.89769467",
+          "-47.56357327"
+        ],
+        [
+          "-68.75304787",
+          "-47.56357327"
+        ],
+        [
+          "-69.0504805",
+          "-50.80529344"
+        ],
+        [
+          "-69.0504805",
+          "-51.16221259"
+        ],
+        [
+          "-68.63407482",
+          "-52.64937571"
+        ],
+        [
+          "-68.51510177",
+          "-53.24424097"
+        ],
+        [
+          "-68.5745883",
+          "-54.55294452"
+        ],
+        [
+          "-68.87202092",
+          "-55.62370197"
+        ],
+        [
+          "-69.2884266",
+          "-56.21856722"
+        ],
+        [
+          "-70.35918405",
+          "-56.51599985"
+        ],
+        [
+          "-71.19199541",
+          "-56.45651333"
+        ],
+        [
+          "-72.14377981",
+          "-55.32626935"
+        ],
+        [
+          "-72.50069896",
+          "-53.77961969"
+        ],
+        [
+          "-72.44121243",
+          "-52.11399699"
+        ],
+        [
+          "-72.38172591",
+          "-50.21042818"
+        ],
+        [
+          "-72.02480676",
+          "-47.56357327"
+        ],
+        [
+          "-68.93998655",
+          "-33.4900116"
+        ],
+        [
+          "-67.3848578",
+          "-33.4900116"
+        ]
+      ]
+    ],
+    "title" : "South American Shales, Phase 2",
+    "price" : "$156k USD",
+    "lat" : "-24.006326",
+    "pdf" : "South_American_Shales_Ph2_I_01005_2",
+    "status" : "In Progress",
+    "video" : ""
+  },
+  "Q42014" : {
+    "id" : "Q42014",
+    "body" : "There are more than 10 hydrocarbon fields discovered on oceanic crust in the Gulf of Mexico and Gulf of Guinea. Current academic research indicates that there are several types of oceanic crust and each of them has very different thermodynamic history.\nWe are preparing a systematic manual on exploration in rift and passive margin regions and in the process improve the understanding of petroleum systems in these settings. Our new internal research is being merged with the results of current literature and we are striving to create a 500-page book titled “Rifts and Passive Margins— Structural Architecture, Thermal Regimes and Petroleum Systems” published by Cambridge University Press.\nOur target is to deliver our comprehensive manual by mid– to late 2013. The anticipated results are highly relevant to future successful exploration, the development of a new generation of exploration geologists, and enhanced internal training programs for oil companies.\t",
+    "lon" : "0",
+    "small image" : "Q42014_sml.png",
+    "sponsorship" : "1",
+    "contact" : "Dr. Michal Nemcok",
+    "title" : "Rifts & Passive Margins",
+    "price" : "$15k USD",
+    "lat" : "-47",
+    "pdf" : "Rifts_and_Passive_Margins_P_p",
+    "status" : "In Progress",
+    "video" : ""
+  },
+  "I01163" : {
+    "id" : "I01163",
+    "body" : "Compared to the U.S. Gulf of Mexico, West Africa margins, and the South Atlantic margin, the South China Sea (SCS) is an frontier exploration region. Based on Energy Information Administration (EIA) and U.S. Geological Survey (USGS) estimates, the SCS contains proven or probable reserves of approximately 11 billion barrels of oil (bbl) and 190 trillion cubic feet (Tcf ) of gas and may have an additional, undiscovered 12 bbl of oil and 160 Tcf of gas resources.\nRecent discoveries in Yinggehai Basin and Pearl River Mouth Basin located in the northern continental margin, Cuu Long in western SCS, and Reed Bank in southeastern SCS have spurred exploration efforts in the region. The current exploration status differs from basin to basin due to the variety of geologic settings, and a lack of regional studies to characterize the differences in those basins. The study objectives are to understand the regional tectonic and depositional evolution and petroleum systems in SCS.",
+    "lon" : "115.126823",
+    "small image" : "I01163_sml.png",
+    "sponsorship" : "1",
+    "contact" : "Dr. Shu Jiang",
+    "layover" : [
+      [
+        [
+          "106.8445302",
+          "8.569827521"
+        ],
+        [
+          "107.0156685",
+          "8.877876537"
+        ],
+        [
+          "108.505731",
+          "9.540126525"
+        ],
+        [
+          "106.7124582",
+          "9.689565921"
+        ],
+        [
+          "106.4675526",
+          "11.1651629"
+        ],
+        [
+          "108.0918247",
+          "10.53350151"
+        ],
+        [
+          "108.6712935",
+          "11.60965774"
+        ],
+        [
+          "109.3335435",
+          "11.94078273"
+        ],
+        [
+          "109.167981",
+          "12.76859521"
+        ],
+        [
+          "109.0851997",
+          "13.51362645"
+        ],
+        [
+          "108.7540747",
+          "14.58978268"
+        ],
+        [
+          "108.505731",
+          "15.00368892"
+        ],
+        [
+          "107.7606997",
+          "16.1626264"
+        ],
+        [
+          "106.9328873",
+          "17.23878263"
+        ],
+        [
+          "105.6911685",
+          "18.31493886"
+        ],
+        [
+          "105.525606",
+          "18.7288451"
+        ],
+        [
+          "104.9461373",
+          "19.47387634"
+        ],
+        [
+          "105.525606",
+          "19.88778258"
+        ],
+        [
+          "105.6911685",
+          "20.63281382"
+        ],
+        [
+          "105.6083873",
+          "21.2950638"
+        ],
+        [
+          "105.9395123",
+          "21.87453254"
+        ],
+        [
+          "107.0984498",
+          "21.4606263"
+        ],
+        [
+          "107.5951372",
+          "20.38447007"
+        ],
+        [
+          "108.174606",
+          "19.22553259"
+        ],
+        [
+          "108.836856",
+          "17.65268887"
+        ],
+        [
+          "109.3335435",
+          "17.81825137"
+        ],
+        [
+          "110.1613559",
+          "18.06659511"
+        ],
+        [
+          "111.0719497",
+          "18.64606385"
+        ],
+        [
+          "111.8169809",
+          "19.47387634"
+        ],
+        [
+          "111.8169809",
+          "20.05334508"
+        ],
+        [
+          "111.4030747",
+          "20.71559506"
+        ],
+        [
+          "110.6580434",
+          "20.13612632"
+        ],
+        [
+          "109.7474497",
+          "20.05334508"
+        ],
+        [
+          "109.2507622",
+          "20.13612632"
+        ],
+        [
+          "108.5885122",
+          "20.38447007"
+        ],
+        [
+          "108.505731",
+          "21.04672006"
+        ],
+        [
+          "108.9196372",
+          "21.4606263"
+        ],
+        [
+          "110.4096997",
+          "21.21228256"
+        ],
+        [
+          "111.5686372",
+          "21.21228256"
+        ],
+        [
+          "112.5620121",
+          "21.2950638"
+        ],
+        [
+          "113.5553871",
+          "21.79175129"
+        ],
+        [
+          "115.0454496",
+          "21.87453254"
+        ],
+        [
+          "116.1216058",
+          "22.37122003"
+        ],
+        [
+          "116.6182933",
+          "22.70234503"
+        ],
+        [
+          "117.860012",
+          "23.53015751"
+        ],
+        [
+          "118.191137",
+          "23.03347002"
+        ],
+        [
+          "118.1083558",
+          "22.28843878"
+        ],
+        [
+          "116.5355121",
+          "21.04672006"
+        ],
+        [
+          "117.0321996",
+          "20.63281382"
+        ],
+        [
+          "117.1977621",
+          "19.22553259"
+        ],
+        [
+          "115.9560433",
+          "18.8944076"
+        ],
+        [
+          "114.7143246",
+          "18.56328261"
+        ],
+        [
+          "113.4726059",
+          "18.14937636"
+        ],
+        [
+          "112.4792309",
+          "17.73547012"
+        ],
+        [
+          "111.1547309",
+          "16.99043888"
+        ],
+        [
+          "112.7275746",
+          "16.82487639"
+        ],
+        [
+          "111.8997622",
+          "16.07984515"
+        ],
+        [
+          "110.4924809",
+          "14.92090767"
+        ],
+        [
+          "110.7408247",
+          "13.67918895"
+        ],
+        [
+          "111.7341997",
+          "13.67918895"
+        ],
+        [
+          "111.2375122",
+          "11.85800148"
+        ],
+        [
+          "111.0719497",
+          "10.78184525"
+        ],
+        [
+          "110.9891684",
+          "9.622907773"
+        ],
+        [
+          "111.1547309",
+          "7.13947032"
+        ],
+        [
+          "112.9759184",
+          "7.056689072"
+        ],
+        [
+          "115.3765746",
+          "7.056689072"
+        ],
+        [
+          "115.3765746",
+          "8.381189047"
+        ],
+        [
+          "114.4659809",
+          "8.050064053"
+        ],
+        [
+          "116.0388246",
+          "9.540126525"
+        ],
+        [
+          "116.2871683",
+          "11.19575149"
+        ],
+        [
+          "117.2805433",
+          "12.18912648"
+        ],
+        [
+          "118.6878245",
+          "12.68581397"
+        ],
+        [
+          "119.6811995",
+          "12.76859521"
+        ],
+        [
+          "118.6878245",
+          "13.5964077"
+        ],
+        [
+          "118.2739183",
+          "15.08647017"
+        ],
+        [
+          "119.0189495",
+          "16.74209514"
+        ],
+        [
+          "119.4328558",
+          "15.83150141"
+        ],
+        [
+          "120.3434495",
+          "13.92753269"
+        ],
+        [
+          "120.509012",
+          "13.4308452"
+        ],
+        [
+          "122.2474182",
+          "12.43747022"
+        ],
+        [
+          "122.0818557",
+          "11.52687649"
+        ],
+        [
+          "120.7573557",
+          "11.69243898"
+        ],
+        [
+          "119.515637",
+          "11.030189"
+        ],
+        [
+          "118.853387",
+          "10.28515776"
+        ],
+        [
+          "117.5288871",
+          "8.21562655"
+        ],
+        [
+          "117.1149808",
+          "7.884501556"
+        ],
+        [
+          "116.4527308",
+          "6.06331409"
+        ],
+        [
+          "115.4593558",
+          "3.99378288"
+        ],
+        [
+          "113.7209496",
+          "2.420939159"
+        ],
+        [
+          "112.3136684",
+          "2.255376662"
+        ],
+        [
+          "111.6514184",
+          "1.593126675"
+        ],
+        [
+          "109.5818872",
+          "2.338157911"
+        ],
+        [
+          "108.4229497",
+          "3.41431414"
+        ],
+        [
+          "108.3401685",
+          "4.738814115"
+        ],
+        [
+          "107.512356",
+          "5.649407848"
+        ],
+        [
+          "106.8445302",
+          "8.569827521"
+        ]
+      ],
+      [
+        [
+          "118.853387",
+          "22.78512628"
+        ],
+        [
+          "120.0951058",
+          "23.8612825"
+        ],
+        [
+          "120.7573557",
+          "23.28181377"
+        ],
+        [
+          "120.2606683",
+          "21.87453254"
+        ],
+        [
+          "120.2606683",
+          "20.88115756"
+        ],
+        [
+          "119.184512",
+          "19.72222008"
+        ],
+        [
+          "119.1017308",
+          "20.79837631"
+        ],
+        [
+          "117.9427933",
+          "20.13612632"
+        ],
+        [
+          "118.1083558",
+          "21.21228256"
+        ],
+        [
+          "118.853387",
+          "22.78512628"
+        ]
+      ],
+      [
+        [
+          "118.0255745",
+          "19.0599701"
+        ],
+        [
+          "119.184512",
+          "19.0599701"
+        ],
+        [
+          "120.6745745",
+          "20.46725132"
+        ],
+        [
+          "121.9990745",
+          "20.71559506"
+        ],
+        [
+          "121.4196057",
+          "19.63943883"
+        ],
+        [
+          "119.7639808",
+          "18.56328261"
+        ],
+        [
+          "119.0189495",
+          "18.14937636"
+        ],
+        [
+          "117.7772308",
+          "17.65268887"
+        ],
+        [
+          "118.0255745",
+          "19.0599701"
+        ]
+      ]
+    ],
+    "title" : "South China Sea Petroleum Systems",
+    "price" : "$90k USD",
+    "lat" : "20.330719",
+    "pdf" : "South_China_Sea_Petroleum_System_I_01163",
+    "status" : "In Development",
+    "video" : ""
+  },
+  "I01226" : {
+    "id" : "I01226",
+    "body" : "Value\nAn expanded understanding for basin-specific geologic, geochemical and mineralogical knowledge of non-marine strata in major producing AsiaPacific onshore basins with producing or potential unconventional plays\n Define basin evolution and the development of non-marine petroleum system elements including prioritized geological controls related to unconventional accumulation and production\nGenerate predictive non-marine models for play habitat of stratigraphically associated hybrid unconventional tight sand\/carbonate, shale and CBM hydrocarbon systems\nCharacterization of unconventional plays via data integration, interpretation, analysis of sample tests and comparisons U.S. analog unconventional plays\nAn evaluation of unconventional non-marine play opportunities\nKey Deliverables\n1. ArcGIS based database including stratigraphic charts, structural and depositional evolution maps, atlas of oil\/gas fields, maps of petroleum system elements and charts, petroleum system modeling, play fairways maps for hybrid unconventional non-marine plays, spreadsheets of sample tests, reservoir characterization of representative hybrid unconventional plays, and models for play concepts. 2. Preliminary assessment of risk for each petroleum system including reservoir and source rock distribution. 3. Data uploads, quarterly updates, meeting presentations, final project report text and figures.",
+    "lon" : "120.0208665",
+    "small image" : "I01226_sml.png",
+    "sponsorship" : "1",
+    "contact" : "Dr. Shu Jiang",
+    "title" : "Asia-Pacific Hybrid Unconventional Non-marine Plays",
+    "price" : "$89k USD – Upon signing $86k USD - Start of Year 2",
+    "lat" : "2.785096066",
+    "pdf" : "Hybrid_Uncon_NonMarine_AsiaPacific_Plays_I_01226",
+    "status" : "In Development",
+    "video" : ""
+  },
+  "I00973_2" : {
+    "id" : "I00973_2",
+    "body" : "The production of liquids from shales has revolutionized the oil industry. In this second phase of research, we continued in our comprehensive quest at understanding all of the components that contribute to optimum exploitation of shales for liquids. These included geologic considerations, geomechanical modeling, reservoir engineering evaluations, and environmental aspects. We have learned and document that geologic characterization at various scales is important in establishing producibility and optimum recovery.\nSections 2–5 of the report focus on geologic evaluations. Detailed geologic characterizations of the Niobrara are discussed to establish the role of geology on production, the results have identified the property with the strongest correlation to production. An examination of pore-level characterization and a detailed workflow of shale characterization at the pore scale fill out the geology Sections.\nSections 6 –11 deal with various engineering operations. The material balance methodology utilized production data and fluids characterization. The method developed makes it possible to obtain pressure profiles and saturation information, and to estimate reservoir permeability prior to interference with another hydraulic fracture. The development of this method for all types of reservoir fluids, and associated data analysis technique, were significant achievements in this project. This analytical tool for matrix permeability determination is available to all sponsors.",
+    "lon" : "-106.805234",
+    "small image" : "I00973_2_sml.png",
+    "sponsorship" : "1",
+    "contact" : "Dr. Milind Deo",
+    "layover" : [
+      [
+        [
+          "-105.2361337",
+          "46.87455518"
+        ],
+        [
+          "-106.1284316",
+          "48.06428568"
+        ],
+        [
+          "-107.2586756",
+          "48.54017788"
+        ],
+        [
+          "-108.1509735",
+          "48.71863746"
+        ],
+        [
+          "-108.2699465",
+          "49.43247576"
+        ],
+        [
+          "-107.9130274",
+          "50.80066584"
+        ],
+        [
+          "-107.7940543",
+          "51.39553109"
+        ],
+        [
+          "-107.5561082",
+          "51.75245024"
+        ],
+        [
+          "-107.1397026",
+          "52.10936939"
+        ],
+        [
+          "-106.7232969",
+          "52.52577507"
+        ],
+        [
+          "-106.1284316",
+          "52.76372117"
+        ],
+        [
+          "-105.5335664",
+          "53.12064032"
+        ],
+        [
+          "-104.581782",
+          "53.35858642"
+        ],
+        [
+          "-103.7489706",
+          "53.29909989"
+        ],
+        [
+          "-102.9756458",
+          "53.23961337"
+        ],
+        [
+          "-101.8454018",
+          "52.52577507"
+        ],
+        [
+          "-101.072077",
+          "51.75245024"
+        ],
+        [
+          "-100.8341309",
+          "50.74117931"
+        ],
+        [
+          "-100.9531039",
+          "49.90836796"
+        ],
+        [
+          "-101.5479692",
+          "49.37298924"
+        ],
+        [
+          "-101.7859153",
+          "48.95658356"
+        ],
+        [
+          "-102.1428344",
+          "48.65915093"
+        ],
+        [
+          "-102.3807805",
+          "48.36171831"
+        ],
+        [
+          "-102.4997536",
+          "47.52890696"
+        ],
+        [
+          "-102.9756458",
+          "46.87455518"
+        ],
+        [
+          "-103.9274302",
+          "46.57712255"
+        ],
+        [
+          "-105.2361337",
+          "46.87455518"
+        ]
+      ],
+      [
+        [
+          "-106.4499219",
+          "44.17491891"
+        ],
+        [
+          "-104.7602415",
+          "43.30536367"
+        ],
+        [
+          "-104.1903066",
+          "41.63523913"
+        ],
+        [
+          "-103.9274302",
+          "40.62847004"
+        ],
+        [
+          "-104.3438359",
+          "40.03360479"
+        ],
+        [
+          "-105.07323",
+          "39.90527715"
+        ],
+        [
+          "-106.7232969",
+          "39.49822606"
+        ],
+        [
+          "-107.9337349",
+          "38.66457421"
+        ],
+        [
+          "-108.64171",
+          "38.92753638"
+        ],
+        [
+          "-108.9805211",
+          "40.41830503"
+        ],
+        [
+          "-109.2365753",
+          "41.54494349"
+        ],
+        [
+          "-108.4037639",
+          "43.21056619"
+        ],
+        [
+          "-106.4499219",
+          "44.17491891"
+        ]
+      ],
+      [
+        [
+          "-96.67007412",
+          "31.05113949"
+        ],
+        [
+          "-97.14596633",
+          "30.33730119"
+        ],
+        [
+          "-97.97877768",
+          "29.74243594"
+        ],
+        [
+          "-98.09775073",
+          "28.90962459"
+        ],
+        [
+          "-99.16850818",
+          "28.37424586"
+        ],
+        [
+          "-100.2987522",
+          "28.49321891"
+        ],
+        [
+          "-101.0125905",
+          "28.49321891"
+        ],
+        [
+          "-101.1315635",
+          "27.95784018"
+        ],
+        [
+          "-101.0125905",
+          "27.42246146"
+        ],
+        [
+          "-100.4772117",
+          "26.70862316"
+        ],
+        [
+          "-99.70388691",
+          "25.75683875"
+        ],
+        [
+          "-98.87107556",
+          "24.86454088"
+        ],
+        [
+          "-98.0382642",
+          "24.09121605"
+        ],
+        [
+          "-97.68134505",
+          "23.85326995"
+        ],
+        [
+          "-97.91929115",
+          "22.72302597"
+        ],
+        [
+          "-99.16850818",
+          "23.31789122"
+        ],
+        [
+          "-100.4772117",
+          "24.56710825"
+        ],
+        [
+          "-101.1315635",
+          "25.81632528"
+        ],
+        [
+          "-101.9048883",
+          "26.88708273"
+        ],
+        [
+          "-102.7971862",
+          "28.07681323"
+        ],
+        [
+          "-103.8192375",
+          "28.79375471"
+        ],
+        [
+          "-103.8192375",
+          "30.11641764"
+        ],
+        [
+          "-101.3648577",
+          "29.99636813"
+        ],
+        [
+          "-100.3582387",
+          "29.68294941"
+        ],
+        [
+          "-99.28748123",
+          "29.80192246"
+        ],
+        [
+          "-98.63312945",
+          "30.27781466"
+        ],
+        [
+          "-96.67007412",
+          "31.05113949"
+        ]
+      ]
+    ],
+    "title" : "Liquids From Shales, Phase 2",
+    "price" : "$40k USD",
+    "lat" : "41.357185",
+    "pdf" : "Liquids_from_Shales_Ph2_I_00973_2",
+    "status" : "Completed",
+    "video" : ""
+  },
+  "I01162" : {
+    "id" : "I01162",
+    "body" : "Currently, the ability to estimate OGIP or OOIP often exceeds the ability to economically stimulate and extract this resource. This applies to many tight as well as ultra-low permeability formations, i.e. sands or shales. Improved simulation of hydraulic stimulation, amalgamating geologic texture with controllable engineering parameters could be of value.\nAdvances in simulation capabilities enable coupling structural geologic data (three-dimensional representation of stresses, natural fractures, and stratigraphy) with decision making processes for stimulation – volumes, rates, fluid types, completion zones. Without this interaction between simulation capabilities and geological information, low permeability formation exploitation may linger on the fringes of real economic viability.\nDiagnosis and simulation of hydraulic stimulation should consider the tectonic setting, the uplift history, the inferred fracture and fault configurations, and the relative magnitude and orientation of the principal stresses (all three principal stresses) which can be used to optimize fracture geometry and stimulation programs. With improvements in software, computational capacity, and recognition that in-situ discontinuities are relevant, fully three-dimensional hydraulic simulation is now becoming possible.",
+    "lon" : "10",
+    "small image" : "I01162_sml.png",
+    "sponsorship" : "1",
+    "contact" : "Dr. John McLennan",
+    "title" : "Large-Scale Geologic Controls on Hydraulic Stimulation",
+    "price" : "$45k USD",
+    "lat" : "-47",
+    "pdf" : "Large_Scale_Geologic_Controls_I_01162",
+    "status" : "In Progress",
+    "video" : ""
+  },
+  "I01069" : {
+    "id" : "I01069",
+    "body" : "Oil discoveries such as the Jubilee Field located in the Equatorial Atlantic have encouraged exploration in sheared margins worldwide. Sheared margins have a thermal history, which is different from that of extensional margins. Recent studies by EGI in the Equatorial Atlantic and Indian sheared margins have indicated that a successful exploration program in this setting requires a detailed understanding of the thermal and structural history of continental break-up.\nObjectives of this project are to refine the existing general timing of break-up of large margin segments with detailed break-up propagation timing, associated thermal histories, expulsion and trap timing. To achieve this, a robust analytical work program has been designed to focus on low-temperature thermochronology (constraining the exhumation histories of sedimentary provenances geared towards the first 10–40 Ma after break-up), fluid inclusions (constraining migration timing and migration horizons), and geochemical source rock\/hydrocarbons analyses (pairing source rock candidates with existing hydrocarbons). This effort will be undertaken in context with re-interpretation of existing dense and robust open-file well and seismic data within sheared margins.",
+    "lon" : "110.773919",
+    "small image" : "I01069_sml.png",
+    "sponsorship" : "1",
+    "contact" : "Dr. Michal Nemcok, Dr. John Conolly",
+    "layover" : [
+      [
+        [
+          "129.1538906",
+          "-13.73870559"
+        ],
+        [
+          "126.7314188",
+          "-40.38589593"
+        ],
+        [
+          "123.5571453",
+          "-40.38589593"
+        ],
+        [
+          "121.0511399",
+          "-40.21882891"
+        ],
+        [
+          "114.8696601",
+          "-41.30476456"
+        ],
+        [
+          "110.4423839",
+          "-42.39070022"
+        ],
+        [
+          "108.6881802",
+          "-42.80836778"
+        ],
+        [
+          "106.0986413",
+          "-14.07283963"
+        ],
+        [
+          "116.7909308",
+          "-13.98930612"
+        ],
+        [
+          "126.2302177",
+          "-11.39976725"
+        ],
+        [
+          "129.1538906",
+          "-13.73870559"
+        ],
+        [
+          "166.4933705",
+          "-44.06137046"
+        ],
+        [
+          "168.7487753",
+          "-42.9754348"
+        ],
+        [
+          "171.4218477",
+          "-40.97063052"
+        ],
+        [
+          "173.3431185",
+          "-39.4670273"
+        ],
+        [
+          "173.9278531",
+          "-37.87989057"
+        ],
+        [
+          "173.426652",
+          "-36.45982086"
+        ],
+        [
+          "172.1736493",
+          "-35.03975116"
+        ],
+        [
+          "171.9230488",
+          "-33.9538155"
+        ],
+        [
+          "173.259585",
+          "-33.61968145"
+        ],
+        [
+          "174.5125877",
+          "-34.53855009"
+        ],
+        [
+          "175.6820568",
+          "-35.79155277"
+        ],
+        [
+          "177.018593",
+          "-36.62688789"
+        ],
+        [
+          "178.9398638",
+          "-36.87748843"
+        ],
+        [
+          "179.1069308",
+          "-38.29755813"
+        ],
+        [
+          "178.3551292",
+          "-39.38349379"
+        ],
+        [
+          "177.4362606",
+          "-39.71762784"
+        ],
+        [
+          "176.1832579",
+          "-41.30476456"
+        ],
+        [
+          "173.593719",
+          "-44.06137046"
+        ],
+        [
+          "171.0877137",
+          "-45.48144017"
+        ],
+        [
+          "169.0829094",
+          "-48.23804606"
+        ],
+        [
+          "166.9945716",
+          "-47.48624446"
+        ],
+        [
+          "165.1568343",
+          "-46.81797636"
+        ],
+        [
+          "166.4933705",
+          "-44.06137046"
+        ]
+      ]
+    ],
+    "title" : "Sheared Margins of Western Australia",
+    "price" : "$69k USD",
+    "lat" : "-27.034549",
+    "pdf" : "Sheared_Margins_W_Australia_I_01069",
+    "status" : "Completed",
+    "video" : ""
+  },
+  "I00983_2" : {
+    "id" : "I00983_2",
+    "body" : "In Phase 1 of this project we developed a rigorous, semi-analytic, physics-based model of gas production from tight shales that recognized the distinguishing features of these reservoirs and allowed us to identify the major production drivers. The new model allows us to analyze production data from many wells as quickly as conventional decline – curve analysis, but has the advantage of being rooted in the physics of the process. Consequently, it provides a predictive and interpretive capability that is lacking in empirical models or, for that matter, large scale reservoir simulators.",
+    "lon" : "-92.422278",
+    "small image" : "I00983_2_sml.png",
+    "sponsorship" : "1",
+    "contact" : "Dr. Ian Walton",
+    "layover" : [
+      [
+        [
+          "-107.6054829",
+          "40.305374"
+        ],
+        [
+          "-106.7926652",
+          "41.4137618"
+        ],
+        [
+          "-103.3197168",
+          "41.70933188"
+        ],
+        [
+          "-93.71368918",
+          "39.78812636"
+        ],
+        [
+          "-88.09785766",
+          "35.94571532"
+        ],
+        [
+          "-88.54121278",
+          "34.54175744"
+        ],
+        [
+          "-89.57570806",
+          "33.13779956"
+        ],
+        [
+          "-93.86147422",
+          "32.54665941"
+        ],
+        [
+          "-101.0290487",
+          "33.13779956"
+        ],
+        [
+          "-106.2015251",
+          "34.68954248"
+        ],
+        [
+          "-108.4183007",
+          "37.20188816"
+        ],
+        [
+          "-109.3789034",
+          "38.16249092"
+        ],
+        [
+          "-107.6054829",
+          "40.305374"
+        ]
+      ]
+    ],
+    "title" : "Shale Gas Production Analysis, Phase 2",
+    "price" : "$42k USD",
+    "lat" : "34.472598",
+    "pdf" : "Shale_Gas_Production_Analysis_Ph2_I_00983_2",
+    "status" : "Completed",
+    "video" : ""
+  },
+  "I01209" : {
+    "id" : "I01209",
+    "body" : "A significant body of work has been done on imaging the various gas and liquid producing shales. The images show the underlying heterogeneities and complexities that characterize shales. Implications of the observations at these scales on storage, thermodynamics and flow in shales are important, and are being examined by a number of groups.\rThe storage is conceptualized for various types of porosity – intergranular, intragranular, within the organic matter, etc. Complex pore structures that exist, for example in a Bakken shale sample are shown in Figure 1. Different types of measurements on prolific liquids producing shales indicate porosities of greater than 10%. The presence of this porosity is not easily evident from Figure 1. One\rof the questions is whether there is an underlying porosity in nanostructures of the shale samples. In a recent paper, Chen et al., (2013), observed that about 90% of the approximate 5% porosity is contained in pores smaller than 100 nm. Our work with fluorescent, epoxy-impregnated thin section studies have revealed underlying nanoporosity in chalks. In this project, we will create wellcalibrated\rnanoporous materials to help us figure out the roles of different types of porosity on permeabilities and relative permeabilities. We will compare results with measurements on natural shale samples.\rIn our previous work, we have shown that matrix permeability is one of the most important properties that govern recoveries of liquids from shales. Thermodynamic properties such as bubble and dew points, gas-oil ratios, etc., are also important. The low gas production in some of the liquids producing shales have been attributed to suppression of bubble or dew points in nanopores. It is thus critically important to understand the impact of the nanoporous structure on the basic properties of shales and fluids in these shales.\rThe GRI method of measuring permeability in shales consists of crushing the rock, exposing this to pressure and measuring pressure decay. It is not clear how this measurement corresponds to the connected liquid permeability in liquid-bearing shales. In this project, we will measure permeabilities by different methods to demonstrate and understand relationships between various permeability measurement techniques. Shales that produce liquids are under primary production. Even more important is that standard methods usually only provide absolute permeability.",
+    "lon" : "-15",
+    "small image" : "I01209_sml.png",
+    "sponsorship" : "1",
+    "contact" : "Dr. Milind Deo, Dr. John McLennan, Dr. Bryony Richards-McClung, Dr. Michael Bartl",
+    "title" : "Flow in Nanoporous Rocks",
+    "price" : "$70k USD",
+    "lat" : "-53",
+    "pdf" : "Flow_in_Nanoporous_Rocks_I_01209",
+    "status" : "In Progress",
+    "video" : ""
+  },
+  "I01210" : {
+    "id" : "I01210",
+    "body" : "Recent amendments to Mexico’s constitution have changed the structure of the petroleum industry in Mexico, setting the stage for significant opportunities in wildcatting, exploration, field development, and EOR. Successful ventures in each of these categories are predicated on a fundamental understanding of the petroleum systems in each basin. This Petroleum Systems Atlas aims to provide that understanding by assembling information and data from the literature, universities, and government sources into a coherent view of the proven and speculative petroleum systems. The project will cover five of Mexico’s producing, onshore and shallow-water basins. The atlas will evaluate conventional petroleum systems as well as unconventional petroleum opportunities.\nThe timing of this project is set to deliver the Atlas prior to bid round 1 in mid-2015. The delivery date will provide CAs with a report and GIS framework for rapid evaluation of initial opportunities. The project will also position EGI for subsequent, in-depth projects focused on specific areas of interest to future bid rounds. As in EGI’s South American Shales project, we aim to create close collaboration with organizations inside Mexico to provide new samples for analysis and integration into the GIS during future stages.\nA coherent description and characterization of proven and speculative petroleum systems in the following Mexican Basins will be created:\n-Sureste Basin -Tampico-Misantla Basin -Burgos Basin -Veracruz Basin -Sabinas Basin ",
+    "lon" : "-97.825611",
+    "small image" : "I01210_sml.png",
+    "sponsorship" : "1",
+    "contact" : "Mr. David Thul",
+    "title" : "Petroleum Systems Atlas of Mexico",
+    "price" : "$50k USD",
+    "lat" : "21.016097",
+    "pdf" : "Petroleum_Systems_Atlas_Mexico_I_01210",
+    "status" : "In Progress",
+    "video" : ""
+  },
+  "I01025" : {
+    "id" : "I01025",
+    "body" : "-To provide new integrated geologic and geomechanical analysis of core from prospective shale gas systems in selected Australian Basins.\n-Link geologic and geomechanical properties in order to determine geologic predictors of engineering.\nHowever, critical geologic data are missing, such as basic sedimentologic and stratigraphic description, thickness, lateral extent, TOC, Rock-Eval, kerogen type, inorganic mineralogy, porosity, and permeability.\nGeomechanical parameters that determine hydraulic fracture potential (“fracability”\/ brittleness), such as Young’s modulus, Poisson’s ratio, stress, and shear modulus are also lacking.",
+    "lon" : "140.926464",
+    "small image" : "I01025_sml.png",
+    "sponsorship" : "1",
+    "contact" : "Dr. John McLennan, Dr. John Conolly",
+    "layover" : [
+      [
+        [
+          "110.3860641",
+          "-25.04563208"
+        ],
+        [
+          "116.9652738",
+          "-19.64128127"
+        ],
+        [
+          "116.9652738",
+          "-16.49265949"
+        ],
+        [
+          "119.0330254",
+          "-13.90796997"
+        ],
+        [
+          "122.8395681",
+          "-11.32328046"
+        ],
+        [
+          "132.1914448",
+          "-7.986681261"
+        ],
+        [
+          "150.5662375",
+          "-7.798703842"
+        ],
+        [
+          "150.5662375",
+          "-12.12218449"
+        ],
+        [
+          "144.3629827",
+          "-12.12218449"
+        ],
+        [
+          "145.6788246",
+          "-15.41178933"
+        ],
+        [
+          "145.6788246",
+          "-19.35931514"
+        ],
+        [
+          "153.4328932",
+          "-23.91776756"
+        ],
+        [
+          "155.0307012",
+          "-26.03251353"
+        ],
+        [
+          "155.0307012",
+          "-32.65871757"
+        ],
+        [
+          "151.2711528",
+          "-40.08382563"
+        ],
+        [
+          "151.2711528",
+          "-44.68927241"
+        ],
+        [
+          "144.8799206",
+          "-44.68927241"
+        ],
+        [
+          "136.5149254",
+          "-38.43902321"
+        ],
+        [
+          "136.5149254",
+          "-31.85981353"
+        ],
+        [
+          "122.2286415",
+          "-31.85981353"
+        ],
+        [
+          "122.2286415",
+          "-22.88389175"
+        ],
+        [
+          "118.6100762",
+          "-21.09810627"
+        ],
+        [
+          "116.2603585",
+          "-22.46094256"
+        ],
+        [
+          "116.2603585",
+          "-36.04231112"
+        ],
+        [
+          "113.158731",
+          "-36.04231112"
+        ],
+        [
+          "113.158731",
+          "-31.34287563"
+        ],
+        [
+          "110.3860641",
+          "-26.78442321"
+        ],
+        [
+          "110.3860641",
+          "-25.04563208"
+        ]
+      ]
+    ],
+    "title" : "Australian Shales",
+    "price" : "$70k USD",
+    "lat" : "-25.984158",
+    "pdf" : "Australia_Shale_Gas_Shale_Oil_I_01025",
+    "status" : "In Development",
+    "video" : ""
+  },
+  "I01024" : {
+    "id" : "I01024",
+    "body" : "Commercial exploitation of low mobility gas reservoirs has been improved with multi-stage hydraulic fracturing of long horizontal wells. Favorable exploitation has been correlated with large fracture surface area in contact with the shale matrix – this surface area being created by high rate and high volume injection of low viscosity water-based fluids. The environmental and economic implications of using large volumes of water (millions of gallons per well) are attracting considerable stakeholder and regulatory attention. Beyond this, ROI is usually unacceptable with the current pricing for natural gas.\nImprovements can be anticipated with reduced volume stimulations. Two avenues of approach are envisioned:\n\t-Modify properties of the fracturing fluid to facilitate flowback from unpropped secondary fracture networks, or\n\t\t−Modify the properties of the fracturing fluid to reduce the rate at which it flows into the secondary fracture network and still provide a nominally undamaged fracture system.\n\t\tIn the short-term, modifications can be made to operating practices that cater the treatment fluid to the specific reservoir. This involves optimizing fluid-rock compatibility decision making protocols. Fracture face damage, large capillary retention, relative permeability blockage of secondary and tertiary fractures can be reduced. Experimental and analytical evaluations are proposed – with the goal of providing tools and methodologies for fluid selection. In the long-term, alternate treating fluids may be the key to improved treatment efficiency. This can include revisiting fluids that the industry is familiar with – for example, CO2 – and using specialty fluids that have not been economically viable in the past – for example, gelled propane. Any and all of these potential solutions relate to characterizing mechanisms for formation damage, generally associated with diffusive or mechanical interactions between treating fluid, formation fluid and the formation rock itself. The Energy & Geosciences Institute will collaborate with Constien & Associates to provide an integrated numerical, analytical and experimental program to clarify mechanisms for this damage and to infer solutions. Unique experimental testing will complement state-of-the-art coupled geomechanical reservoir simulations, to delineate solutions that will reduce volumes, increase treatment NPV and reduce environmental concerns. ",
+    "lon" : "-25",
+    "small image" : "I01024_sml.png",
+    "sponsorship" : "1",
+    "contact" : "Dr. Ian Walton",
+    "title" : "More Efficient Hydraulic Fracturing Systems",
+    "price" : "$40k USD",
+    "lat" : "-53",
+    "pdf" : "More_Efficient_Hydraulic_Fracturing_Systems_I_01024",
+    "status" : "Completed",
+    "video" : ""
+  },
+  "I01023" : {
+    "id" : "I01023",
+    "body" : "-The exploitation of Shale Gas in the US has had a profound impact on gas supply in the US, perhaps for the next 100 years\n-Europe is now looking to access similar resources\n-In the onshore UK, the organic rich Shales of the Carboniferous of Northern England and Jurassic of Southern England would appear to present technically & economically viable targets\n-Recent drilling by Cuadrilla has heightened interest both from industry and media in the Shale Gas potential\n-This report will draw on expertise at Imperial College & EGI to generate a review of the potential in the onshore UK, location, volumes, technology and accessibility. ",
+    "lon" : "-1.898682",
+    "small image" : "I01023_sml.png",
+    "sponsorship" : "1",
+    "contact" : "Prof. Alastair Fraser, Dr. Raymond Levey",
+    "layover" : [
+      [
+        [
+          "-4.825310888",
+          "58.93659673"
+        ],
+        [
+          "-4.289932162",
+          "58.96633999"
+        ],
+        [
+          "-3.129944921",
+          "59.26377262"
+        ],
+        [
+          "-2.713539245",
+          "58.25250169"
+        ],
+        [
+          "-3.69506691",
+          "57.89558254"
+        ],
+        [
+          "-2.773025771",
+          "57.83609602"
+        ],
+        [
+          "-1.464322217",
+          "57.65763644"
+        ],
+        [
+          "-1.464322217",
+          "57.24123076"
+        ],
+        [
+          "-2.059187469",
+          "56.55713573"
+        ],
+        [
+          "-2.445849882",
+          "56.34893289"
+        ],
+        [
+          "-1.702268318",
+          "56.021757"
+        ],
+        [
+          "-0.988430016",
+          "54.95099955"
+        ],
+        [
+          "0.082327436",
+          "54.41562082"
+        ],
+        [
+          "0.260787012",
+          "53.76126904"
+        ],
+        [
+          "0.825909001",
+          "53.3151201"
+        ],
+        [
+          "1.926409716",
+          "52.80948464"
+        ],
+        [
+          "2.164355817",
+          "52.03615981"
+        ],
+        [
+          "1.39103099",
+          "51.56026761"
+        ],
+        [
+          "1.51000404",
+          "50.9356591"
+        ],
+        [
+          "0.647449425",
+          "50.63822647"
+        ],
+        [
+          "-0.185361927",
+          "50.51925342"
+        ],
+        [
+          "-1.642781793",
+          "50.28130732"
+        ],
+        [
+          "-3.010971871",
+          "50.28130732"
+        ],
+        [
+          "-3.962756273",
+          "49.77567186"
+        ],
+        [
+          "-4.974027201",
+          "49.68644207"
+        ],
+        [
+          "-6.074527916",
+          "49.68644207"
+        ],
+        [
+          "-6.46119033",
+          "49.9838747"
+        ],
+        [
+          "-5.598635715",
+          "50.57873995"
+        ],
+        [
+          "-4.855054151",
+          "51.1736052"
+        ],
+        [
+          "-5.65812224",
+          "51.82795698"
+        ],
+        [
+          "-4.795567625",
+          "52.48230875"
+        ],
+        [
+          "-4.855054151",
+          "53.01768748"
+        ],
+        [
+          "-4.795567625",
+          "53.67203926"
+        ],
+        [
+          "-5.003770463",
+          "54.38587756"
+        ],
+        [
+          "-5.330946352",
+          "54.74279671"
+        ],
+        [
+          "-6.193500966",
+          "55.36740522"
+        ],
+        [
+          "-6.847852743",
+          "55.84329742"
+        ],
+        [
+          "-7.234515156",
+          "56.76533856"
+        ],
+        [
+          "-8.156556296",
+          "57.36020381"
+        ],
+        [
+          "-7.412974732",
+          "58.52019106"
+        ],
+        [
+          "-4.825310888",
+          "58.93659673"
+        ]
+      ]
+    ],
+    "title" : "UK Shales",
+    "price" : "$51k USD",
+    "lat" : "54.265230",
+    "pdf" : "UK_Shale_Gas_I_01023",
+    "status" : "Completed",
+    "video" : ""
+  },
+  "I01169" : {
+    "id" : "I01169",
+    "body" : "Since the early 1980s, EGI has been developing environmentally benign, affordable and conservative tracers for geothermal, petroleum, and ground-water applications. Recently, EGI successfully demonstrated the use of reactive (e.g. reversibly sorbing) tracers in both packed-column, laboratory experiments and in field tracer tests. These are tracers that sorb and desorb rapidly and whose passage through a formation is therefore slightly retarded relative to that of a conservative (e.g. non-sorbing) tracer. The retardation is a function of the surface area of the rock to which the tracer solution was exposed.\nIn combination with appropriately calibrated numerical models, conservative and sorbing tracers can be used during the hydrofracture of shale formations to calculate the contacted fracture surface area and thereby to measure the success of the hydrofracture treatment. This approach has been successfully demonstrated in a geothermal reservoir and was again used in a shale-gas hydrofracture at the Dilly Creek (Horn River) project in northeast British Columbia during the summer of 2013. Data from the field experiment are still being analyzed, but the presentation will show recent results of laboratory experiments using a newly fabricated injection\/ backflow reactor that simulates a shale-gas-hydrofracture and flow-back process.",
+    "lon" : "5",
+    "small image" : "I01169_sml.png",
+    "sponsorship" : "1",
+    "contact" : "Dr. Peter Rose",
+    "title" : "Tracers for Characterizing Shale Gas Hydrofractures",
+    "price" : "$TBD  USD",
+    "lat" : "-53",
+    "pdf" : "Tracer_Testing_in_Shale_Hydrofractures_I_01169",
+    "status" : "In Development",
+    "video" : ""
+  },
+  "I01020_2" : {
+    "id" : "I01020_2",
+    "body" : "By better understanding the source rock horizons and characteristics of sedimentary basins equipped with a user-friendly database, explorationists can reduce the risk of charge factor and hydrocarbon generation as part of the overall petroleum system analysis.\nA quick assessment tool for analysis of conventional as well as unconventional (self-sourced reservoir) plays based on source rock data and for assessing data-poor frontier and\/or by-passed plays based on regionally correlatable source rocks.",
+    "lon" : "-10",
+    "small image" : "I01020_2_sml.png",
+    "sponsorship" : "1",
+    "contact" : "Dr. Rasoul Sorkhabi",
+    "title" : "Source Rocks in Space & through Time, Phase 2",
+    "price" : "$87k USD",
+    "lat" : "-47",
+    "pdf" : "Source_Rocks_in_Space_and_through_Time_I_01020_2",
+    "status" : "In Development",
+    "video" : ""
+  },
+  "I01233" : {
+    "id" : "I01233",
+    "body" : "Value\nSummary for the regional tectonics and basin evolution in western SE Asia, running North – South, from Myanmar to Java Island region;\nComparison of the geology and petroleum systems of back-arc, fore-arc and fore-deep basins on a regional basis;\nRecommended play exploration opportunities in both frontier basins and exploration mature basins;\nCompendium with predictive models addressing the similarities and dissimilarities of petroleum systems in back-arc, fore-arc and fore-deep basins in different tectonic settings prioritized for exploration strategy or as analogs for exploration in other similar basins in the world.\n\nKey Deliverables\n1. ArcGIS based database including regional tectonic and depositional maps, stratigraphic charts and stratigraphic cross sections for each basin and\/or sub-basins, maps of Petroleum system elements and chart, modeled burial and thermal history and hydrocarbon migration and accumulation results, play maps, potential plays, examples and models for basins in trench-slope fore-deep, fore-arc and back-arc settings. 2. Interim data uploads (2 to 3) during the course of the research. 3. Meeting presentations and project report (both digital and hardcopy); 4. Reliable bibliographic database",
+    "lon" : "101.7941952",
+    "small image" : "I01233_sml.png",
+    "sponsorship" : "1",
+    "contact" : "Dr. Shu Jiang",
+    "title" : "Myanmar to Java – Basin Analysis & Petroleum Systems",
+    "price" : "$76.5k USD",
+    "lat" : "0.726862296",
+    "pdf" : "Myanmar_Java_Petroleum_Systems_I_01233",
+    "status" : "In Development",
+    "video" : ""
+  },
+  "I01069_2" : {
+    "id" : "I01069_2",
+    "body" : "To develop the large-scale thermal history models for the main West Australian transform margins in 3D and time. Use developed thermal data as input for source rock maturation models along a set of pseudo-wells characterizing a number of pull-apart terrains at these margins and their immediate surrounding.",
+    "lon" : "110",
+    "small image" : "I01069_2_sml.png",
+    "sponsorship" : "1",
+    "contact" : "Dr. Michal Nemcok, Dr. John Conolly",
+    "title" : "Sheared Margins of Western Australia, Phase 2",
+    "price" : "$69k USD",
+    "lat" : "-20",
+    "pdf" : "Sheared_Margins_Western_Australia_Ph2_I_01069_2",
+    "status" : "In Development",
+    "video" : ""
+  }
+}
