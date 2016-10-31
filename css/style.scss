@@ -1,0 +1,49 @@
+html{
+  background-color: #423f34;
+  //overflow: hidden;
+}
+body{
+  //text-align: center;
+}
+
+$detail-width: 700px;
+$list-width: 300px;
+
+.content{
+  background-color: whitesmoke;
+  display: inline-block;
+  text-align: initial;
+}
+div.list{
+  width: $list-width;
+  white-space: nowrap;
+  float: left;
+  height: 100%;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  li{
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+    .title{
+      margin-bottom: 10px;
+    }
+    .id{
+      color: gray;
+      font-weight: 100;
+    }
+  }
+}
+
+div.details{
+  padding: 15px;
+  margin-left: 300px;
+  width: $detail-width;
+  box-sizing: border-box;
+  position: fixed;
+  background-color: coral;
+}
