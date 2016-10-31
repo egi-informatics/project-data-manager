@@ -1,11 +1,15 @@
 html {
-  background-color: #423f34; }
+  background-color: #333; }
+
+body {
+  margin-top: 10px; }
 
 .content {
   margin-left: calc(50vw - 1000px / 2);
   background-color: whitesmoke;
   display: inline-block;
-  text-align: initial; }
+  text-align: initial;
+  min-height: 100vh; }
 
 div.list {
   width: 300px;
@@ -20,7 +24,8 @@ div.list {
     margin: 0; }
   div.list li {
     padding: 10px;
-    border-bottom: 1px solid lightgray; }
+    border-bottom: 1px solid lightgray;
+    cursor: pointer; }
     div.list li .title {
       margin-bottom: 10px; }
     div.list li .id {
@@ -29,10 +34,24 @@ div.list {
 
 div.details {
   padding: 15px;
-  margin-left: 300px;
+  margin-left: 310px;
   width: 700px;
   box-sizing: border-box;
   position: fixed;
-  background-color: coral; }
+  background-color: whitesmoke; }
+  div.details fieldset {
+    float: left; }
+    div.details fieldset div.field {
+      float: left;
+      clear: both;
+      margin: 5px 0; }
+      div.details fieldset div.field label {
+        float: left;
+        width: 120px;
+        line-height: 1.6em; }
+      div.details fieldset div.field input {
+        width: 260px; }
+    div.details fieldset + fieldset {
+      margin-top: 15px; }
 
 /*# sourceMappingURL=style.css.map */

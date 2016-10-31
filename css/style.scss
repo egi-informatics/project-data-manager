@@ -1,9 +1,10 @@
 html{
-  background-color: #423f34;
+  background-color: #333;
   //overflow: hidden;
 }
 body{
   //text-align: center;
+  margin-top: 10px;
 }
 
 $detail-width: 700px;
@@ -15,6 +16,7 @@ $content-width: $list-width + $detail-width;
   background-color: whitesmoke;
   display: inline-block;
   text-align: initial;
+  min-height: 100vh;
 }
 div.list{
   width: $list-width;
@@ -31,6 +33,7 @@ div.list{
   li{
     padding: 10px;
     border-bottom: 1px solid lightgray;
+    cursor: pointer;
     .title{
       margin-bottom: 10px;
     }
@@ -43,9 +46,31 @@ div.list{
 
 div.details{
   padding: 15px;
-  margin-left: 300px;
+  margin-left: $list-width + 10px;
+  //margin-top: 10px;
   width: $detail-width;
   box-sizing: border-box;
   position: fixed;
-  background-color: coral;
+  background-color: whitesmoke;
+  //background-color: coral;
+  fieldset{
+    float: left;
+    div.field {
+      float: left;
+      clear: both;
+      margin: 5px 0;
+      label{
+        float: left;
+        width: 120px;
+        line-height: 1.6em;
+      }
+      input{
+        width: 260px;
+      }
+    }
+    & + fieldset{
+      margin-top: 15px;
+    }
+  }
+
 }
