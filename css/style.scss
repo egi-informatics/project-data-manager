@@ -8,8 +8,10 @@ body{
 
 $detail-width: 700px;
 $list-width: 300px;
+$content-width: $list-width + $detail-width;
 
 .content{
+  margin-left: calc(50vw - #{$content-width} / 2);
   background-color: whitesmoke;
   display: inline-block;
   text-align: initial;

@@ -2,6 +2,7 @@ html {
   background-color: #423f34; }
 
 .content {
+  margin-left: calc(50vw - 1000px / 2);
   background-color: whitesmoke;
   display: inline-block;
   text-align: initial; }
