@@ -32,6 +32,24 @@ div.list {
       color: gray;
       font-weight: 100; }
 
+button {
+  padding: 12px;
+  background-color: coral;
+  border: none;
+  color: white;
+  font-weight: 100;
+  border-radius: 10px;
+  margin: 0 auto;
+  cursor: pointer;
+  transition: all .15s; }
+  button:hover {
+    background-color: #ea754a; }
+  button:focus {
+    outline: none; }
+  button#load-web {
+    position: fixed;
+    margin-left: -160px; }
+
 div.details {
   padding: 15px;
   margin-left: 310px;

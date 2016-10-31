@@ -61,6 +61,32 @@ function listAllProjects(projects){
   }
 }
 
+function loadFromWeb(){
+  if(currentlyLoading){
+    return;
+  }
+
+  currentlyLoading = true;
+  clearProjectList();
+
+  xhr = new XMLHttpRequest();
+  xhr.onreadystatechange = function(){
+    if(this.readyState == 4 && this.status == 200){
+      projects = JSON.parse(this.responseText);
+      listAllProjects(projects);
+      currentlyLoading = false;
+    }
+  };
+  xhr.open('GET', './api/research.json');
+  xhr.send();
+}
+
+function clearProjectList(){
+  var list = document.getElementsByClassName('list')[0];
+  var ul = list.getElementsByTagName('ul')[0];
+  ul.innerHTML = "";
+}
+
 // {
 //   id: "",
 //   body: "",
