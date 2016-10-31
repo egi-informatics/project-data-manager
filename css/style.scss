@@ -16,7 +16,7 @@ $content-width: $list-width + $detail-width;
   background-color: whitesmoke;
   display: inline-block;
   text-align: initial;
-  min-height: 100vh;
+  min-height: 80vh;
 }
 div.list{
   width: $list-width;
@@ -44,27 +44,38 @@ div.list{
   }
 }
 
-button{
-  padding: 12px;
-  background-color: coral;
-  border: none;
-  color: white;
-  font-weight: 100;
-  border-radius: 10px;
-  margin: 0 auto;
-  cursor: pointer;
-  transition: all .15s;
-  &:hover{
-    background-color: #ea754a;
-  }
-  &:focus{
-    outline: none;
-  }
-  &#load-web{
-    position: fixed;
-    margin-left: -160px;
+div.loading-buttons{
+  $width: 150px;
+
+  position: fixed;
+  width: $width;
+  margin-left: - $width - 20px;
+  button{
+    padding: 12px;
+    width: 100%;
+    border: none;
+    color: white;
+    font-weight: 100;
+    border-radius: 10px;
+    margin: 0 auto;
+    cursor: pointer;
+    transition: all .15s;
+    margin: 10px 0;
+    &:hover{
+      //background-color: #ea754a;
+    }
+    &:focus{
+      outline: none;
+    }
+    &#load-web{
+      background-color: coral;
+    }
+    &#load-file{
+      background-color: seagreen;
+    }
   }
 }
+
 
 div.details{
   padding: 15px;
