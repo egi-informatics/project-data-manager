@@ -46,6 +46,7 @@ div.list{
 
 div.loading-buttons{
   $width: 150px;
+  $darken-ammount: 5;
 
   position: fixed;
   width: $width;
@@ -67,11 +68,27 @@ div.loading-buttons{
     &:focus{
       outline: none;
     }
-    &#load-web{
-      background-color: coral;
+  }
+  #load-web{
+    $background: coral;
+    background-color: $background;
+    &:hover{
+      background-color: darken($background, $darken-ammount);
     }
-    &#load-file{
-      background-color: seagreen;
+  }
+  #load-file{
+    $background: seagreen;
+    background-color: $background;
+    &:hover{
+      background-color: darken($background, $darken-ammount);
+    }
+  }
+  #download{
+    margin-top: 40px;
+    $background: gray;
+    background-color: $background;
+    &:hover{
+      background-color: darken($background, $darken-ammount);
     }
   }
 }
@@ -88,6 +105,7 @@ div.details{
   //background-color: coral;
   fieldset{
     float: left;
+    clear: both;
     div.field {
       float: left;
       clear: both;

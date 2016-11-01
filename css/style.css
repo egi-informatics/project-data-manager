@@ -49,10 +49,19 @@ div.loading-buttons {
     margin: 10px 0; }
     div.loading-buttons button:focus {
       outline: none; }
-    div.loading-buttons button#load-web {
-      background-color: coral; }
-    div.loading-buttons button#load-file {
-      background-color: seagreen; }
+  div.loading-buttons #load-web {
+    background-color: coral; }
+    div.loading-buttons #load-web:hover {
+      background-color: #ff6c37; }
+  div.loading-buttons #load-file {
+    background-color: seagreen; }
+    div.loading-buttons #load-file:hover {
+      background-color: #28784b; }
+  div.loading-buttons #download {
+    margin-top: 40px;
+    background-color: gray; }
+    div.loading-buttons #download:hover {
+      background-color: #737373; }
 
 div.details {
   padding: 15px;
@@ -62,7 +71,8 @@ div.details {
   position: fixed;
   background-color: whitesmoke; }
   div.details fieldset {
-    float: left; }
+    float: left;
+    clear: both; }
     div.details fieldset div.field {
       float: left;
       clear: both;
