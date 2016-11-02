@@ -6,18 +6,19 @@ body {
 
 div.content {
   margin-left: calc(50vw - 750px / 2);
-  background-color: whitesmoke;
   display: inline-block;
-  text-align: initial;
-  min-height: 80vh; }
+  text-align: initial; }
 
 div.list {
   width: 350px;
   white-space: nowrap;
+  background-color: whitesmoke;
   float: left;
   height: 100%;
+  min-height: 700px;
   overflow-x: hidden;
-  overflow-y: scroll; }
+  overflow-y: scroll;
+  margin-bottom: 100px; }
   div.list ul {
     list-style: none;
     padding: 0;
@@ -27,9 +28,14 @@ div.list {
     border-bottom: 1px solid lightgray;
     cursor: pointer; }
     div.list li.current {
-      border-left: 6px solid deepskyblue; }
+      border-left: 8px solid steelblue;
+      background-color: #d7e4ef; }
+      div.list li.current:hover {
+        background-color: #d7e4ef; }
     div.list li:hover {
       background-color: #eaeaea; }
+    div.list li:focus {
+      outline: none; }
     div.list li .title {
       margin-bottom: 10px; }
     div.list li .id {
@@ -54,13 +60,13 @@ div.loading-buttons {
     div.loading-buttons button:focus {
       outline: none; }
   div.loading-buttons #load-web {
-    background-color: coral; }
+    background-color: steelblue; }
     div.loading-buttons #load-web:hover {
-      background-color: #ff6c37; }
+      background-color: #3f75a2; }
   div.loading-buttons #load-file {
-    background-color: seagreen; }
+    background-color: #4caf50; }
     div.loading-buttons #load-file:hover {
-      background-color: #28784b; }
+      background-color: #449d48; }
   div.loading-buttons #download {
     margin-top: 40px;
     background-color: gray; }
@@ -85,6 +91,7 @@ div.details {
       div.details fieldset div.field label {
         float: left;
         width: 120px;
+        min-width: 120px;
         line-height: 1.6em; }
       div.details fieldset div.field input {
         width: 400px; }

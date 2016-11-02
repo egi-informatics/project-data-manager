@@ -11,20 +11,28 @@ $detail-input-width: 400px;
 $list-width: 350px;
 $content-width: $list-width + 400px;
 
+$blue: steelblue;
+$green: #4caf50;
+$orange: tomato;
+
+$load-web-color: $blue;
+
 div.content{
   margin-left: calc(50vw - #{$content-width} / 2);
-  background-color: whitesmoke;
+  //background-color: whitesmoke;
   display: inline-block;
   text-align: initial;
-  min-height: 80vh;
 }
 div.list{
   width: $list-width;
   white-space: nowrap;
+  background-color: whitesmoke;
   float: left;
   height: 100%;
+  min-height: 700px;
   overflow-x: hidden;
   overflow-y: scroll;
+  margin-bottom: 100px;
   ul{
     list-style: none;
     padding: 0;
@@ -35,10 +43,18 @@ div.list{
     border-bottom: 1px solid lightgray;
     cursor: pointer;
     &.current{
-      border-left: 6px solid deepskyblue;
+      border-left: 8px solid $blue;
+      $bg-c: lighten($blue, 40);
+      background-color: $bg-c;
+      &:hover{
+        background-color: $bg-c;
+      }
     }
     &:hover{
       background-color: #eaeaea;
+    }
+    &:focus{
+      outline: none;
     }
     .title{
       margin-bottom: 10px;
@@ -76,14 +92,14 @@ div.loading-buttons{
     }
   }
   #load-web{
-    $background: coral;
+    $background: $load-web-color;
     background-color: $background;
     &:hover{
       background-color: darken($background, $darken-ammount);
     }
   }
   #load-file{
-    $background: seagreen;
+    $background: $green;
     background-color: $background;
     &:hover{
       background-color: darken($background, $darken-ammount);
@@ -118,8 +134,10 @@ div.details{
       clear: both;
       margin: 5px 0;
       label{
+        $width: 120px;
         float: left;
-        width: 120px;
+        width: $width;
+        min-width: $width;
         line-height: 1.6em;
       }
       input{

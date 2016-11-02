@@ -40,6 +40,7 @@ function listAllProjects(projects){
     var li = document.createElement('li');
     li.setAttribute("onclick", "showProject('" + key + "');");
     li.setAttribute("id", key);
+    li.setAttribute("tabindex", "0");
 
     var title = document.createElement('div');
     title.className = "title";
@@ -83,6 +84,12 @@ function clearProjectList(){
 }
 
 function showProject(key){
+  if(isCurrent(key)){
+    current.removeAttribute('class');
+    clearDetails();
+    return;
+  }
+
   setCurrent(key);
   var p = projects[key];
   var d = getDetailFields();
@@ -99,6 +106,14 @@ function setCurrent(key){
   current.setAttribute("class", "current");
 }
 
+function isCurrent(key){
+  var element = document.getElementById(key);
+  if(element == null || element.className.indexOf("current") == -1){
+    return false;
+  }
+  return true;
+}
+
 function clearDetails(){
   var d = getDetailFields();
   for (var key in d) {
@@ -112,9 +127,45 @@ function getDetailFields(){
     id: document.getElementById('p-id'),
     contact: document.getElementById('p-contact'),
     price: document.getElementById('p-price'),
-    pdf: document.getElementById('p-pdf')
+    pdf: document.getElementById('p-pdf'),
+    lat: document.getElementById('p-lat'),
+    lon: document.getElementById('p-lon')
   }
   return d;
+}
+
+function nextPrevious(e){
+  switch(e.which){
+    case 40:
+      e.preventDefault();
+      loadNextProject();
+      break;
+    case 38:
+      e.preventDefault();
+      loadPreviousProject();
+      break;
+  }
+}
+
+function loadNextProject(){
+
+  if(current == null || current.nextSibling == null){
+    return;
+  }
+  var next = current.nextSibling;
+  next.click();
+  //next.focus();
+  location.hash = current.getAttribute("id");
+  //next.scrollIntoView();
+}
+
+function loadPreviousProject(){
+  if(current == null || current.previousSibling == null){
+    return;
+  }
+  var prev = current.previousSibling;
+  prev.click();
+  prev.focus();
 }
 
 // {
