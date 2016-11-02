@@ -88,6 +88,7 @@ function showProject(key){
 
   title.value = p.title;
   id.value = p.id;
+  contact.value = p.contact;
   console.log(p.id + " " + p.title);
 }
 

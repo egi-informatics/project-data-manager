@@ -7,11 +7,11 @@ body{
   margin-top: 10px;
 }
 
-$detail-width: 700px;
+$detail-input-width: 400px;
 $list-width: 300px;
-$content-width: $list-width + $detail-width;
+$content-width: $list-width + 400px;
 
-.content{
+div.content{
   margin-left: calc(50vw - #{$content-width} / 2);
   background-color: whitesmoke;
   display: inline-block;
@@ -93,12 +93,11 @@ div.loading-buttons{
   }
 }
 
-
 div.details{
   padding: 15px;
   margin-left: $list-width + 10px;
   //margin-top: 10px;
-  width: $detail-width;
+  //width: $detail-width;
   box-sizing: border-box;
   position: fixed;
   background-color: whitesmoke;
@@ -116,7 +115,7 @@ div.details{
         line-height: 1.6em;
       }
       input{
-        width: 260px;
+        width: $detail-input-width;
       }
     }
     & + fieldset{
