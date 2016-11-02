@@ -1,11 +1,3 @@
-function toMap(obj){
-  var projects = {};
-  for(index in obj){
-    projects[obj[index].id] = obj[index];
-  }
-  return projects;
-}
-
 function addProject(projects, data){
   if(hasAllProperties(data)){
     projects[key] = data;
@@ -46,6 +38,7 @@ function listAllProjects(projects){
   for(key in projects){
     var p = projects[key];
     var li = document.createElement('li');
+    li.setAttribute("onclick", "showProject('" + key + "');");
 
     var title = document.createElement('div');
     title.className = "title";
@@ -85,6 +78,17 @@ function clearProjectList(){
   var list = document.getElementsByClassName('list')[0];
   var ul = list.getElementsByTagName('ul')[0];
   ul.innerHTML = "";
+}
+
+function showProject(key){
+  var p = projects[key];
+  var title = document.getElementById('p-title');
+  var id = document.getElementById('p-id');
+  var contact = document.getElementById('p-contact');
+
+  title.value = p.title;
+  id.value = p.id;
+  console.log(p.id + " " + p.title);
 }
 
 // {
