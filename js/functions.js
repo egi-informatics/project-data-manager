@@ -39,6 +39,7 @@ function listAllProjects(projects){
     var p = projects[key];
     var li = document.createElement('li');
     li.setAttribute("onclick", "showProject('" + key + "');");
+    li.setAttribute("id", key);
 
     var title = document.createElement('div');
     title.className = "title";
@@ -61,6 +62,7 @@ function loadFromWeb(){
 
   currentlyLoading = true;
   clearProjectList();
+  clearDetails();
 
   xhr = new XMLHttpRequest();
   xhr.onreadystatechange = function(){
@@ -81,15 +83,38 @@ function clearProjectList(){
 }
 
 function showProject(key){
+  setCurrent(key);
   var p = projects[key];
-  var title = document.getElementById('p-title');
-  var id = document.getElementById('p-id');
-  var contact = document.getElementById('p-contact');
+  var d = getDetailFields();
+  for (var field in d) {
+    d[field].value = p[field];
+  }
+}
 
-  title.value = p.title;
-  id.value = p.id;
-  contact.value = p.contact;
-  console.log(p.id + " " + p.title);
+function setCurrent(key){
+  if(current != null){
+    current.removeAttribute('class');
+  }
+  current = document.getElementById(key);
+  current.setAttribute("class", "current");
+}
+
+function clearDetails(){
+  var d = getDetailFields();
+  for (var key in d) {
+    d[key].value = "";
+  }
+}
+
+function getDetailFields(){
+  var d = {
+    title: document.getElementById('p-title'),
+    id: document.getElementById('p-id'),
+    contact: document.getElementById('p-contact'),
+    price: document.getElementById('p-price'),
+    pdf: document.getElementById('p-pdf')
+  }
+  return d;
 }
 
 // {

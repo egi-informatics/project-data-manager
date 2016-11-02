@@ -8,7 +8,7 @@ body{
 }
 
 $detail-input-width: 400px;
-$list-width: 300px;
+$list-width: 350px;
 $content-width: $list-width + 400px;
 
 div.content{
@@ -34,6 +34,12 @@ div.list{
     padding: 10px;
     border-bottom: 1px solid lightgray;
     cursor: pointer;
+    &.current{
+      border-left: 6px solid deepskyblue;
+    }
+    &:hover{
+      background-color: #eaeaea;
+    }
     .title{
       margin-bottom: 10px;
     }
@@ -105,6 +111,8 @@ div.details{
   fieldset{
     float: left;
     clear: both;
+    width: 100%;
+    box-sizing: border-box;
     div.field {
       float: left;
       clear: both;
@@ -116,6 +124,19 @@ div.details{
       }
       input{
         width: $detail-input-width;
+        &:focus {
+          //outline: 2px solid deepskyblue;
+        }
+      }
+      #p-pdf{
+        width: $detail-input-width - 40px;
+        & + span{
+           margin-left: 5px;
+           color: darkgray;
+        }
+      }
+      select:focus{
+        //outline: none;
       }
     }
     & + fieldset{

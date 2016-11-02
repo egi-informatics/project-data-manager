@@ -5,14 +5,14 @@ body {
   margin-top: 10px; }
 
 div.content {
-  margin-left: calc(50vw - 700px / 2);
+  margin-left: calc(50vw - 750px / 2);
   background-color: whitesmoke;
   display: inline-block;
   text-align: initial;
   min-height: 80vh; }
 
 div.list {
-  width: 300px;
+  width: 350px;
   white-space: nowrap;
   float: left;
   height: 100%;
@@ -26,6 +26,10 @@ div.list {
     padding: 10px;
     border-bottom: 1px solid lightgray;
     cursor: pointer; }
+    div.list li.current {
+      border-left: 6px solid deepskyblue; }
+    div.list li:hover {
+      background-color: #eaeaea; }
     div.list li .title {
       margin-bottom: 10px; }
     div.list li .id {
@@ -65,13 +69,15 @@ div.loading-buttons {
 
 div.details {
   padding: 15px;
-  margin-left: 310px;
+  margin-left: 360px;
   box-sizing: border-box;
   position: fixed;
   background-color: whitesmoke; }
   div.details fieldset {
     float: left;
-    clear: both; }
+    clear: both;
+    width: 100%;
+    box-sizing: border-box; }
     div.details fieldset div.field {
       float: left;
       clear: both;
@@ -82,6 +88,11 @@ div.details {
         line-height: 1.6em; }
       div.details fieldset div.field input {
         width: 400px; }
+      div.details fieldset div.field #p-pdf {
+        width: 360px; }
+        div.details fieldset div.field #p-pdf + span {
+          margin-left: 5px;
+          color: darkgray; }
     div.details fieldset + fieldset {
       margin-top: 15px; }
 
