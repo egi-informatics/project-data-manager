@@ -129,7 +129,8 @@ function getDetailFields(){
     price: document.getElementById('p-price'),
     pdf: document.getElementById('p-pdf'),
     lat: document.getElementById('p-lat'),
-    lon: document.getElementById('p-lon')
+    lon: document.getElementById('p-lon'),
+    layover: document.getElementById('p-layover')
   }
   return d;
 }
@@ -154,9 +155,9 @@ function loadNextProject(){
   }
   var next = current.nextSibling;
   next.click();
-  //next.focus();
-  location.hash = current.getAttribute("id");
-  //next.scrollIntoView();
+  next.focus();
+  //location.hash = current.getAttribute("id");
+  next.scrollIntoView();
 }
 
 function loadPreviousProject(){
@@ -166,6 +167,33 @@ function loadPreviousProject(){
   var prev = current.previousSibling;
   prev.click();
   prev.focus();
+}
+
+function recursivePrintArray(element){
+  if (Array.isArray(element)){
+    var array = element;
+    var text = "";
+    for(var i = 0; i < array.length; i++){
+      text += "[" + recursivePrintArray(array[i]) + "]";
+    }
+  } else {
+
+  }
+}
+
+function hasSubArray(element){
+  var isArray = Array.isArray(element);
+  if(!isArray){
+    return;
+  }
+  var array = element;
+  var hasSubArray = false;
+  for(var i = 0; i < array.length; i++){
+    if(Array.isArray(array[i])){
+      return true;
+    }
+  }
+  return false;
 }
 
 // {
