@@ -95,6 +95,7 @@ function showProject(key){
   var d = getDetailFields();
   for (var field in d) {
     if(p[field] == null){
+      d[field].value = "";
       continue;
     }
     if(field == "layover"){
