@@ -94,6 +94,13 @@ function showProject(key){
   var p = projects[key];
   var d = getDetailFields();
   for (var field in d) {
+    if(p[field] == null){
+      continue;
+    }
+    if(field == "layover"){
+      d[field].value = JSON.stringify(p[field]);
+      continue;
+    }
     d[field].value = p[field];
   }
 }
@@ -157,7 +164,7 @@ function loadNextProject(){
   next.click();
   next.focus();
   //location.hash = current.getAttribute("id");
-  next.scrollIntoView();
+  //next.scrollIntoView();
 }
 
 function loadPreviousProject(){
@@ -169,32 +176,42 @@ function loadPreviousProject(){
   prev.focus();
 }
 
-function recursivePrintArray(element){
-  if (Array.isArray(element)){
-    var array = element;
-    var text = "";
-    for(var i = 0; i < array.length; i++){
-      text += "[" + recursivePrintArray(array[i]) + "]";
-    }
-  } else {
-
-  }
-}
-
-function hasSubArray(element){
-  var isArray = Array.isArray(element);
-  if(!isArray){
-    return;
-  }
-  var array = element;
-  var hasSubArray = false;
-  for(var i = 0; i < array.length; i++){
-    if(Array.isArray(array[i])){
-      return true;
-    }
-  }
-  return false;
-}
+// function recursivePrintArray(element){
+//   if (hasSubArray(element)){
+//     var array = element;
+//     var text = "";
+//     for(var i = 0; i < array.length; i++){
+//       text += "[" + recursivePrintArray(array[i]) + "]";
+//     }
+//   } else if (Array.isArray(element)) {
+//     return element.toString();
+//   } else {
+//     return "";
+//   }
+//
+//   return commaSubArrays(text);
+// }
+//
+// function hasSubArray(element){
+//   var isArray = Array.isArray(element);
+//   if(!isArray){
+//     return;
+//   }
+//   var array = element;
+//
+//   for(var i = 0; i < array.length; i++){
+//     var hasSubArray = Array.isArray(array[i]);
+//     if(hasSubArray){
+//       return true;
+//     }
+//   }
+//   return false;
+// }
+//
+// function commaSubArrays(text){
+//   text.match
+//   text = "[" + text + "]";
+// }
 
 // {
 //   id: "",
