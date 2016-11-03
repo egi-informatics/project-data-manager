@@ -31,13 +31,16 @@ div.details{
       input{
         width: $input-width;
         &:focus {
-          //outline: 2px solid deepskyblue;
+          outline: 1px solid $blue;
         }
       }
       textarea{
         width: $input-width;
         max-width: $input-width;
         border-color: lightgray;
+        &:focus{
+          outline: 1px solid $blue;
+        }
       }
       #p-pdf{
         width: $input-width - 40px;

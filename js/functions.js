@@ -135,6 +135,7 @@ function getDetailFields(){
     id: document.getElementById('p-id'),
     contact: document.getElementById('p-contact'),
     price: document.getElementById('p-price'),
+    status: document.getElementById('p-status'),
     pdf: document.getElementById('p-pdf'),
     lat: document.getElementById('p-lat'),
     lon: document.getElementById('p-lon'),

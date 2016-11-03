@@ -62,10 +62,14 @@ div.details {
         line-height: 1.6em; }
       div.details fieldset div.field input {
         width: 400px; }
+        div.details fieldset div.field input:focus {
+          outline: 1px solid steelblue; }
       div.details fieldset div.field textarea {
         width: 400px;
         max-width: 400px;
         border-color: lightgray; }
+        div.details fieldset div.field textarea:focus {
+          outline: 1px solid steelblue; }
       div.details fieldset div.field #p-pdf {
         width: 360px; }
         div.details fieldset div.field #p-pdf + span {
