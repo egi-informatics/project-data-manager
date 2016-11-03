@@ -1,0 +1,51 @@
+//-=-=-=-=-=-=-=-
+// Loading Buttons
+//-=-=-=-=-=-=-=-
+div.loading-buttons{
+  $width: 150px;
+  $darken-ammount: 5;
+
+  position: fixed;
+  width: $width;
+  margin-left: - $width - 20px;
+  button{
+    padding: 12px;
+    width: 100%;
+    border: none;
+    color: white;
+    font-weight: 100;
+    border-radius: 10px;
+    margin: 0 auto;
+    cursor: pointer;
+    transition: all .15s;
+    margin: 10px 0;
+    &:hover{
+      //background-color: #ea754a;
+    }
+    &:focus{
+      outline: none;
+    }
+  }
+  #load-web{
+    $background: $load-web-color;
+    background-color: $background;
+    &:hover{
+      background-color: darken($background, $darken-ammount);
+    }
+  }
+  #load-file{
+    $background: $green;
+    background-color: $background;
+    &:hover{
+      background-color: darken($background, $darken-ammount);
+    }
+  }
+  #download{
+    margin-top: 40px;
+    $background: gray;
+    background-color: $background;
+    &:hover{
+      background-color: darken($background, $darken-ammount);
+    }
+  }
+}

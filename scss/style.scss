@@ -1,0 +1,28 @@
+html{
+  background-color: #333;
+  //overflow: hidden;
+}
+body{
+  //text-align: center;
+  margin-top: 10px;
+}
+
+$list-width: 350px;
+$content-width: $list-width + 400px;
+
+$blue: steelblue;
+$green: #4caf50;
+$orange: tomato;
+
+$load-web-color: $blue;
+
+div.content{
+  margin-left: calc(50vw - #{$content-width} / 2);
+  //background-color: whitesmoke;
+  display: inline-block;
+  text-align: initial;
+}
+
+@import "buttons";
+@import "display";
+@import "list"

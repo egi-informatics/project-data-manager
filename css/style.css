@@ -9,38 +9,36 @@ div.content {
   display: inline-block;
   text-align: initial; }
 
-div.list {
-  width: 350px;
-  white-space: nowrap;
-  background-color: whitesmoke;
-  float: left;
-  height: 100%;
-  min-height: 700px;
-  overflow-x: hidden;
-  overflow-y: scroll;
-  margin-bottom: 100px; }
-  div.list ul {
-    list-style: none;
-    padding: 0;
-    margin: 0; }
-  div.list li {
-    padding: 10px;
-    border-bottom: 1px solid lightgray;
-    cursor: pointer; }
-    div.list li.current {
-      border-left: 8px solid steelblue;
-      background-color: #d7e4ef; }
-      div.list li.current:hover {
-        background-color: #d7e4ef; }
-    div.list li:hover {
-      background-color: #eaeaea; }
-    div.list li:focus {
+div.loading-buttons {
+  position: fixed;
+  width: 150px;
+  margin-left: -170px; }
+  div.loading-buttons button {
+    padding: 12px;
+    width: 100%;
+    border: none;
+    color: white;
+    font-weight: 100;
+    border-radius: 10px;
+    margin: 0 auto;
+    cursor: pointer;
+    transition: all .15s;
+    margin: 10px 0; }
+    div.loading-buttons button:focus {
       outline: none; }
-    div.list li .title {
-      margin-bottom: 10px; }
-    div.list li .id {
-      color: gray;
-      font-weight: 100; }
+  div.loading-buttons #load-web {
+    background-color: steelblue; }
+    div.loading-buttons #load-web:hover {
+      background-color: #3f75a2; }
+  div.loading-buttons #load-file {
+    background-color: #4caf50; }
+    div.loading-buttons #load-file:hover {
+      background-color: #449d48; }
+  div.loading-buttons #download {
+    margin-top: 40px;
+    background-color: gray; }
+    div.loading-buttons #download:hover {
+      background-color: #737373; }
 
 div.details {
   padding: 15px;
@@ -76,35 +74,37 @@ div.details {
     div.details fieldset + fieldset {
       margin-top: 15px; }
 
-div.loading-buttons {
-  position: fixed;
-  width: 150px;
-  margin-left: -170px; }
-  div.loading-buttons button {
-    padding: 12px;
-    width: 100%;
-    border: none;
-    color: white;
-    font-weight: 100;
-    border-radius: 10px;
-    margin: 0 auto;
-    cursor: pointer;
-    transition: all .15s;
-    margin: 10px 0; }
-    div.loading-buttons button:focus {
+div.list {
+  width: 350px;
+  white-space: nowrap;
+  background-color: whitesmoke;
+  float: left;
+  height: 100%;
+  min-height: 700px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  margin-bottom: 100px; }
+  div.list ul {
+    list-style: none;
+    padding: 0;
+    margin: 0; }
+  div.list li {
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+    cursor: pointer; }
+    div.list li.current {
+      border-left: 8px solid steelblue;
+      background-color: #d7e4ef; }
+      div.list li.current:hover {
+        background-color: #d7e4ef; }
+    div.list li:hover {
+      background-color: #eaeaea; }
+    div.list li:focus {
       outline: none; }
-  div.loading-buttons #load-web {
-    background-color: steelblue; }
-    div.loading-buttons #load-web:hover {
-      background-color: #3f75a2; }
-  div.loading-buttons #load-file {
-    background-color: #4caf50; }
-    div.loading-buttons #load-file:hover {
-      background-color: #449d48; }
-  div.loading-buttons #download {
-    margin-top: 40px;
-    background-color: gray; }
-    div.loading-buttons #download:hover {
-      background-color: #737373; }
+    div.list li .title {
+      margin-bottom: 10px; }
+    div.list li .id {
+      color: gray;
+      font-weight: 100; }
 
 /*# sourceMappingURL=style.css.map */
