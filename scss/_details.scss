@@ -17,6 +17,7 @@ div.details{
     float: left;
     clear: both;
     width: 100%;
+    min-height: 75px;
     box-sizing: border-box;
     div.field {
       float: left;
@@ -30,6 +31,8 @@ div.details{
       }
       input{
         width: $input-width;
+        padding: 2px 4px;
+        box-sizing: border-box;
         &:focus {
           outline: 1px solid $blue;
         }
@@ -38,6 +41,9 @@ div.details{
         width: $input-width;
         max-width: $input-width;
         border-color: lightgray;
+        min-height: 75px;
+        padding: 2px 4px;
+        box-sizing: border-box;
         &:focus{
           outline: 1px solid $blue;
         }

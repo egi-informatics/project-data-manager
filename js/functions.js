@@ -178,43 +178,6 @@ function loadPreviousProject(){
   prev.focus();
 }
 
-// function recursivePrintArray(element){
-//   if (hasSubArray(element)){
-//     var array = element;
-//     var text = "";
-//     for(var i = 0; i < array.length; i++){
-//       text += "[" + recursivePrintArray(array[i]) + "]";
-//     }
-//   } else if (Array.isArray(element)) {
-//     return element.toString();
-//   } else {
-//     return "";
-//   }
-//
-//   return commaSubArrays(text);
-// }
-//
-// function hasSubArray(element){
-//   var isArray = Array.isArray(element);
-//   if(!isArray){
-//     return;
-//   }
-//   var array = element;
-//
-//   for(var i = 0; i < array.length; i++){
-//     var hasSubArray = Array.isArray(array[i]);
-//     if(hasSubArray){
-//       return true;
-//     }
-//   }
-//   return false;
-// }
-//
-// function commaSubArrays(text){
-//   text.match
-//   text = "[" + text + "]";
-// }
-
 // {
 //   id: "",
 //   body: "",
