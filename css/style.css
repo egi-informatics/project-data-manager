@@ -151,7 +151,7 @@ div.details {
         padding: 4px 4px;
         box-sizing: border-box;
         border: 1px solid lightgray;
-        min-height: 75px; }
+        min-height: 80px; }
         div.details fieldset div.field textarea:focus {
           outline: 1px solid steelblue; }
       div.details fieldset div.field #p-pdf {

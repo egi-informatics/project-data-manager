@@ -30,7 +30,7 @@
           </div>
           <div class="field">
             <label for="p-price">Price</label>
-            <input id="p-price" type="text" placeholder="$__k USD"></input>
+            <textarea id="p-price" type="text" placeholder="$__k USD"></textarea>
           </div>
         </fieldset>
         <fieldset>
@@ -58,14 +58,14 @@
           </div>
           <div class="field">
             <label for="p-layover">Layover Coordinates</label>
-            <textarea id="p-layover" type="textarea"></textarea>
+            <textarea id="p-layover" type="textarea" placeholder="Optional"></textarea>
           </div>
         </fieldset>
         <div class="control-buttons">
           <button class="small" id="close" onclick="clearDetails();" style="display:none;">Close</button>
-          <button class="small" id="save" style="display:none;">Save</button>
+          <button class="small" id="save" onclick="saveProjectFromDetails();" style="display:none;">Save</button>
           <button class="small" id="revert" style="display:none;">Revert Changes</button>
-          <button class="small" id="add-new">Add as New</button>
+          <button class="small" id="add-new" onclick="addProjectFromDetails();">Add as New</button>
           <button class="small" id="clear" onclick="clearDetails();">Clear</button>
         </div>
       </div>

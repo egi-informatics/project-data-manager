@@ -48,7 +48,7 @@ div.details{
       }
       textarea{
         @include common-input;
-        min-height: 75px;
+        min-height: 80px;
       }
       #p-pdf{
         width: $input-width - 40px;

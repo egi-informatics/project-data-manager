@@ -1,11 +1,41 @@
+function addProjectFromDetails(){
+  var details = getDetailFields();
+  var project = {};
+  for (var field in details) {
+    var value = details[field].value;
+    if(value != ""){
+      project[field] = details[field].value;
+    }
+  }
+  addProject(projects, project);
+}
+
+function saveProjectFromDetails(){
+  var details = getDetailFields();
+  var project = {};
+  for (var field in details) {
+    var value = details[field].value;
+    if(value != ""){
+      project[field] = details[field].value;
+    }
+  }
+  projects[project.id] = project;
+  refreshList();
+  showProject(details.id.value);
+}
+
 function addProject(projects, data){
   if(alreadyInList(projects, data)){
+    alert("Project not added. " + data.id + " is already is in the list.");
     throw "Exception: Project not added. Already in list.";
   }
   if(!hasAllProperties(data)){
+    alert("Project not added. Missing required properties.");
     throw "Exception: Missing required properties.";
   }
   projects[data.id] = data;
+  refreshList();
+  showProject(data.id);
 }
 
 function alreadyInList(projects, data){
@@ -211,17 +241,19 @@ function loadPreviousProject(){
   prev.focus();
 }
 
-// {
-//   id: "",
-//   body: "",
-//   contact: "",
-//   lat: "",
-//   lon: "",
-//   pdf: "",
-//   price: "",
-//   small image: "",
-//   sponsorship: "",
-//   status: "",
-//   title: "",
-//   video: "",
-// }
+function childScrollFix(){
+  var areas = document.getElementsByTagName('textarea');
+  for(var i = 0; i < areas.length; i++){
+    areas[i].addEventListener("mouseover", function(){
+      document.body.style.overflow='hidden';
+    });
+    areas[i].addEventListener("mouseout", function(){
+      document.body.style.overflow='auto';
+    })
+  }
+}
+
+function refreshList(){
+  clearProjectList();
+  listAllProjects(projects);
+}
