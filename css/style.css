@@ -9,6 +9,9 @@ div.content {
   display: inline-block;
   text-align: initial; }
 
+/*-------------
+ Loading Buttons
+--------------*/
 div.loading-buttons {
   position: fixed;
   width: 150px;
@@ -35,8 +38,8 @@ div.loading-buttons {
     div.loading-buttons #load-file:hover {
       background-color: #449d48; }
   div.loading-buttons #download {
-    margin-top: 40px;
-    background-color: gray; }
+    background-color: gray;
+    margin-top: 40px; }
     div.loading-buttons #download:hover {
       background-color: #737373; }
 
@@ -58,22 +61,25 @@ div.details {
       margin: 5px 0; }
       div.details fieldset div.field label {
         float: left;
+        clear: both;
         width: 120px;
         min-width: 120px;
         line-height: 1.6em; }
       div.details fieldset div.field input {
         width: 400px;
-        padding: 2px 4px;
-        box-sizing: border-box; }
+        max-width: 400px;
+        padding: 4px 4px;
+        box-sizing: border-box;
+        border: 1px solid lightgray; }
         div.details fieldset div.field input:focus {
           outline: 1px solid steelblue; }
       div.details fieldset div.field textarea {
         width: 400px;
         max-width: 400px;
-        border-color: lightgray;
-        min-height: 75px;
-        padding: 2px 4px;
-        box-sizing: border-box; }
+        padding: 4px 4px;
+        box-sizing: border-box;
+        border: 1px solid lightgray;
+        min-height: 75px; }
         div.details fieldset div.field textarea:focus {
           outline: 1px solid steelblue; }
       div.details fieldset div.field #p-pdf {
@@ -81,6 +87,8 @@ div.details {
         div.details fieldset div.field #p-pdf + span {
           margin-left: 5px;
           color: darkgray; }
+      div.details fieldset div.field select:focus {
+        outline: none; }
     div.details fieldset + fieldset {
       margin-top: 15px; }
 

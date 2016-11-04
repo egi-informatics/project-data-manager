@@ -4,6 +4,22 @@
 $input-width: 400px;
 $lable-width: 120px;
 //
+@mixin common-input {
+  width: $input-width;
+  max-width: $input-width;
+  padding: 4px 4px;
+  box-sizing: border-box;
+  border: 1px solid lightgray;
+  &:focus {
+    outline: 1px solid $blue;
+  }
+}
+@mixin common-label {
+  float: left;
+  clear: both;
+}
+//
+
 div.details{
   padding: 15px;
   margin-left: $list-width + 10px;
@@ -14,39 +30,25 @@ div.details{
   background-color: whitesmoke;
   //background-color: coral;
   fieldset{
-    float: left;
-    clear: both;
+    @include common-label;
     width: 100%;
     min-height: 75px;
     box-sizing: border-box;
     div.field {
-      float: left;
-      clear: both;
+      @include common-label;
       margin: 5px 0;
       label{
-        float: left;
+        @include common-label;
         width: $lable-width;
         min-width: $lable-width;
         line-height: 1.6em;
       }
       input{
-        width: $input-width;
-        padding: 2px 4px;
-        box-sizing: border-box;
-        &:focus {
-          outline: 1px solid $blue;
-        }
+        @include common-input;
       }
       textarea{
-        width: $input-width;
-        max-width: $input-width;
-        border-color: lightgray;
+        @include common-input;
         min-height: 75px;
-        padding: 2px 4px;
-        box-sizing: border-box;
-        &:focus{
-          outline: 1px solid $blue;
-        }
       }
       #p-pdf{
         width: $input-width - 40px;
@@ -56,7 +58,7 @@ div.details{
         }
       }
       select:focus{
-        //outline: none;
+        outline: none;
       }
     }
     & + fieldset{

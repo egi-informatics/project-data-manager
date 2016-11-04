@@ -1,10 +1,19 @@
-//-=-=-=-=-=-=-=-
-// Loading Buttons
-//-=-=-=-=-=-=-=-
+/*-------------
+ Loading Buttons
+--------------*/
+
+// Mixins
+@mixin smart-background($color) {
+  $ammount: 5;
+  background-color: $color;
+  &:hover{
+    background-color: darken($color, $ammount);
+  }
+}
+//------
+
 div.loading-buttons{
   $width: 150px;
-  $darken-ammount: 5;
-
   position: fixed;
   width: $width;
   margin-left: - $width - 20px;
@@ -27,25 +36,13 @@ div.loading-buttons{
     }
   }
   #load-web{
-    $background: $load-web-color;
-    background-color: $background;
-    &:hover{
-      background-color: darken($background, $darken-ammount);
-    }
+    @include smart-background($blue);
   }
   #load-file{
-    $background: $green;
-    background-color: $background;
-    &:hover{
-      background-color: darken($background, $darken-ammount);
-    }
+    @include smart-background($green);
   }
   #download{
+    @include smart-background(gray);
     margin-top: 40px;
-    $background: gray;
-    background-color: $background;
-    &:hover{
-      background-color: darken($background, $darken-ammount);
-    }
   }
 }
