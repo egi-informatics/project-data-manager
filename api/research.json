@@ -1,38 +1,27 @@
 {
   "I01168" : {
     "id" : "I01168",
-    "body" : "Project Rationale & Significance:\nEGI has world-class expertise on organic and inorganic geochemistry of fluids, rocks and minerals. We are applying our craft to develop new integrative tools to improve discovery and production of oil and gas from conventional and unconventional resources. These efforts compliment EGI projects dealing with shale gas characterization, basin modeling, iCORDS™, and tracer testing.\nAreas of New Research\nTrace metals in carbon-rich source rocks in terrestrial and marine sedimentary rock – This study involves geochemical characterization of trace metals in source rocks. One task will test the existence of geochemical zonation haloes around concentrations of gas and oil in unconventional reservoirs. A second task will test the potential of distinguishing global from local anoxia events in marine sediments.\nFormation water chemistry: fluid-rock interactions and fluid flow histories related to basin evolution, reservoir filling, and oil-gas recovery – This investigation centers on the chemistry of formation waters (gases) in and around productive hydrocarbons reservoirs. One task will test for the existence of aqueous geo-indicators that reflect thermal history, fluid flow, and porosity-permeability development. Another task will assess the potential of mineral deposition in pore space and pipe scales during production and reinjection.\nSecondary minerals, diagenesis and fluid flow in oil and gas basins – This work focuses on the role of fine scale diagenetic effects that transform porosity and permeability and control fluid flow in source and reservoir rocks. ",
     "lon" : "25",
-    "small image" : "I01168_sml.png",
-    "sponsorship" : "1",
     "contact" : "Dr. Stuart Simmons",
     "title" : "Fluid Mineral and Source Rock Chemistry",
     "price" : "TBD USD",
     "lat" : "-53",
     "pdf" : "Fluid_Mineral_Source_Rock_Chemistry_I_01168",
-    "status" : "In Development",
-    "video" : ""
+    "status" : "In Development"
   },
   "I01232" : {
     "id" : "I01232",
-    "body" : "Value\nA redefined basin architecture, new play types, source rocks and reservoirs in the southern (foreland) sections of the Papuan Basin covering parts of Papua New Guinea (PNG), Indonesia and Iran Jaya.\nDefine and quantify source and reservoir potential using available open file samples of outcrop, shallow boreholes, drill cores, side wall cores and drill chips\nDefine and quantify available oil and gas samples from existing oil well samples and oil and gas seeps in situ Ø Evaluate the stratigraphic and paleoenvironmental geological controls and parameters of source and reservoir intervals of the southern Papuan Basin\nQuantify the geochemical, petrophysical and geophysical attributes of the source rock and reservoir intervals of the southern Papuan Basin Ø Evaluate the gas\/liquid potential of the southern Papuan Basin\nAssess potential gas\/liquid resources in place\nKey Deliverables\n1. ArcGIS database including geographic information, satellite imagery, basin outline and structure, surface geological map, well locations, typical seismic imagery, structural cross sections, oil and gas seep locations, oil and gas field data and sample locations with interpretation 2. ArcGIS based report on stratigraphy, sedimentology, tectonic setting, burial history, petroleum system analysis, geochemical and petrophysical properties of source rock intervals 3. Conceptual target ranking including multivariate geostatistical analysis based on the key parameters identified in each gas\/liquid province.",
     "lon" : "145.2431532",
-    "small image" : "I01232_sml.png",
-    "sponsorship" : "1",
     "contact" : "Dr. John Conolly, Mr. David Thul",
     "title" : "Southern Papuan Basin Integrated Petroleum Systems",
     "price" : "$75k USD",
     "lat" : "-10.21865833",
     "pdf" : "So_Papuan_Basin_Petroleum_Systems_I_01232",
-    "status" : "In Progress",
-    "video" : ""
+    "status" : "In Progress"
   },
   "I01021" : {
     "id" : "I01021",
-    "body" : "EGI currently has over 15 shale gas\/oil related projects that are completed, underway or proposed, with more than 20 researchers actively engaged in these studies. Regarding Central Eurasian experience, EGI has completed 38 in-house reports since 1990. The database also includes 309 other reports. EGI has over 450 well logs (digital and paper), close to 60,000 km of seismic and almost 2,100 rock samples from wells or outcrop.\nModern concepts of shale stratigraphy indicate highly variable depositional conditions that lead to heterogeneous grain size, composition, and variable organic matter preservation. The Energy and Geoscience Institute has an established petrological analysis workflow with key instrumentation, hardware, software and personnel in place. This permits examination of shales from micro- to nano-scales, using thin section petrography, QEMSCAN®, XRD, SEM and FIB-SEM. The results allow for a comprehensive interpretation of composition, texture, fabric, porosity, permeability, micro-tectonics and diagenetic history. The petrologic results for this study will be both qualitative and quantitative.\nAn effort will be made to evaluate the shale source rock variability in a sequence stratigraphic framework to more realistically define“sweet spots”within major shale intervals. It is believed this approach and level of detail will have regional implications reflected in the shale parasequences and resultant stacking patterns that are detectable on well logs and hence important to define the resource extent geographically and its potential richness.",
     "lon" : "39.095342",
-    "small image" : "I01021_sml.png",
-    "sponsorship" : "1",
     "contact" : "Dr. Júlia Kotulová, Dr. Raymond Levey",
     "layover" : [
       [
@@ -902,15 +891,11 @@
     "price" : "$80k USD",
     "lat" : "59.546029",
     "pdf" : "Central_Eurasia_Shales_I_01021",
-    "status" : "Completed",
-    "video" : ""
+    "status" : "Completed"
   },
   "I01075" : {
     "id" : "I01075",
-    "body" : "The Central Utah-Nevada region covers a large part of the Great Basin bounded by the Rockies\/Colorado Plateau on the east and the Sierra Nevada Mountains on the west. The region includes the Lower Paleozoic shelf of the North American continent which has been affected by a series of tectonic collisions (fold-and-thrust belts) from Late Paleozoic through Eocene times, and upon which the Neogene Basin-and-Range extensional basins were superimposed. The Paleozoic-Mesozoic plays of the region offer important frontier exploration targets both for conventional and unconventional oil and gas resources.",
     "lon" : "-116.448683",
-    "small image" : "I01075_sml.png",
-    "sponsorship" : "1",
     "contact" : "Dr. Rasoul Sorkhabi, Dr. Greg Nash",
     "layover" : [
       [
@@ -1140,99 +1125,71 @@
     "price" : "$57k USD",
     "lat" : "39.453160",
     "pdf" : "Central_Utah_Nevada_Deep_Plays_I_01075",
-    "status" : "Completed",
-    "video" : ""
+    "status" : "Completed"
   },
   "I01020" : {
     "id" : "I01020",
-    "body" : "Sedimentary rocks, which are mature both in terms of their organic carbon content and thermal history, lie at the base of the petroleum system analysis. A quantitative knowledge of the distribution of source rocks in space and through time has important implications not only for the global budget of hydrocarbon resources but also for evaluating the geologic conditions favorable for the generation of oil and gas on a basinal scale.\nAn enormous body of data on source rocks by new analytical techniques and from various basins around the world has been collected in recent decades. EGI, with its four decades of research work in various basins and regions of the world, holds an archive of thousands of reports and documents, which can constitute a valuable database on global source rocks. This research work is also timely in view of the recent trends in the industry to drill directly into source-rock targets. The project is to be conducted as an industry-funded research consortium. Given the wide scale, expectations and implications of the project, active participation of experts from the sponsoring companies in the project work is greatly encouraged.\nThe significance of this research project may be summarized in the following five key points:\n\t-The geospatial and temporal distribution of source rocks analyzed statistically and paleogeographically in this study has practical implications for the risk\/success evaluation of petroleum basins and identifying frontier or bypassed plays;\n\t\t-Sponsoring companies can augment their internal database on source rocks with the EGI database provided for in this project;\n\t\t-This research study attempts, in a holistic way, to decipher the fundamental controls resulting from tectonic, sedimentologic, geochemical, atmospheric and biotic processes, on the basinal deposition and preservation and the global distribution of hydrocarbon source rocks.\n\t\t-The Project will offer a new perspective on world basins classification and mapping based on source- rock deposition, rather than the present-day basin tectonic type. This will, in turn, generate new scheme to evaluate the relationship between basin type and hydrocarbon resources. ",
     "lon" : "-10",
-    "small image" : "I01020_sml.png",
-    "sponsorship" : "1",
     "contact" : "Dr. Rasoul Sorkhabi",
     "title" : "Source Rocks in Space & through Time",
     "price" : "$87.8k USD",
     "lat" : "-47",
     "pdf" : "Source_Rocks_in_Space_and_through_Time_I_01020",
-    "status" : "In Progress",
-    "video" : ""
+    "status" : "In Progress"
   },
   "I01244" : {
     "id" : "I01244",
-    "body" : "Strategies for refracturing to arrest production decline, provide methodology for zone selection, and improve EUR. Provision of economic balance between infill drilling and refracturing. Opportunities for reduction of operational costs in the low oil price scenario.",
     "lon" : "-29",
-    "small image" : "I01244_sml.png",
-    "sponsorship" : "1",
     "contact" : "Dr. Xiaochun “Jacob” Jin, Dr. John McLennan",
     "title" : "Optimizing Refracturing & Infill Drilling",
     "price" : "$TBDk USD",
     "lat" : "-53",
     "pdf" : "Optimize_Refracturing_Infill_Drilling_I_01244",
-    "status" : "In Development",
-    "video" : ""
+    "status" : "In Development"
   },
   "I01229" : {
     "id" : "I01229",
-    "body" : "Value\nRecalibration of the stratigraphy and evaluation of petroleum systems of the Central & North Atlantic Ocean conjugate margin.\nTimely opportunity to leverage a carefully selected array of 35 wells: COST – Continental Offshore Stratigraphic Test plus commercial wells and DSDP-ODP-IODP sites, recommended by EGI corporate members. Ø Both in-house and affiliate scientist expertise and partnerships with 12 international institutes.\nUnique world class capability in high resolution chronostratigraphy via composite standards calibrated to the 2012 time scale, and novel analytical techniques in petroleum geochemistry (e.g., HAWK pyrolysis).\nArcGIS delivery platform.\nKey Deliverables\n1. Multi-disciplinary age and paleoenvironmental interpretation: Annotated graphic correlation charts for each study well. 2. Chronostratigraphic cross-sections: illustrating regional chronostratigraphy and distribution of biofacies. 3. Integrated sedimentology data and paleofacies maps for key time horizons relevant to major source rock intervals. 4. Source rock characterization for richness, maturity, kerogen type, and kinetics 5. Source (kerogen) type, depositional environment, and petroleum systems integration 6. Anhydrous pyrolysis kinetic values for elected source intervals 7. Progression onshore on conjugate margins in terms of uplift amount\/ uplift rate and timing using apatite fission track analysis. This is key to understanding sediment pathways and provenance. ",
     "lon" : "-41.3541789",
-    "small image" : "I01229_sml.png",
-    "sponsorship" : "1",
     "contact" : "Dr. Sudeep Kanungo, Mr. David Thul, Dr. Eiichi Setoyama",
     "title" : "EGI Oceans – C & N Atlantic Petroleum Systems",
     "price" : "$180K USD Total\n$60k USD – Upon signing\n$60k USD – Start of year 2\n$60k USD – Start of year 3",
     "lat" : "32.42128289",
     "pdf" : "EGIOceans_C&N_Atlantic_I_01229",
-    "status" : "In Progress",
-    "video" : ""
+    "status" : "In Progress"
   },
   "I01231" : {
     "id" : "I01231",
-    "body" : "A\t detailed understanding of thermal histories of individual oceanic crust tiles, each of them accreted over a 5 Ma-long interval (this understanding includes identification of any extra thermal events added on top of each tile’s cooling history);\n\t\tA detailed understanding of the radiator effect of the thinner oceanic crust associated with the tile-dividing oceanic fracture zones; and\n\t\tA definition of regions affected by a dysoxic event, done for several selected stratigraphies (this definition includes both well-derived analytical proofs for individual tiles and regional extrapolations).\n\t\tA scientific and competitive advantage for EGI Corporate Associates exploring in this frontier region.\n\t\tA comprehensive exploration manual for understanding the thermal history of the Central and North Atlantic region that can be used for other oceanic basin settings worldwide by EGI Corporate Associates not currently active in exploring this region.\n\t1.\tA present-day map of oceanic crust tiles color-coded according to their accretion speed category (ultra-slow, slow, intermediate and fast).\n\t2.\tMap of zonal representation of oceanic fracture zones including their individual main troughs and ridges.\n\t3.\tMap of oceanic crust tiles with anomalous thermal histories including hyperlinked texts describing the reasons for their abnormality.\n\t4.\tAttempted map of radiator effect of thinned oceanic crust of oceanic fracture zones;\n\t5.\tRaw maps of specific tiles proving the existence of dysoxic event for a set of chosen stratigraphic intervals.\n\t6.\tExtrapolated maps of rough areal extents of identified dysoxic events made for each of the chosen stratigraphic intervals.\n",
     "lon" : "-32.59970759",
-    "small image" : "I01231_sml.png",
-    "sponsorship" : "1",
     "contact" : "Dr. Michal Nemcok",
     "title" : "EGI Oceans – Oceanic Crust",
     "price" : "$74K USD",
     "lat" : "40.53914637",
     "pdf" : "EGIOceans_i01231_Oceanic_Crust_D_p",
-    "status" : "In Development",
-    "video" : ""
+    "status" : "In Development"
   },
   "I01022_2" : {
     "id" : "I01022_2",
-    "body" : "The ongoing research on petroleum systems at sheared margins has created new models, ideas and results that are breaking down barriers and opening up new and previously overlooked frontier regions. Phase 1 proved that sheared margins are an order of magnitude more complex than extensional margins. Instead of being similar everywhere along the strike of the margin, (a well-understood characteristic of extensional margins) sheared margins have well defined spatial and temporal distribution parameters. This fact makes each area locally unique from adjacent locales associated with the same margin.\nPhase 2 incorporates all basins of sheared margins (margin segments) worldwide, with special emphasis on the Equatorial Atlantic margin segments, the East Indian margin segments, selected South Atlantic margin segments, selected East African margins segments and selected West Australian margin segments.\nThe strategy is to define the significant controlling mechanisms and controlling factors to improve hydrocarbon exploration models available for sheared margins. We aim to develop a new and better appreciation of the factors controlling structural architecture and basin development in sheared margin settings (Module 1). Synthesis of this knowledge combined with Phase 1 insights will be used to tackle the mechanisms and factors controlling depositional systems of sheared margin settings (Module 2). Both modules 1 and 2 feed into development of the thermal models characterizing the sheared margins affected by local magmatism, lower crustal flow, and development of models of systematics of the source rock maturation history patterns typical for sheared margins.",
     "lon" : "-5",
-    "small image" : "I01022_2_sml.png",
-    "sponsorship" : "1",
     "contact" : "Dr. Michal Nemcok, Dr. Júlia Kotulová",
     "title" : "Petroleum Systems of Sheared Margins, Phase 2",
     "price" : "$74k USD",
     "lat" : "-53",
     "pdf" : "Petroleum_Systems_Sheared_Margins_Ph2_I_01022_2",
-    "status" : "In Development",
-    "video" : ""
+    "status" : "In Development"
   },
   "I01230" : {
     "id" : "I01230",
-    "body" : "Value\nA detailed understanding of the Salton Sea-Gulf of California region for thermal and hydrocarbon development history as a function of pull-apart basin maturity sponsors creating a competitive advantage for sponsors.\nCreate an exploration manual for both regional exploration of Mexico and for companies focused on pull-apart settings around the world\nUltimately, this work will lead to a true understanding of the continuum that exists between petroleum systems in pull-apart basins at different phases of their evolution from the initial stretching to sea-floor spreading.\n\nKey Deliverables\n1. Set of present-day thermal regime maps in GIS format\n2. Crustal thickness map in GIS format\n3. Fault map in GIS format\n4. Magmatic product distribution map in GIS format\n5. Geothermal field distribution map in GIS format\n6. Regional facies distribution maps for pull-apart fill in GIS format\n7. Color-coded maps showing the distribution of various properties of source, reservoir and seal rocks of the pull-apart fill in GIS format\n8. Gravity maps of different types (free-air, Bouguer, Isostatic residual anomaly, 1st vertical derivative, total horizontal derivative, several band passes of the Isostatic residual anomaly map) and magnetic maps (using gravity and magnetic data from existing sources)\n9. Map of the main sediment entry points into the pull-apart basins – all in GIS\n10. Set of 1D PetroMod source rock maturation and expulsion history models, characterizing individual pull-apart basins during their evolution from initial phases of crustal thinning to sea-floor spreading. Submitted in both exported bitmap and original PetroMod file formats. Each chapter of the report will include a short text. The main focus of the report will be to evaluate the factors controlling the thermal regime and hydrocarbon development in a progressively developing pull-apart basin through the seafloor spreading stage. ArcGIS™ format databases with full documentation will be included.",
     "lon" : "-110.3109588",
-    "small image" : "I01230_sml.png",
-    "sponsorship" : "1",
     "contact" : "Dr. Michal Nemcok, Mr. David Thul, Dr. Joseph Moore",
     "title" : "Frontier Basins of Mexico Region 1: Gulf of California",
     "price" : "$72k USD",
     "lat" : "28.11445847",
     "pdf" : "Frontier_Basins_Mexico_Gulf_of_CA_I_01230",
-    "status" : "In Development",
-    "video" : ""
+    "status" : "In Development"
   },
   "I00980_2" : {
     "id" : "I00980_2",
-    "body" : "Enhance the geologic understanding of the most promising marine and lacustrine shales from four primary basins\/ regions (Sichuan (key marine gas-producing basin), Yangtze Platform outside Sichuan (area of interest and bidding blocks), Ordos (key lacustrine oil and marine-transitional gas-producing basin), and Bohai Bay (key lacustrine oil- producing basin) by acquiring new samples and expanding the tests performed on the new and existing samples. Laboratory evaluation of marine and lacustrine shales using traditional assessment tools and new testing tools, procedures, and measurements to characterize geochemistry, mineralogy, petrophysical properties, gas and\/or oil content and brittle response\/“fracability” of Chinese shales, especially for the lacustrine shales.\n-Catalog characteristics from seismic reflection surveys, well logs, image logs, mineralogy, and geomechanical properties (where possible) for typical shale wells;\n\t\t-Correlate geologic properties and geomechanical measurements; e.g., relationships between mineralogy, rock fabric, storage capacity, and geomechanical parameters.\n\t\t-Conduct representative hydraulic fracturing simulations\/fracture propagation forecasts for representative marine and lacustrine shales. Interrelate these with geological characteristics. The goal is to attempt to establish differences between vertical and aerial fracture growth behavior and fracture potential\/morphology (natural and induced) for various marine and lacustrine shales;\n\t\t-Develop relationships (between similar and dissimilar shales) employing the database that has\/is being developed to aid in evaluation and inference of various shale properties;\n\t\t-Provide detailed quantitative and qualitative comparisons between properties of U.S. producing marine shales and China’s most promising marine and lacustrine shales to understand the merits and potential downsides;\n\t\t-Expand the database by including new core and outcrop sample testing and revise interpretations that will guide the appraisal and exploitation of Chinese shales. ",
     "lon" : "111.795411",
-    "small image" : "I00980_2_sml.png",
-    "sponsorship" : "1",
     "contact" : "Dr. Shu Jiang",
     "layover" : [
       [
@@ -1326,29 +1283,21 @@
     "price" : "$75k USD",
     "lat" : "32.232003",
     "pdf" : "China_Shale_Gas_Oil_Ph2_I_00980_2",
-    "status" : "Completed",
-    "video" : ""
+    "status" : "Completed"
   },
   "I01243" : {
     "id" : "I01243",
-    "body" : "This project aims to provide a detailed analysis of kerogen behavior under maturation with regards to resource specific parameters that are required for a robust play fairway prediction.",
     "lon" : "0",
-    "small image" : "I01243_sml.png",
-    "sponsorship" : "1",
     "contact" : "Dr. Matthias Greb, Dr. David J. Thul",
     "title" : "Improved Kinetic Models for Resource Play Assessment",
     "price" : "$75k USD",
     "lat" : "-47",
     "pdf" : "Improved_Kinetic_Models_Resource_Play_I_01243",
-    "status" : "In Development",
-    "video" : ""
+    "status" : "In Development"
   },
   "I01242" : {
     "id" : "I01242",
-    "body" : "Recent estimates of unconventional resources in the Karoo Basin, suggest recoverable shale gas in-place from ~30 Tcf to ~500 Tcf (i.e. Decker and Marot, 2012). Potentially large gas reserves; coupled with the present energy shortfall in South Africa, has led to shale gas becoming an attractive new energy prospect, with much of the renewed exploration focus falling on the Karoo Basin shales.\nThe project is designed to evaluate the gas potential of key carbonaceous shales within the Ecca and Dwyka Groups of the Karoo Basin; with integrated results used to define and evaluate the fundamental factors important to shale hydrocarbon potential in the Karoo Basin. A subsequent comparison of key parameters and results to analogous basins in North America will be used to identify areas with the greatest potential to viably host and produce shale gas within the Karoo.",
     "lon" : "26.503416",
-    "small image" : "I01242_sml.png",
-    "sponsorship" : "1",
     "contact" : "Dr. Bryony Richards-McClung",
     "layover" : [
       [
@@ -1654,57 +1603,41 @@
     "price" : "$80k USD",
     "lat" : "-31.256415",
     "pdf" : "Karoo_Basin_Reservoir_Characterization_I_01242",
-    "status" : "In Development",
-    "video" : ""
+    "status" : "In Development"
   },
   "I01216" : {
     "id" : "I01216",
-    "body" : "Value\nØ New core sample analyses of selected intervals from 20 DSDP-ODP sites in\nthe South Atlantic with ArcGIS delivery in November 2015\nØ 20 key sites from the South Atlantic conjugate margins (South America and\nwestern Africa), including one site (DSDP 249) from East Africa.\nØ Concurrent chronostratigraphic, paleoenvironmental and geochemical\nanalysis of up to 200 samples from critically identified gaps.\nØ Source rock related Cretaceous and Jurassic intervals for Hydrocarbon\nAnalyzer with Kinetics (HAWK™) geochemical analyses; quality control and\nnew data generation using modern HAWK™ instrumentation.\nØ At least 1000 new data points (from the 200 samples) resulting from\nchronostratigraphy and geochemical measurements will be added to the\nregional synthesis dataset\nDeliverables\n1. Improved age re-synthesis: Based on interpretations via new sample\nacquisition and analysis that have indicated some large shifts, especially in\nthe Falkland sector.\n2. Paleoenvironmental interpretations, and data-permitting, paleofacies\nmaps for selected intervals, e.g., Tithonian, early Aptian, mid-to late Albian.\n3. Improved chronostratigraphic cross-sections will illustrate the regional\nchronostratigraphy and distribution of biofacies, data permitting.\n4. Source rock characterization for richness, maturity, kerogen type, and\nkinetics as well as petroleum systems integration\n5. Geochemical logs: Posted depth standardized data for geochemical log for\nage-depth interpretation of results.\n6. Anhydrous pyrolysis kinetic values for elected source intervals",
     "lon" : "-13.51448513",
-    "small image" : "I01216_sml.png",
-    "sponsorship" : "1",
     "contact" : "Dr. Sudeep Kanungo, Mr. David Thul,  Dr. Eiichi Setoyama, Mr. Matthias Greb",
     "title" : "EGI Oceans – South Atlantic",
     "price" : "$88K USD",
     "lat" : "-33.25184087",
     "pdf" : "EGIOceans_So_Atlantic_I_01216",
-    "status" : "In Progress",
-    "video" : ""
+    "status" : "In Progress"
   },
   "I01073" : {
     "id" : "I01073",
-    "body" : "It is evident that liquid recoveries, even under reasonably ideal conditions are only on the order of 10%. Improving these recoveries is extremely important for economic sustainability of producing liquids from shales. Our research in Phase 1 and 2 of Liquids from Shales (EGI reports I 00973) also showed that developing a comprehensive understanding of underlying processes and optimization requires integration of robust geological modeling, hydraulic fracturing representation, and accurate simulation of the stimulated reservoir volume.\nThis next generation of research is designed to develop tools for optimizing recovery of fluids in shales and identify improved recovery processes. Project tasks will be focused toward understanding creation, characterization and effect of stimulated reservoir volumes on improved liquid recoveries in unconventional reservoirs. Research will also be performed on understanding the overall logistics of development – hydraulic fracture spacing, well spacing, gas and water injection possibilities, for secondary recovery.",
     "lon" : "20",
-    "small image" : "I01073_sml.png",
-    "sponsorship" : "1",
     "contact" : "Dr. Milind Deo",
     "title" : "Improved Liquid Recovery in Shales",
     "price" : "$50k USD",
     "lat" : "-47",
     "pdf" : "Improved_Liquid_Recovery_in_Shales_I_01073",
-    "status" : "In Progress",
-    "video" : ""
+    "status" : "In Progress"
   },
   "I01214" : {
     "id" : "I01214",
-    "body" : "With the current focus on liquids-rich shale plays in North America and the global importance of gas condensate plays, there is an increased need to develop reservoir engineering methods to analyze production data and to develop optimal methods of producing such reservoirs. Without careful planning a gas condensate reservoir can choke on its own production. Drawdown below the dew point of the reservoir fluid can result in condensate liquid dropout, particularly close to the wellbore, the sand face or the fracture face. The increased liquid saturation leads to reduced permeability to gas and, in some cases, significant choking back of the gas production. The impact on well production is most significant for shale reservoirs where most of the total pressure drop is in the formation. In recent EGI research projects (Shale Gas Production Analysis (SGPA) Phase 1 and Phase 2), we have developed a mathematical model of the gas production process from shales. In Phase 2 of that project we explored the applicability of the ideas developed in Phase 1 to production of saturated oil from shale reservoirs. The model developed provided no more than a first pass at analyzing the complex processes at play in this two-phase production system. Nevertheless the results were sufficiently encouraging that further development is warranted. In this project proposal we suggest that, first, an extension to gas condensate plays should be considered and second, a more detailed and rigorous mathematical analysis is merited.",
     "lon" : "15",
-    "small image" : "I01214_sml.png",
-    "sponsorship" : "1",
     "contact" : "Dr. Ian Walton",
     "title" : "Shale Liquids Production Analysis",
     "price" : "$52k USD",
     "lat" : "-53",
     "pdf" : "Shale_Liquids_Production_Analysis_I_01214",
-    "status" : "In Development",
-    "video" : ""
+    "status" : "In Development"
   },
   "I01005_2" : {
     "id" : "I01005_2",
-    "body" : "In addition to delivering the technical information in Phase 1, a further outcome was the signing of significant technical cooperation agreements with various governmental agencies and educational institutions in Colombia, Peru, Argentina and Brazil. These agreements allow for the exchange of technical expertise and data that includes previous interpretations, wells, seismic, samples and reservoir information.\nThe over-riding objective of Phase 2 is to comprehensively build on the knowledge, database, methodology, experience, contacts and signed agreements of Phase 1. It is the intention to establish an unparalleled understanding of shale resources in South America, enabling sponsors to make well informed exploration and exploitation decisions. Phase 2 research will follow two major avenues.\n\t-To collect a significant number of reservoir-specific core samples to enable extensive testing and measurements. It will also include an integrated interpretation involving seismic and well data.\n\t-To use the experience, methodologies and relationships developed in Phase 1, to evaluate an additional set of basins. ",
     "lon" : "-57.309968",
-    "small image" : "I01005_2_sml.png",
-    "sponsorship" : "1",
     "contact" : "Mr. David Thul, Dr. Raymond Levey",
     "layover" : [
       [
@@ -2322,29 +2255,21 @@
     "price" : "$156k USD",
     "lat" : "-24.006326",
     "pdf" : "South_American_Shales_Ph2_I_01005_2",
-    "status" : "In Progress",
-    "video" : ""
+    "status" : "In Progress"
   },
   "Q42014" : {
     "id" : "Q42014",
-    "body" : "There are more than 10 hydrocarbon fields discovered on oceanic crust in the Gulf of Mexico and Gulf of Guinea. Current academic research indicates that there are several types of oceanic crust and each of them has very different thermodynamic history.\nWe are preparing a systematic manual on exploration in rift and passive margin regions and in the process improve the understanding of petroleum systems in these settings. Our new internal research is being merged with the results of current literature and we are striving to create a 500-page book titled “Rifts and Passive Margins— Structural Architecture, Thermal Regimes and Petroleum Systems” published by Cambridge University Press.\nOur target is to deliver our comprehensive manual by mid– to late 2013. The anticipated results are highly relevant to future successful exploration, the development of a new generation of exploration geologists, and enhanced internal training programs for oil companies.\t",
     "lon" : "0",
-    "small image" : "Q42014_sml.png",
-    "sponsorship" : "1",
     "contact" : "Dr. Michal Nemcok",
     "title" : "Rifts & Passive Margins",
     "price" : "$15k USD",
     "lat" : "-47",
     "pdf" : "Rifts_and_Passive_Margins_P_p",
-    "status" : "In Progress",
-    "video" : ""
+    "status" : "In Progress"
   },
   "I01163" : {
     "id" : "I01163",
-    "body" : "Compared to the U.S. Gulf of Mexico, West Africa margins, and the South Atlantic margin, the South China Sea (SCS) is an frontier exploration region. Based on Energy Information Administration (EIA) and U.S. Geological Survey (USGS) estimates, the SCS contains proven or probable reserves of approximately 11 billion barrels of oil (bbl) and 190 trillion cubic feet (Tcf ) of gas and may have an additional, undiscovered 12 bbl of oil and 160 Tcf of gas resources.\nRecent discoveries in Yinggehai Basin and Pearl River Mouth Basin located in the northern continental margin, Cuu Long in western SCS, and Reed Bank in southeastern SCS have spurred exploration efforts in the region. The current exploration status differs from basin to basin due to the variety of geologic settings, and a lack of regional studies to characterize the differences in those basins. The study objectives are to understand the regional tectonic and depositional evolution and petroleum systems in SCS.",
     "lon" : "115.126823",
-    "small image" : "I01163_sml.png",
-    "sponsorship" : "1",
     "contact" : "Dr. Shu Jiang",
     "layover" : [
       [
@@ -2818,29 +2743,21 @@
     "price" : "$90k USD",
     "lat" : "20.330719",
     "pdf" : "South_China_Sea_Petroleum_System_I_01163",
-    "status" : "In Development",
-    "video" : ""
+    "status" : "In Development"
   },
   "I01226" : {
     "id" : "I01226",
-    "body" : "Value\nAn expanded understanding for basin-specific geologic, geochemical and mineralogical knowledge of non-marine strata in major producing AsiaPacific onshore basins with producing or potential unconventional plays\n Define basin evolution and the development of non-marine petroleum system elements including prioritized geological controls related to unconventional accumulation and production\nGenerate predictive non-marine models for play habitat of stratigraphically associated hybrid unconventional tight sand\/carbonate, shale and CBM hydrocarbon systems\nCharacterization of unconventional plays via data integration, interpretation, analysis of sample tests and comparisons U.S. analog unconventional plays\nAn evaluation of unconventional non-marine play opportunities\nKey Deliverables\n1. ArcGIS based database including stratigraphic charts, structural and depositional evolution maps, atlas of oil\/gas fields, maps of petroleum system elements and charts, petroleum system modeling, play fairways maps for hybrid unconventional non-marine plays, spreadsheets of sample tests, reservoir characterization of representative hybrid unconventional plays, and models for play concepts. 2. Preliminary assessment of risk for each petroleum system including reservoir and source rock distribution. 3. Data uploads, quarterly updates, meeting presentations, final project report text and figures.",
     "lon" : "120.0208665",
-    "small image" : "I01226_sml.png",
-    "sponsorship" : "1",
     "contact" : "Dr. Shu Jiang",
     "title" : "Asia-Pacific Hybrid Unconventional Non-marine Plays",
     "price" : "$89k USD – Upon signing $86k USD - Start of Year 2",
     "lat" : "2.785096066",
     "pdf" : "Hybrid_Uncon_NonMarine_AsiaPacific_Plays_I_01226",
-    "status" : "In Development",
-    "video" : ""
+    "status" : "In Development"
   },
   "I00973_2" : {
     "id" : "I00973_2",
-    "body" : "The production of liquids from shales has revolutionized the oil industry. In this second phase of research, we continued in our comprehensive quest at understanding all of the components that contribute to optimum exploitation of shales for liquids. These included geologic considerations, geomechanical modeling, reservoir engineering evaluations, and environmental aspects. We have learned and document that geologic characterization at various scales is important in establishing producibility and optimum recovery.\nSections 2–5 of the report focus on geologic evaluations. Detailed geologic characterizations of the Niobrara are discussed to establish the role of geology on production, the results have identified the property with the strongest correlation to production. An examination of pore-level characterization and a detailed workflow of shale characterization at the pore scale fill out the geology Sections.\nSections 6 –11 deal with various engineering operations. The material balance methodology utilized production data and fluids characterization. The method developed makes it possible to obtain pressure profiles and saturation information, and to estimate reservoir permeability prior to interference with another hydraulic fracture. The development of this method for all types of reservoir fluids, and associated data analysis technique, were significant achievements in this project. This analytical tool for matrix permeability determination is available to all sponsors.",
     "lon" : "-106.805234",
-    "small image" : "I00973_2_sml.png",
-    "sponsorship" : "1",
     "contact" : "Dr. Milind Deo",
     "layover" : [
       [
@@ -3122,29 +3039,21 @@
     "price" : "$40k USD",
     "lat" : "41.357185",
     "pdf" : "Liquids_from_Shales_Ph2_I_00973_2",
-    "status" : "Completed",
-    "video" : ""
+    "status" : "Completed"
   },
   "I01162" : {
     "id" : "I01162",
-    "body" : "Currently, the ability to estimate OGIP or OOIP often exceeds the ability to economically stimulate and extract this resource. This applies to many tight as well as ultra-low permeability formations, i.e. sands or shales. Improved simulation of hydraulic stimulation, amalgamating geologic texture with controllable engineering parameters could be of value.\nAdvances in simulation capabilities enable coupling structural geologic data (three-dimensional representation of stresses, natural fractures, and stratigraphy) with decision making processes for stimulation – volumes, rates, fluid types, completion zones. Without this interaction between simulation capabilities and geological information, low permeability formation exploitation may linger on the fringes of real economic viability.\nDiagnosis and simulation of hydraulic stimulation should consider the tectonic setting, the uplift history, the inferred fracture and fault configurations, and the relative magnitude and orientation of the principal stresses (all three principal stresses) which can be used to optimize fracture geometry and stimulation programs. With improvements in software, computational capacity, and recognition that in-situ discontinuities are relevant, fully three-dimensional hydraulic simulation is now becoming possible.",
     "lon" : "10",
-    "small image" : "I01162_sml.png",
-    "sponsorship" : "1",
     "contact" : "Dr. John McLennan",
     "title" : "Large-Scale Geologic Controls on Hydraulic Stimulation",
     "price" : "$45k USD",
     "lat" : "-47",
     "pdf" : "Large_Scale_Geologic_Controls_I_01162",
-    "status" : "In Progress",
-    "video" : ""
+    "status" : "In Progress"
   },
   "I01069" : {
     "id" : "I01069",
-    "body" : "Oil discoveries such as the Jubilee Field located in the Equatorial Atlantic have encouraged exploration in sheared margins worldwide. Sheared margins have a thermal history, which is different from that of extensional margins. Recent studies by EGI in the Equatorial Atlantic and Indian sheared margins have indicated that a successful exploration program in this setting requires a detailed understanding of the thermal and structural history of continental break-up.\nObjectives of this project are to refine the existing general timing of break-up of large margin segments with detailed break-up propagation timing, associated thermal histories, expulsion and trap timing. To achieve this, a robust analytical work program has been designed to focus on low-temperature thermochronology (constraining the exhumation histories of sedimentary provenances geared towards the first 10–40 Ma after break-up), fluid inclusions (constraining migration timing and migration horizons), and geochemical source rock\/hydrocarbons analyses (pairing source rock candidates with existing hydrocarbons). This effort will be undertaken in context with re-interpretation of existing dense and robust open-file well and seismic data within sheared margins.",
     "lon" : "110.773919",
-    "small image" : "I01069_sml.png",
-    "sponsorship" : "1",
     "contact" : "Dr. Michal Nemcok, Dr. John Conolly",
     "layover" : [
       [
@@ -3290,15 +3199,11 @@
     "price" : "$69k USD",
     "lat" : "-27.034549",
     "pdf" : "Sheared_Margins_W_Australia_I_01069",
-    "status" : "Completed",
-    "video" : ""
+    "status" : "Completed"
   },
   "I00983_2" : {
     "id" : "I00983_2",
-    "body" : "In Phase 1 of this project we developed a rigorous, semi-analytic, physics-based model of gas production from tight shales that recognized the distinguishing features of these reservoirs and allowed us to identify the major production drivers. The new model allows us to analyze production data from many wells as quickly as conventional decline – curve analysis, but has the advantage of being rooted in the physics of the process. Consequently, it provides a predictive and interpretive capability that is lacking in empirical models or, for that matter, large scale reservoir simulators.",
     "lon" : "-92.422278",
-    "small image" : "I00983_2_sml.png",
-    "sponsorship" : "1",
     "contact" : "Dr. Ian Walton",
     "layover" : [
       [
@@ -3360,43 +3265,31 @@
     "price" : "$42k USD",
     "lat" : "34.472598",
     "pdf" : "Shale_Gas_Production_Analysis_Ph2_I_00983_2",
-    "status" : "Completed",
-    "video" : ""
+    "status" : "Completed"
   },
   "I01209" : {
     "id" : "I01209",
-    "body" : "A significant body of work has been done on imaging the various gas and liquid producing shales. The images show the underlying heterogeneities and complexities that characterize shales. Implications of the observations at these scales on storage, thermodynamics and flow in shales are important, and are being examined by a number of groups.\rThe storage is conceptualized for various types of porosity – intergranular, intragranular, within the organic matter, etc. Complex pore structures that exist, for example in a Bakken shale sample are shown in Figure 1. Different types of measurements on prolific liquids producing shales indicate porosities of greater than 10%. The presence of this porosity is not easily evident from Figure 1. One\rof the questions is whether there is an underlying porosity in nanostructures of the shale samples. In a recent paper, Chen et al., (2013), observed that about 90% of the approximate 5% porosity is contained in pores smaller than 100 nm. Our work with fluorescent, epoxy-impregnated thin section studies have revealed underlying nanoporosity in chalks. In this project, we will create wellcalibrated\rnanoporous materials to help us figure out the roles of different types of porosity on permeabilities and relative permeabilities. We will compare results with measurements on natural shale samples.\rIn our previous work, we have shown that matrix permeability is one of the most important properties that govern recoveries of liquids from shales. Thermodynamic properties such as bubble and dew points, gas-oil ratios, etc., are also important. The low gas production in some of the liquids producing shales have been attributed to suppression of bubble or dew points in nanopores. It is thus critically important to understand the impact of the nanoporous structure on the basic properties of shales and fluids in these shales.\rThe GRI method of measuring permeability in shales consists of crushing the rock, exposing this to pressure and measuring pressure decay. It is not clear how this measurement corresponds to the connected liquid permeability in liquid-bearing shales. In this project, we will measure permeabilities by different methods to demonstrate and understand relationships between various permeability measurement techniques. Shales that produce liquids are under primary production. Even more important is that standard methods usually only provide absolute permeability.",
     "lon" : "-15",
-    "small image" : "I01209_sml.png",
-    "sponsorship" : "1",
     "contact" : "Dr. Milind Deo, Dr. John McLennan, Dr. Bryony Richards-McClung, Dr. Michael Bartl",
     "title" : "Flow in Nanoporous Rocks",
     "price" : "$70k USD",
     "lat" : "-53",
     "pdf" : "Flow_in_Nanoporous_Rocks_I_01209",
-    "status" : "In Progress",
-    "video" : ""
+    "status" : "In Progress"
   },
   "I01210" : {
     "id" : "I01210",
-    "body" : "Recent amendments to Mexico’s constitution have changed the structure of the petroleum industry in Mexico, setting the stage for significant opportunities in wildcatting, exploration, field development, and EOR. Successful ventures in each of these categories are predicated on a fundamental understanding of the petroleum systems in each basin. This Petroleum Systems Atlas aims to provide that understanding by assembling information and data from the literature, universities, and government sources into a coherent view of the proven and speculative petroleum systems. The project will cover five of Mexico’s producing, onshore and shallow-water basins. The atlas will evaluate conventional petroleum systems as well as unconventional petroleum opportunities.\nThe timing of this project is set to deliver the Atlas prior to bid round 1 in mid-2015. The delivery date will provide CAs with a report and GIS framework for rapid evaluation of initial opportunities. The project will also position EGI for subsequent, in-depth projects focused on specific areas of interest to future bid rounds. As in EGI’s South American Shales project, we aim to create close collaboration with organizations inside Mexico to provide new samples for analysis and integration into the GIS during future stages.\nA coherent description and characterization of proven and speculative petroleum systems in the following Mexican Basins will be created:\n-Sureste Basin -Tampico-Misantla Basin -Burgos Basin -Veracruz Basin -Sabinas Basin ",
     "lon" : "-97.825611",
-    "small image" : "I01210_sml.png",
-    "sponsorship" : "1",
     "contact" : "Mr. David Thul",
     "title" : "Petroleum Systems Atlas of Mexico",
     "price" : "$50k USD",
     "lat" : "21.016097",
     "pdf" : "Petroleum_Systems_Atlas_Mexico_I_01210",
-    "status" : "In Progress",
-    "video" : ""
+    "status" : "In Progress"
   },
   "I01025" : {
     "id" : "I01025",
-    "body" : "-To provide new integrated geologic and geomechanical analysis of core from prospective shale gas systems in selected Australian Basins.\n-Link geologic and geomechanical properties in order to determine geologic predictors of engineering.\nHowever, critical geologic data are missing, such as basic sedimentologic and stratigraphic description, thickness, lateral extent, TOC, Rock-Eval, kerogen type, inorganic mineralogy, porosity, and permeability.\nGeomechanical parameters that determine hydraulic fracture potential (“fracability”\/ brittleness), such as Young’s modulus, Poisson’s ratio, stress, and shear modulus are also lacking.",
     "lon" : "140.926464",
-    "small image" : "I01025_sml.png",
-    "sponsorship" : "1",
     "contact" : "Dr. John McLennan, Dr. John Conolly",
     "layover" : [
       [
@@ -3518,29 +3411,21 @@
     "price" : "$70k USD",
     "lat" : "-25.984158",
     "pdf" : "Australia_Shale_Gas_Shale_Oil_I_01025",
-    "status" : "In Development",
-    "video" : ""
+    "status" : "In Development"
   },
   "I01024" : {
     "id" : "I01024",
-    "body" : "Commercial exploitation of low mobility gas reservoirs has been improved with multi-stage hydraulic fracturing of long horizontal wells. Favorable exploitation has been correlated with large fracture surface area in contact with the shale matrix – this surface area being created by high rate and high volume injection of low viscosity water-based fluids. The environmental and economic implications of using large volumes of water (millions of gallons per well) are attracting considerable stakeholder and regulatory attention. Beyond this, ROI is usually unacceptable with the current pricing for natural gas.\nImprovements can be anticipated with reduced volume stimulations. Two avenues of approach are envisioned:\n\t-Modify properties of the fracturing fluid to facilitate flowback from unpropped secondary fracture networks, or\n\t\t−Modify the properties of the fracturing fluid to reduce the rate at which it flows into the secondary fracture network and still provide a nominally undamaged fracture system.\n\t\tIn the short-term, modifications can be made to operating practices that cater the treatment fluid to the specific reservoir. This involves optimizing fluid-rock compatibility decision making protocols. Fracture face damage, large capillary retention, relative permeability blockage of secondary and tertiary fractures can be reduced. Experimental and analytical evaluations are proposed – with the goal of providing tools and methodologies for fluid selection. In the long-term, alternate treating fluids may be the key to improved treatment efficiency. This can include revisiting fluids that the industry is familiar with – for example, CO2 – and using specialty fluids that have not been economically viable in the past – for example, gelled propane. Any and all of these potential solutions relate to characterizing mechanisms for formation damage, generally associated with diffusive or mechanical interactions between treating fluid, formation fluid and the formation rock itself. The Energy & Geosciences Institute will collaborate with Constien & Associates to provide an integrated numerical, analytical and experimental program to clarify mechanisms for this damage and to infer solutions. Unique experimental testing will complement state-of-the-art coupled geomechanical reservoir simulations, to delineate solutions that will reduce volumes, increase treatment NPV and reduce environmental concerns. ",
     "lon" : "-25",
-    "small image" : "I01024_sml.png",
-    "sponsorship" : "1",
     "contact" : "Dr. Ian Walton",
     "title" : "More Efficient Hydraulic Fracturing Systems",
     "price" : "$40k USD",
     "lat" : "-53",
     "pdf" : "More_Efficient_Hydraulic_Fracturing_Systems_I_01024",
-    "status" : "Completed",
-    "video" : ""
+    "status" : "Completed"
   },
   "I01023" : {
     "id" : "I01023",
-    "body" : "-The exploitation of Shale Gas in the US has had a profound impact on gas supply in the US, perhaps for the next 100 years\n-Europe is now looking to access similar resources\n-In the onshore UK, the organic rich Shales of the Carboniferous of Northern England and Jurassic of Southern England would appear to present technically & economically viable targets\n-Recent drilling by Cuadrilla has heightened interest both from industry and media in the Shale Gas potential\n-This report will draw on expertise at Imperial College & EGI to generate a review of the potential in the onshore UK, location, volumes, technology and accessibility. ",
     "lon" : "-1.898682",
-    "small image" : "I01023_sml.png",
-    "sponsorship" : "1",
     "contact" : "Prof. Alastair Fraser, Dr. Raymond Levey",
     "layover" : [
       [
@@ -3714,63 +3599,46 @@
     "price" : "$51k USD",
     "lat" : "54.265230",
     "pdf" : "UK_Shale_Gas_I_01023",
-    "status" : "Completed",
-    "video" : ""
+    "status" : "Completed"
   },
   "I01169" : {
     "id" : "I01169",
-    "body" : "Since the early 1980s, EGI has been developing environmentally benign, affordable and conservative tracers for geothermal, petroleum, and ground-water applications. Recently, EGI successfully demonstrated the use of reactive (e.g. reversibly sorbing) tracers in both packed-column, laboratory experiments and in field tracer tests. These are tracers that sorb and desorb rapidly and whose passage through a formation is therefore slightly retarded relative to that of a conservative (e.g. non-sorbing) tracer. The retardation is a function of the surface area of the rock to which the tracer solution was exposed.\nIn combination with appropriately calibrated numerical models, conservative and sorbing tracers can be used during the hydrofracture of shale formations to calculate the contacted fracture surface area and thereby to measure the success of the hydrofracture treatment. This approach has been successfully demonstrated in a geothermal reservoir and was again used in a shale-gas hydrofracture at the Dilly Creek (Horn River) project in northeast British Columbia during the summer of 2013. Data from the field experiment are still being analyzed, but the presentation will show recent results of laboratory experiments using a newly fabricated injection\/ backflow reactor that simulates a shale-gas-hydrofracture and flow-back process.",
     "lon" : "5",
-    "small image" : "I01169_sml.png",
-    "sponsorship" : "1",
     "contact" : "Dr. Peter Rose",
     "title" : "Tracers for Characterizing Shale Gas Hydrofractures",
     "price" : "$TBD  USD",
     "lat" : "-53",
     "pdf" : "Tracer_Testing_in_Shale_Hydrofractures_I_01169",
-    "status" : "In Development",
-    "video" : ""
+    "status" : "In Development"
   },
   "I01020_2" : {
     "id" : "I01020_2",
-    "body" : "By better understanding the source rock horizons and characteristics of sedimentary basins equipped with a user-friendly database, explorationists can reduce the risk of charge factor and hydrocarbon generation as part of the overall petroleum system analysis.\nA quick assessment tool for analysis of conventional as well as unconventional (self-sourced reservoir) plays based on source rock data and for assessing data-poor frontier and\/or by-passed plays based on regionally correlatable source rocks.",
     "lon" : "-10",
-    "small image" : "I01020_2_sml.png",
-    "sponsorship" : "1",
     "contact" : "Dr. Rasoul Sorkhabi",
     "title" : "Source Rocks in Space & through Time, Phase 2",
     "price" : "$87k USD",
     "lat" : "-47",
     "pdf" : "Source_Rocks_in_Space_and_through_Time_I_01020_2",
-    "status" : "In Development",
-    "video" : ""
+    "status" : "In Development"
   },
   "I01233" : {
     "id" : "I01233",
-    "body" : "Value\nSummary for the regional tectonics and basin evolution in western SE Asia, running North – South, from Myanmar to Java Island region;\nComparison of the geology and petroleum systems of back-arc, fore-arc and fore-deep basins on a regional basis;\nRecommended play exploration opportunities in both frontier basins and exploration mature basins;\nCompendium with predictive models addressing the similarities and dissimilarities of petroleum systems in back-arc, fore-arc and fore-deep basins in different tectonic settings prioritized for exploration strategy or as analogs for exploration in other similar basins in the world.\n\nKey Deliverables\n1. ArcGIS based database including regional tectonic and depositional maps, stratigraphic charts and stratigraphic cross sections for each basin and\/or sub-basins, maps of Petroleum system elements and chart, modeled burial and thermal history and hydrocarbon migration and accumulation results, play maps, potential plays, examples and models for basins in trench-slope fore-deep, fore-arc and back-arc settings. 2. Interim data uploads (2 to 3) during the course of the research. 3. Meeting presentations and project report (both digital and hardcopy); 4. Reliable bibliographic database",
     "lon" : "101.7941952",
-    "small image" : "I01233_sml.png",
-    "sponsorship" : "1",
     "contact" : "Dr. Shu Jiang",
     "title" : "Myanmar to Java – Basin Analysis & Petroleum Systems",
     "price" : "$76.5k USD",
     "lat" : "0.726862296",
     "pdf" : "Myanmar_Java_Petroleum_Systems_I_01233",
-    "status" : "In Development",
-    "video" : ""
+    "status" : "In Development"
   },
   "I01069_2" : {
     "id" : "I01069_2",
-    "body" : "To develop the large-scale thermal history models for the main West Australian transform margins in 3D and time. Use developed thermal data as input for source rock maturation models along a set of pseudo-wells characterizing a number of pull-apart terrains at these margins and their immediate surrounding.",
     "lon" : "110",
-    "small image" : "I01069_2_sml.png",
-    "sponsorship" : "1",
     "contact" : "Dr. Michal Nemcok, Dr. John Conolly",
     "title" : "Sheared Margins of Western Australia, Phase 2",
     "price" : "$69k USD",
     "lat" : "-20",
     "pdf" : "Sheared_Margins_Western_Australia_Ph2_I_01069_2",
-    "status" : "In Development",
-    "video" : ""
+    "status" : "In Development"
   }
 }

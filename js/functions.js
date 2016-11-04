@@ -21,7 +21,7 @@ function hasAllProperties(data){
   var invalid = false;
   invalid = invalid || data.id == undefined;
   invalid = invalid || data.title == undefined;
-  invalid = invalid || data.body == undefined;
+  //invalid = invalid || data.body == undefined;
   invalid = invalid || data.contact == undefined;
   invalid = invalid || data.lat == undefined;
   invalid = invalid || data.lon == undefined;
@@ -137,7 +137,6 @@ function getDetailFields(){
     price: document.getElementById('p-price'),
     status: document.getElementById('p-status'),
     pdf: document.getElementById('p-pdf'),
-    body: document.getElementById('p-body'),
     lat: document.getElementById('p-lat'),
     lon: document.getElementById('p-lon'),
     layover: document.getElementById('p-layover')
