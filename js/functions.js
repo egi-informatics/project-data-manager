@@ -137,6 +137,7 @@ function getDetailFields(){
     price: document.getElementById('p-price'),
     status: document.getElementById('p-status'),
     pdf: document.getElementById('p-pdf'),
+    body: document.getElementById('p-body'),
     lat: document.getElementById('p-lat'),
     lon: document.getElementById('p-lon'),
     layover: document.getElementById('p-layover')
