@@ -141,17 +141,24 @@ function clearDetails(){
 }
 
 function showHideButtons(group){
+  var hide = "none";
+  var show = "inline-block";
+
   if(group == "clear"){
-    document.getElementById("add-new").style.display = "inline-block";
-    document.getElementById("close").style.display = "none";
-    document.getElementById("save").style.display = "none";
+    document.getElementById("add-new").style.display = show;
+    document.getElementById("clear").style.display = show;
+    document.getElementById("close").style.display = hide;
+    document.getElementById("save").style.display = hide;
+    document.getElementById("revert").style.display = hide;
     return;
   }
 
   if(group == "show"){
-    document.getElementById("add-new").style.display = "none";
-    document.getElementById("close").style.display = "inline-block";
-    document.getElementById("save").style.display = "inline-block";
+    document.getElementById("add-new").style.display = hide;
+    document.getElementById("clear").style.display = hide;
+    document.getElementById("close").style.display = show;
+    document.getElementById("save").style.display = show;
+    document.getElementById("revert").style.display = show;
   }
 }
 

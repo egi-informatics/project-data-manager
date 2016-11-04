@@ -60,17 +60,21 @@ div.control-buttons{
     //@include smart-background(gray);
   }
   #save {
+    @include smart-background(dimgray);
     float: right;
-    @include smart-background(gray);
-    display: none;
   }
   #add-new {
-    float: right;
     @include smart-background($blue);
-    //display: none;
+    float: right;
+  }
+  #revert{
+    @include smart-background(darkgray);
+    float: right;
   }
   #close{
     @include smart-background($red);
-    display: none;
+  }
+  #clear{
+    @include smart-background(darkgray);
   }
 }

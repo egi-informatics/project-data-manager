@@ -77,29 +77,42 @@ div.control-buttons button {
     padding: 4px 8px;
     border-radius: 5px; }
 div.control-buttons #save {
-  float: right;
-  background-color: gray;
+  background-color: dimgray;
   transition: all .15s;
-  display: none; }
+  float: right; }
   div.control-buttons #save:hover {
-    background-color: #737373; }
+    background-color: #5c5c5c; }
   div.control-buttons #save:focus {
     outline: none; }
 div.control-buttons #add-new {
-  float: right;
   background-color: steelblue;
-  transition: all .15s; }
+  transition: all .15s;
+  float: right; }
   div.control-buttons #add-new:hover {
     background-color: #3f75a2; }
   div.control-buttons #add-new:focus {
     outline: none; }
+div.control-buttons #revert {
+  background-color: darkgray;
+  transition: all .15s;
+  float: right; }
+  div.control-buttons #revert:hover {
+    background-color: #9c9c9c; }
+  div.control-buttons #revert:focus {
+    outline: none; }
 div.control-buttons #close {
   background-color: indianred;
-  transition: all .15s;
-  display: none; }
+  transition: all .15s; }
   div.control-buttons #close:hover {
     background-color: #c74848; }
   div.control-buttons #close:focus {
+    outline: none; }
+div.control-buttons #clear {
+  background-color: darkgray;
+  transition: all .15s; }
+  div.control-buttons #clear:hover {
+    background-color: #9c9c9c; }
+  div.control-buttons #clear:focus {
     outline: none; }
 
 div.details {
@@ -174,8 +187,6 @@ div.list {
       background-color: #d7e4ef; }
       div.list li.current:hover {
         background-color: #d7e4ef; }
-    div.list li:hover {
-      background-color: #eaeaea; }
     div.list li:focus {
       outline: none; }
     div.list li .title {
