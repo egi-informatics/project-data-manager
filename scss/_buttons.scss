@@ -6,8 +6,27 @@
 @mixin smart-background($color) {
   $ammount: 5;
   background-color: $color;
+  transition: all .15s;
   &:hover{
     background-color: darken($color, $ammount);
+  }
+  &:focus{
+    outline: none;
+  }
+}
+
+@mixin common-button{
+  @include smart-background(lightgray);
+  padding: 12px;
+  border: none;
+  color: white;
+  font-weight: 100;
+  border-radius: 10px;
+  cursor: pointer;
+  margin: 10px 0;
+  &.small{
+    padding: 4px 8px;
+    border-radius: 5px;
   }
 }
 //------
@@ -18,22 +37,8 @@ div.loading-buttons{
   width: $width;
   margin-left: - $width - 20px;
   button{
-    padding: 12px;
+    @include common-button;
     width: 100%;
-    border: none;
-    color: white;
-    font-weight: 100;
-    border-radius: 10px;
-    margin: 0 auto;
-    cursor: pointer;
-    transition: all .15s;
-    margin: 10px 0;
-    &:hover{
-      //background-color: #ea754a;
-    }
-    &:focus{
-      outline: none;
-    }
   }
   #load-web{
     @include smart-background($blue);
@@ -44,5 +49,28 @@ div.loading-buttons{
   #download{
     @include smart-background(gray);
     margin-top: 40px;
+  }
+}
+
+div.control-buttons{
+  button{
+    @include common-button;
+    margin: 10px 3px;
+    margin-bottom: 0;
+    //@include smart-background(gray);
+  }
+  #save {
+    float: right;
+    @include smart-background(gray);
+    display: none;
+  }
+  #add-new {
+    float: right;
+    @include smart-background($blue);
+    //display: none;
+  }
+  #close{
+    @include smart-background($red);
+    display: none;
   }
 }

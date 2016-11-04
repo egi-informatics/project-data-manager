@@ -1,9 +1,15 @@
 function addProject(projects, data){
-  if(hasAllProperties(data)){
-    projects[key] = data;
-  } else{
-    console.error("Project not added. Missing required properties.");
+  if(alreadyInList(projects, data)){
+    throw "Exception: Project not added. Already in list.";
   }
+  if(!hasAllProperties(data)){
+    throw "Exception: Missing required properties.";
+  }
+  projects[data.id] = data;
+}
+
+function alreadyInList(projects, data){
+  return projects[data.id] != null;
 }
 
 // {
@@ -85,7 +91,6 @@ function clearProjectList(){
 
 function showProject(key){
   if(isCurrent(key)){
-    current.removeAttribute('class');
     clearDetails();
     return;
   }
@@ -104,6 +109,8 @@ function showProject(key){
     }
     d[field].value = p[field];
   }
+
+  showHideButtons("show");
 }
 
 function setCurrent(key){
@@ -126,6 +133,25 @@ function clearDetails(){
   var d = getDetailFields();
   for (var key in d) {
     d[key].value = "";
+  }
+  if(current != null){
+    current.removeAttribute('class');
+  }
+  showHideButtons("clear");
+}
+
+function showHideButtons(group){
+  if(group == "clear"){
+    document.getElementById("add-new").style.display = "inline-block";
+    document.getElementById("close").style.display = "none";
+    document.getElementById("save").style.display = "none";
+    return;
+  }
+
+  if(group == "show"){
+    document.getElementById("add-new").style.display = "none";
+    document.getElementById("close").style.display = "inline-block";
+    document.getElementById("save").style.display = "inline-block";
   }
 }
 

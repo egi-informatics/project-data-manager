@@ -17,31 +17,90 @@ div.loading-buttons {
   width: 150px;
   margin-left: -170px; }
   div.loading-buttons button {
+    background-color: lightgray;
+    transition: all .15s;
     padding: 12px;
-    width: 100%;
     border: none;
     color: white;
     font-weight: 100;
     border-radius: 10px;
-    margin: 0 auto;
     cursor: pointer;
-    transition: all .15s;
-    margin: 10px 0; }
+    margin: 10px 0;
+    width: 100%; }
+    div.loading-buttons button:hover {
+      background-color: #c6c6c6; }
     div.loading-buttons button:focus {
       outline: none; }
+    div.loading-buttons button.small {
+      padding: 4px 8px;
+      border-radius: 5px; }
   div.loading-buttons #load-web {
-    background-color: steelblue; }
+    background-color: steelblue;
+    transition: all .15s; }
     div.loading-buttons #load-web:hover {
       background-color: #3f75a2; }
+    div.loading-buttons #load-web:focus {
+      outline: none; }
   div.loading-buttons #load-file {
-    background-color: #4caf50; }
+    background-color: #4caf50;
+    transition: all .15s; }
     div.loading-buttons #load-file:hover {
       background-color: #449d48; }
+    div.loading-buttons #load-file:focus {
+      outline: none; }
   div.loading-buttons #download {
     background-color: gray;
+    transition: all .15s;
     margin-top: 40px; }
     div.loading-buttons #download:hover {
       background-color: #737373; }
+    div.loading-buttons #download:focus {
+      outline: none; }
+
+div.control-buttons button {
+  background-color: lightgray;
+  transition: all .15s;
+  padding: 12px;
+  border: none;
+  color: white;
+  font-weight: 100;
+  border-radius: 10px;
+  cursor: pointer;
+  margin: 10px 0;
+  margin: 10px 3px;
+  margin-bottom: 0; }
+  div.control-buttons button:hover {
+    background-color: #c6c6c6; }
+  div.control-buttons button:focus {
+    outline: none; }
+  div.control-buttons button.small {
+    padding: 4px 8px;
+    border-radius: 5px; }
+div.control-buttons #save {
+  float: right;
+  background-color: gray;
+  transition: all .15s;
+  display: none; }
+  div.control-buttons #save:hover {
+    background-color: #737373; }
+  div.control-buttons #save:focus {
+    outline: none; }
+div.control-buttons #add-new {
+  float: right;
+  background-color: steelblue;
+  transition: all .15s; }
+  div.control-buttons #add-new:hover {
+    background-color: #3f75a2; }
+  div.control-buttons #add-new:focus {
+    outline: none; }
+div.control-buttons #close {
+  background-color: indianred;
+  transition: all .15s;
+  display: none; }
+  div.control-buttons #close:hover {
+    background-color: #c74848; }
+  div.control-buttons #close:focus {
+    outline: none; }
 
 div.details {
   padding: 15px;
