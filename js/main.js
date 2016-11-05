@@ -1,4 +1,5 @@
 var projects = {};
+var backup = {};
 var currentlyLoading = false;
 var current;
 

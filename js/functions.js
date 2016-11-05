@@ -1,13 +1,5 @@
 function addProjectFromDetails(){
-  var details = getDetailFields();
-  var project = {};
-  for (var field in details) {
-    var value = details[field].value;
-    if(value != ""){
-      project[field] = details[field].value;
-    }
-  }
-  addProject(projects, project);
+  saveProjectFromDetails();
 }
 
 function saveProjectFromDetails(){
@@ -18,13 +10,16 @@ function saveProjectFromDetails(){
     if(value != ""){
       project[field] = details[field].value;
     }
+    if(field == "layover"){
+      project[field] = JSON.parse(details[field].value);
+    }
   }
   projects[project.id] = project;
   refreshList();
   showProject(details.id.value);
 }
 
-function addProject(projects, data){
+function checkProject(projects, data){
   if(alreadyInList(projects, data)){
     alert("Project not added. " + data.id + " is already is in the list.");
     throw "Exception: Project not added. Already in list.";
@@ -33,9 +28,6 @@ function addProject(projects, data){
     alert("Project not added. Missing required properties.");
     throw "Exception: Missing required properties.";
   }
-  projects[data.id] = data;
-  refreshList();
-  showProject(data.id);
 }
 
 function alreadyInList(projects, data){
@@ -105,6 +97,7 @@ function loadFromWeb(){
   xhr.onreadystatechange = function(){
     if(this.readyState == 4 && this.status == 200){
       projects = JSON.parse(this.responseText);
+      backup = JSON.parse(this.responseText);
       listAllProjects(projects);
       currentlyLoading = false;
     }
@@ -179,7 +172,7 @@ function showHideButtons(group){
     document.getElementById("clear").style.display = show;
     document.getElementById("close").style.display = hide;
     document.getElementById("save").style.display = hide;
-    document.getElementById("revert").style.display = hide;
+    // document.getElementById("revert").style.display = hide;
     return;
   }
 
@@ -188,7 +181,7 @@ function showHideButtons(group){
     document.getElementById("clear").style.display = hide;
     document.getElementById("close").style.display = show;
     document.getElementById("save").style.display = show;
-    document.getElementById("revert").style.display = show;
+    // document.getElementById("revert").style.display = show;
   }
 }
 
