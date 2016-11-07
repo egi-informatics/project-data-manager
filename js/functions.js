@@ -1,24 +1,3 @@
-function addProjectFromDetails(){
-  saveProjectFromDetails();
-}
-
-function saveProjectFromDetails(){
-  var details = getDetailFields();
-  var project = {};
-  for (var field in details) {
-    var value = details[field].value;
-    if(value != ""){
-      project[field] = details[field].value;
-    }
-    if(field == "layover"){
-      project[field] = JSON.parse(details[field].value);
-    }
-  }
-  projects[project.id] = project;
-  refreshList();
-  showProject(details.id.value);
-}
-
 function checkProject(projects, data){
   if(alreadyInList(projects, data)){
     alert("Project not added. " + data.id + " is already is in the list.");
@@ -122,10 +101,6 @@ function showProject(key){
   var p = projects[key];
   var d = getDetailFields();
   for (var field in d) {
-    if(p[field] == null){
-      d[field].value = "";
-      continue;
-    }
     if(field == "layover"){
       d[field].value = JSON.stringify(p[field]);
       continue;
@@ -195,7 +170,7 @@ function getDetailFields(){
     pdf: document.getElementById('p-pdf'),
     lat: document.getElementById('p-lat'),
     lon: document.getElementById('p-lon'),
-    layover: document.getElementById('p-layover')
+    //layover: document.getElementById('p-layover')
   }
   return d;
 }
@@ -249,4 +224,27 @@ function childScrollFix(){
 function refreshList(){
   clearProjectList();
   listAllProjects(projects);
+}
+
+function saveProjectFromDetails(){
+  var details = getDetailFields();
+  var id = details.id;
+
+  if(!projectExists(id)){
+    projects[id] = {};
+  }
+
+  for (var field in details) {
+    var value = details[field].value;
+    if(value != ""){
+      projects[id][field] = value;
+    }
+  }
+
+  refreshList();
+  showProject(details.id.value);
+}
+
+function projectExists(id){
+  return projects[id] != undefined;
 }
