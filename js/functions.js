@@ -101,11 +101,9 @@ function showProject(key){
   var p = projects[key];
   var d = getDetailFields();
   for (var field in d) {
-    if(field == "layover"){
-      d[field].value = JSON.stringify(p[field]);
-      continue;
+    if(p[field] != undefined){
+      d[field].value = p[field];
     }
-    d[field].value = p[field];
   }
 
   showHideButtons("show");
@@ -228,7 +226,7 @@ function refreshList(){
 
 function saveProjectFromDetails(){
   var details = getDetailFields();
-  var id = details.id;
+  var id = details.id.value;
 
   if(!projectExists(id)){
     projects[id] = {};
