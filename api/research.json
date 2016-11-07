@@ -1,29 +1,29 @@
 {
-  "I01168" : {
-    "id" : "I01168",
-    "lon" : "25",
-    "contact" : "Dr. Stuart Simmons",
-    "title" : "Fluid Mineral and Source Rock Chemistry",
-    "price" : "TBD USD",
-    "lat" : "-53",
-    "pdf" : "Fluid_Mineral_Source_Rock_Chemistry_I_01168",
-    "status" : "In Development"
+  "I01168": {
+    "id": "I01168",
+    "lon": "25",
+    "contact": "Dr. Stuart Simmons",
+    "title": "Fluid Mineral and Source Rock Chemistry",
+    "price": "TBD USD",
+    "lat": "-53",
+    "pdf": "Fluid_Mineral_Source_Rock_Chemistry_I_01168",
+    "status": "In Development"
   },
-  "I01232" : {
-    "id" : "I01232",
-    "lon" : "145.2431532",
-    "contact" : "Dr. John Conolly, Mr. David Thul",
-    "title" : "Southern Papuan Basin Integrated Petroleum Systems",
-    "price" : "$75k USD",
-    "lat" : "-10.21865833",
-    "pdf" : "So_Papuan_Basin_Petroleum_Systems_I_01232",
-    "status" : "In Progress"
+  "I01232": {
+    "id": "I01232",
+    "lon": "145.2431532",
+    "contact": "Dr. John Conolly, Mr. David Thul",
+    "title": "Southern Papuan Basin Integrated Petroleum Systems",
+    "price": "$75k USD",
+    "lat": "-10.21865833",
+    "pdf": "So_Papuan_Basin_Petroleum_Systems_I_01232",
+    "status": "In Progress"
   },
-  "I01021" : {
-    "id" : "I01021",
-    "lon" : "39.095342",
-    "contact" : "Dr. Júlia Kotulová, Dr. Raymond Levey",
-    "layover" : [
+  "I01021": {
+    "id": "I01021",
+    "lon": "39.095342",
+    "contact": "Dr. Júlia Kotulová, Dr. Raymond Levey",
+    "layover": [
       [
         [
           "65.09758236",
@@ -887,17 +887,17 @@
         ]
       ]
     ],
-    "title" : "Central Eurasia Shales",
-    "price" : "$80k USD",
-    "lat" : "59.546029",
-    "pdf" : "Central_Eurasia_Shales_I_01021",
-    "status" : "Completed"
+    "title": "Central Eurasia Shales",
+    "price": "$80k USD",
+    "lat": "59.546029",
+    "pdf": "Central_Eurasia_Shales_I_01021",
+    "status": "Completed"
   },
-  "I01075" : {
-    "id" : "I01075",
-    "lon" : "-116.448683",
-    "contact" : "Dr. Rasoul Sorkhabi, Dr. Greg Nash",
-    "layover" : [
+  "I01075": {
+    "id": "I01075",
+    "lon": "-116.448683",
+    "contact": "Dr. Rasoul Sorkhabi, Dr. Greg Nash",
+    "layover": [
       [
         [
           "-111.8526291",
@@ -1121,77 +1121,77 @@
         ]
       ]
     ],
-    "title" : "Central Utah-Nevada Deep Plays",
-    "price" : "$57k USD",
-    "lat" : "39.453160",
-    "pdf" : "Central_Utah_Nevada_Deep_Plays_I_01075",
-    "status" : "Completed"
+    "title": "Central Utah-Nevada Deep Plays",
+    "price": "$57k USD",
+    "lat": "39.453160",
+    "pdf": "Central_Utah_Nevada_Deep_Plays_I_01075",
+    "status": "Completed"
   },
-  "I01020" : {
-    "id" : "I01020",
-    "lon" : "-10",
-    "contact" : "Dr. Rasoul Sorkhabi",
-    "title" : "Source Rocks in Space & through Time",
-    "price" : "$87.8k USD",
-    "lat" : "-47",
-    "pdf" : "Source_Rocks_in_Space_and_through_Time_I_01020",
-    "status" : "In Progress"
+  "I01020": {
+    "id": "I01020",
+    "lon": "-10",
+    "contact": "Dr. Rasoul Sorkhabi",
+    "title": "Source Rocks in Space & through Time",
+    "price": "$87.8k USD",
+    "lat": "-47",
+    "pdf": "Source_Rocks_in_Space_and_through_Time_I_01020",
+    "status": "In Progress"
   },
-  "I01244" : {
-    "id" : "I01244",
-    "lon" : "-29",
-    "contact" : "Dr. Xiaochun “Jacob” Jin, Dr. John McLennan",
-    "title" : "Optimizing Refracturing & Infill Drilling",
-    "price" : "$TBDk USD",
-    "lat" : "-53",
-    "pdf" : "Optimize_Refracturing_Infill_Drilling_I_01244",
-    "status" : "In Development"
+  "I01244": {
+    "id": "I01244",
+    "lon": "-29",
+    "contact": "Dr. Xiaochun “Jacob” Jin, Dr. John McLennan",
+    "title": "Optimizing Refracturing & Infill Drilling",
+    "price": "$TBDk USD",
+    "lat": "-53",
+    "pdf": "Optimize_Refracturing_Infill_Drilling_I_01244",
+    "status": "In Development"
   },
-  "I01229" : {
-    "id" : "I01229",
-    "lon" : "-41.3541789",
-    "contact" : "Dr. Sudeep Kanungo, Mr. David Thul, Dr. Eiichi Setoyama",
-    "title" : "EGI Oceans – C & N Atlantic Petroleum Systems",
-    "price" : "$180K USD Total\n$60k USD – Upon signing\n$60k USD – Start of year 2\n$60k USD – Start of year 3",
-    "lat" : "32.42128289",
-    "pdf" : "EGIOceans_C&N_Atlantic_I_01229",
-    "status" : "In Progress"
+  "I01229": {
+    "id": "I01229",
+    "lon": "-41.3541789",
+    "contact": "Dr. Sudeep Kanungo, Mr. David Thul, Dr. Eiichi Setoyama",
+    "title": "EGI Oceans – C & N Atlantic Petroleum Systems",
+    "price": "$180K USD Total\n$60k USD – Upon signing\n$60k USD – Start of year 2\n$60k USD – Start of year 3",
+    "lat": "32.42128289",
+    "pdf": "EGIOceans_C&N_Atlantic_I_01229",
+    "status": "In Progress"
   },
-  "I01231" : {
-    "id" : "I01231",
-    "lon" : "-32.59970759",
-    "contact" : "Dr. Michal Nemcok",
-    "title" : "EGI Oceans – Oceanic Crust",
-    "price" : "$74K USD",
-    "lat" : "40.53914637",
-    "pdf" : "EGIOceans_i01231_Oceanic_Crust_D_p",
-    "status" : "In Development"
+  "I01231": {
+    "id": "I01231",
+    "lon": "-32.59970759",
+    "contact": "Dr. Michal Nemcok",
+    "title": "EGI Oceans – Oceanic Crust",
+    "price": "$74K USD",
+    "lat": "40.53914637",
+    "pdf": "EGIOceans_i01231_Oceanic_Crust_D_p",
+    "status": "In Development"
   },
-  "I01022_2" : {
-    "id" : "I01022_2",
-    "lon" : "-5",
-    "contact" : "Dr. Michal Nemcok, Dr. Júlia Kotulová",
-    "title" : "Petroleum Systems of Sheared Margins, Phase 2",
-    "price" : "$74k USD",
-    "lat" : "-53",
-    "pdf" : "Petroleum_Systems_Sheared_Margins_Ph2_I_01022_2",
-    "status" : "In Development"
+  "I01022_2": {
+    "id": "I01022_2",
+    "lon": "-5",
+    "contact": "Dr. Michal Nemcok, Dr. Júlia Kotulová",
+    "title": "Petroleum Systems of Sheared Margins, Phase 2",
+    "price": "$74k USD",
+    "lat": "-53",
+    "pdf": "Petroleum_Systems_Sheared_Margins_Ph2_I_01022_2",
+    "status": "In Development"
   },
-  "I01230" : {
-    "id" : "I01230",
-    "lon" : "-110.3109588",
-    "contact" : "Dr. Michal Nemcok, Mr. David Thul, Dr. Joseph Moore",
-    "title" : "Frontier Basins of Mexico Region 1: Gulf of California",
-    "price" : "$72k USD",
-    "lat" : "28.11445847",
-    "pdf" : "Frontier_Basins_Mexico_Gulf_of_CA_I_01230",
-    "status" : "In Development"
+  "I01230": {
+    "id": "I01230",
+    "lon": "-110.3109588",
+    "contact": "Dr. Michal Nemcok, Mr. David Thul, Dr. Joseph Moore",
+    "title": "Frontier Basins of Mexico Region 1: Gulf of California",
+    "price": "$72k USD",
+    "lat": "28.11445847",
+    "pdf": "Frontier_Basins_Mexico_Gulf_of_CA_I_01230",
+    "status": "In Development"
   },
-  "I00980_2" : {
-    "id" : "I00980_2",
-    "lon" : "111.795411",
-    "contact" : "Dr. Shu Jiang",
-    "layover" : [
+  "I00980_2": {
+    "id": "I00980_2",
+    "lon": "111.795411",
+    "contact": "Dr. Shu Jiang",
+    "layover": [
       [
         [
           "72.89214621",
@@ -1279,27 +1279,27 @@
         ]
       ]
     ],
-    "title" : "China Shale, Phase 2",
-    "price" : "$75k USD",
-    "lat" : "32.232003",
-    "pdf" : "China_Shale_Gas_Oil_Ph2_I_00980_2",
-    "status" : "Completed"
+    "title": "China Shale, Phase 2",
+    "price": "$75k USD",
+    "lat": "32.232003",
+    "pdf": "China_Shale_Gas_Oil_Ph2_I_00980_2",
+    "status": "Completed"
   },
-  "I01243" : {
-    "id" : "I01243",
-    "lon" : "0",
-    "contact" : "Dr. Matthias Greb, Dr. David J. Thul",
-    "title" : "Improved Kinetic Models for Resource Play Assessment",
-    "price" : "$75k USD",
-    "lat" : "-47",
-    "pdf" : "Improved_Kinetic_Models_Resource_Play_I_01243",
-    "status" : "In Development"
+  "I01243": {
+    "id": "I01243",
+    "lon": "0",
+    "contact": "Dr. Matthias Greb, Dr. David J. Thul",
+    "title": "Improved Kinetic Models for Resource Play Assessment",
+    "price": "$75k USD",
+    "lat": "-47",
+    "pdf": "Improved_Kinetic_Models_Resource_Play_I_01243",
+    "status": "In Development"
   },
-  "I01242" : {
-    "id" : "I01242",
-    "lon" : "26.503416",
-    "contact" : "Dr. Bryony Richards-McClung",
-    "layover" : [
+  "I01242": {
+    "id": "I01242",
+    "lon": "26.503416",
+    "contact": "Dr. Bryony Richards-McClung",
+    "layover": [
       [
         [
           "20.1765396",
@@ -1599,47 +1599,47 @@
         ]
       ]
     ],
-    "title" : "Karoo Basin Unconventional Characterization",
-    "price" : "$80k USD",
-    "lat" : "-31.256415",
-    "pdf" : "Karoo_Basin_Reservoir_Characterization_I_01242",
-    "status" : "In Development"
+    "title": "Karoo Basin Unconventional Characterization",
+    "price": "$80k USD",
+    "lat": "-31.256415",
+    "pdf": "Karoo_Basin_Reservoir_Characterization_I_01242",
+    "status": "In Development"
   },
-  "I01216" : {
-    "id" : "I01216",
-    "lon" : "-13.51448513",
-    "contact" : "Dr. Sudeep Kanungo, Mr. David Thul,  Dr. Eiichi Setoyama, Mr. Matthias Greb",
-    "title" : "EGI Oceans – South Atlantic",
-    "price" : "$88K USD",
-    "lat" : "-33.25184087",
-    "pdf" : "EGIOceans_So_Atlantic_I_01216",
-    "status" : "In Progress"
+  "I01216": {
+    "id": "I01216",
+    "lon": "-13.51448513",
+    "contact": "Dr. Sudeep Kanungo, Mr. David Thul,  Dr. Eiichi Setoyama, Mr. Matthias Greb",
+    "title": "EGI Oceans – South Atlantic",
+    "price": "$88K USD",
+    "lat": "-33.25184087",
+    "pdf": "EGIOceans_So_Atlantic_I_01216",
+    "status": "In Progress"
   },
-  "I01073" : {
-    "id" : "I01073",
-    "lon" : "20",
-    "contact" : "Dr. Milind Deo",
-    "title" : "Improved Liquid Recovery in Shales",
-    "price" : "$50k USD",
-    "lat" : "-47",
-    "pdf" : "Improved_Liquid_Recovery_in_Shales_I_01073",
-    "status" : "In Progress"
+  "I01073": {
+    "id": "I01073",
+    "lon": "20",
+    "contact": "Dr. Milind Deo",
+    "title": "Improved Liquid Recovery in Shales",
+    "price": "$50k USD",
+    "lat": "-47",
+    "pdf": "Improved_Liquid_Recovery_in_Shales_I_01073",
+    "status": "In Progress"
   },
-  "I01214" : {
-    "id" : "I01214",
-    "lon" : "15",
-    "contact" : "Dr. Ian Walton",
-    "title" : "Shale Liquids Production Analysis",
-    "price" : "$52k USD",
-    "lat" : "-53",
-    "pdf" : "Shale_Liquids_Production_Analysis_I_01214",
-    "status" : "In Development"
+  "I01214": {
+    "id": "I01214",
+    "lon": "15",
+    "contact": "Dr. Ian Walton",
+    "title": "Shale Liquids Production Analysis",
+    "price": "$52k USD",
+    "lat": "-53",
+    "pdf": "Shale_Liquids_Production_Analysis_I_01214",
+    "status": "In Development"
   },
-  "I01005_2" : {
-    "id" : "I01005_2",
-    "lon" : "-57.309968",
-    "contact" : "Mr. David Thul, Dr. Raymond Levey",
-    "layover" : [
+  "I01005_2": {
+    "id": "I01005_2",
+    "lon": "-57.309968",
+    "contact": "Mr. David Thul, Dr. Raymond Levey",
+    "layover": [
       [
         [
           "-47.64694466",
@@ -2251,27 +2251,27 @@
         ]
       ]
     ],
-    "title" : "South American Shales, Phase 2",
-    "price" : "$156k USD",
-    "lat" : "-24.006326",
-    "pdf" : "South_American_Shales_Ph2_I_01005_2",
-    "status" : "In Progress"
+    "title": "South American Shales, Phase 2",
+    "price": "$156k USD",
+    "lat": "-24.006326",
+    "pdf": "South_American_Shales_Ph2_I_01005_2",
+    "status": "In Progress"
   },
-  "Q42014" : {
-    "id" : "Q42014",
-    "lon" : "0",
-    "contact" : "Dr. Michal Nemcok",
-    "title" : "Rifts & Passive Margins",
-    "price" : "$15k USD",
-    "lat" : "-47",
-    "pdf" : "Rifts_and_Passive_Margins_P_p",
-    "status" : "In Progress"
+  "Q42014": {
+    "id": "Q42014",
+    "lon": "0",
+    "contact": "Dr. Michal Nemcok",
+    "title": "Rifts & Passive Margins",
+    "price": "$15k USD",
+    "lat": "-47",
+    "pdf": "Rifts_and_Passive_Margins_P_p",
+    "status": "In Progress"
   },
-  "I01163" : {
-    "id" : "I01163",
-    "lon" : "115.126823",
-    "contact" : "Dr. Shu Jiang",
-    "layover" : [
+  "I01163": {
+    "id": "I01163",
+    "lon": "115.126823",
+    "contact": "Dr. Shu Jiang",
+    "layover": [
       [
         [
           "106.8445302",
@@ -2739,27 +2739,27 @@
         ]
       ]
     ],
-    "title" : "South China Sea Petroleum Systems",
-    "price" : "$90k USD",
-    "lat" : "20.330719",
-    "pdf" : "South_China_Sea_Petroleum_System_I_01163",
-    "status" : "In Development"
+    "title": "South China Sea Petroleum Systems",
+    "price": "$90k USD",
+    "lat": "20.330719",
+    "pdf": "South_China_Sea_Petroleum_System_I_01163",
+    "status": "In Development"
   },
-  "I01226" : {
-    "id" : "I01226",
-    "lon" : "120.0208665",
-    "contact" : "Dr. Shu Jiang",
-    "title" : "Asia-Pacific Hybrid Unconventional Non-marine Plays",
-    "price" : "$89k USD – Upon signing $86k USD - Start of Year 2",
-    "lat" : "2.785096066",
-    "pdf" : "Hybrid_Uncon_NonMarine_AsiaPacific_Plays_I_01226",
-    "status" : "In Development"
+  "I01226": {
+    "id": "I01226",
+    "lon": "120.0208665",
+    "contact": "Dr. Shu Jiang",
+    "title": "Asia-Pacific Hybrid Unconventional Non-marine Plays",
+    "price": "$89k USD – Upon signing $86k USD - Start of Year 2",
+    "lat": "2.785096066",
+    "pdf": "Hybrid_Uncon_NonMarine_AsiaPacific_Plays_I_01226",
+    "status": "In Development"
   },
-  "I00973_2" : {
-    "id" : "I00973_2",
-    "lon" : "-106.805234",
-    "contact" : "Dr. Milind Deo",
-    "layover" : [
+  "I00973_2": {
+    "id": "I00973_2",
+    "lon": "-106.805234",
+    "contact": "Dr. Milind Deo",
+    "layover": [
       [
         [
           "-105.2361337",
@@ -3035,27 +3035,27 @@
         ]
       ]
     ],
-    "title" : "Liquids From Shales, Phase 2",
-    "price" : "$40k USD",
-    "lat" : "41.357185",
-    "pdf" : "Liquids_from_Shales_Ph2_I_00973_2",
-    "status" : "Completed"
+    "title": "Liquids From Shales, Phase 2",
+    "price": "$40k USD",
+    "lat": "41.357185",
+    "pdf": "Liquids_from_Shales_Ph2_I_00973_2",
+    "status": "Completed"
   },
-  "I01162" : {
-    "id" : "I01162",
-    "lon" : "10",
-    "contact" : "Dr. John McLennan",
-    "title" : "Large-Scale Geologic Controls on Hydraulic Stimulation",
-    "price" : "$45k USD",
-    "lat" : "-47",
-    "pdf" : "Large_Scale_Geologic_Controls_I_01162",
-    "status" : "In Progress"
+  "I01162": {
+    "id": "I01162",
+    "lon": "10",
+    "contact": "Dr. John McLennan",
+    "title": "Large-Scale Geologic Controls on Hydraulic Stimulation",
+    "price": "$45k USD",
+    "lat": "-47",
+    "pdf": "Large_Scale_Geologic_Controls_I_01162",
+    "status": "In Progress"
   },
-  "I01069" : {
-    "id" : "I01069",
-    "lon" : "110.773919",
-    "contact" : "Dr. Michal Nemcok, Dr. John Conolly",
-    "layover" : [
+  "I01069": {
+    "id": "I01069",
+    "lon": "110.773919",
+    "contact": "Dr. Michal Nemcok, Dr. John Conolly",
+    "layover": [
       [
         [
           "129.1538906",
@@ -3195,17 +3195,17 @@
         ]
       ]
     ],
-    "title" : "Sheared Margins of Western Australia",
-    "price" : "$69k USD",
-    "lat" : "-27.034549",
-    "pdf" : "Sheared_Margins_W_Australia_I_01069",
-    "status" : "Completed"
+    "title": "Sheared Margins of Western Australia",
+    "price": "$69k USD",
+    "lat": "-27.034549",
+    "pdf": "Sheared_Margins_W_Australia_I_01069",
+    "status": "Completed"
   },
-  "I00983_2" : {
-    "id" : "I00983_2",
-    "lon" : "-92.422278",
-    "contact" : "Dr. Ian Walton",
-    "layover" : [
+  "I00983_2": {
+    "id": "I00983_2",
+    "lon": "-92.422278",
+    "contact": "Dr. Ian Walton",
+    "layover": [
       [
         [
           "-107.6054829",
@@ -3261,37 +3261,37 @@
         ]
       ]
     ],
-    "title" : "Shale Gas Production Analysis, Phase 2",
-    "price" : "$42k USD",
-    "lat" : "34.472598",
-    "pdf" : "Shale_Gas_Production_Analysis_Ph2_I_00983_2",
-    "status" : "Completed"
+    "title": "Shale Gas Production Analysis, Phase 2",
+    "price": "$42k USD",
+    "lat": "34.472598",
+    "pdf": "Shale_Gas_Production_Analysis_Ph2_I_00983_2",
+    "status": "Completed"
   },
-  "I01209" : {
-    "id" : "I01209",
-    "lon" : "-15",
-    "contact" : "Dr. Milind Deo, Dr. John McLennan, Dr. Bryony Richards-McClung, Dr. Michael Bartl",
-    "title" : "Flow in Nanoporous Rocks",
-    "price" : "$70k USD",
-    "lat" : "-53",
-    "pdf" : "Flow_in_Nanoporous_Rocks_I_01209",
-    "status" : "In Progress"
+  "I01209": {
+    "id": "I01209",
+    "lon": "-15",
+    "contact": "Dr. Milind Deo, Dr. John McLennan, Dr. Bryony Richards-McClung, Dr. Michael Bartl",
+    "title": "Flow in Nanoporous Rocks",
+    "price": "$70k USD",
+    "lat": "-53",
+    "pdf": "Flow_in_Nanoporous_Rocks_I_01209",
+    "status": "In Progress"
   },
-  "I01210" : {
-    "id" : "I01210",
-    "lon" : "-97.825611",
-    "contact" : "Mr. David Thul",
-    "title" : "Petroleum Systems Atlas of Mexico",
-    "price" : "$50k USD",
-    "lat" : "21.016097",
-    "pdf" : "Petroleum_Systems_Atlas_Mexico_I_01210",
-    "status" : "In Progress"
+  "I01210": {
+    "id": "I01210",
+    "lon": "-97.825611",
+    "contact": "Mr. David Thul",
+    "title": "Petroleum Systems Atlas of Mexico",
+    "price": "$50k USD",
+    "lat": "21.016097",
+    "pdf": "Petroleum_Systems_Atlas_Mexico_I_01210",
+    "status": "In Progress"
   },
-  "I01025" : {
-    "id" : "I01025",
-    "lon" : "140.926464",
-    "contact" : "Dr. John McLennan, Dr. John Conolly",
-    "layover" : [
+  "I01025": {
+    "id": "I01025",
+    "lon": "140.926464",
+    "contact": "Dr. John McLennan, Dr. John Conolly",
+    "layover": [
       [
         [
           "110.3860641",
@@ -3407,27 +3407,27 @@
         ]
       ]
     ],
-    "title" : "Australian Shales",
-    "price" : "$70k USD",
-    "lat" : "-25.984158",
-    "pdf" : "Australia_Shale_Gas_Shale_Oil_I_01025",
-    "status" : "In Development"
+    "title": "Australian Shales",
+    "price": "$70k USD",
+    "lat": "-25.984158",
+    "pdf": "Australia_Shale_Gas_Shale_Oil_I_01025",
+    "status": "In Development"
   },
-  "I01024" : {
-    "id" : "I01024",
-    "lon" : "-25",
-    "contact" : "Dr. Ian Walton",
-    "title" : "More Efficient Hydraulic Fracturing Systems",
-    "price" : "$40k USD",
-    "lat" : "-53",
-    "pdf" : "More_Efficient_Hydraulic_Fracturing_Systems_I_01024",
-    "status" : "Completed"
+  "I01024": {
+    "id": "I01024",
+    "lon": "-25",
+    "contact": "Dr. Ian Walton",
+    "title": "More Efficient Hydraulic Fracturing Systems",
+    "price": "$40k USD",
+    "lat": "-53",
+    "pdf": "More_Efficient_Hydraulic_Fracturing_Systems_I_01024",
+    "status": "Completed"
   },
-  "I01023" : {
-    "id" : "I01023",
-    "lon" : "-1.898682",
-    "contact" : "Prof. Alastair Fraser, Dr. Raymond Levey",
-    "layover" : [
+  "I01023": {
+    "id": "I01023",
+    "lon": "-1.898682",
+    "contact": "Prof. Alastair Fraser, Dr. Raymond Levey",
+    "layover": [
       [
         [
           "-4.825310888",
@@ -3595,50 +3595,50 @@
         ]
       ]
     ],
-    "title" : "UK Shales",
-    "price" : "$51k USD",
-    "lat" : "54.265230",
-    "pdf" : "UK_Shale_Gas_I_01023",
-    "status" : "Completed"
+    "title": "UK Shales",
+    "price": "$51k USD",
+    "lat": "54.265230",
+    "pdf": "UK_Shale_Gas_I_01023",
+    "status": "Completed"
   },
-  "I01169" : {
-    "id" : "I01169",
-    "lon" : "5",
-    "contact" : "Dr. Peter Rose",
-    "title" : "Tracers for Characterizing Shale Gas Hydrofractures",
-    "price" : "$TBD  USD",
-    "lat" : "-53",
-    "pdf" : "Tracer_Testing_in_Shale_Hydrofractures_I_01169",
-    "status" : "In Development"
+  "I01169": {
+    "id": "I01169",
+    "lon": "5",
+    "contact": "Dr. Peter Rose",
+    "title": "Tracers for Characterizing Shale Gas Hydrofractures",
+    "price": "$TBD  USD",
+    "lat": "-53",
+    "pdf": "Tracer_Testing_in_Shale_Hydrofractures_I_01169",
+    "status": "In Development"
   },
-  "I01020_2" : {
-    "id" : "I01020_2",
-    "lon" : "-10",
-    "contact" : "Dr. Rasoul Sorkhabi",
-    "title" : "Source Rocks in Space & through Time, Phase 2",
-    "price" : "$87k USD",
-    "lat" : "-47",
-    "pdf" : "Source_Rocks_in_Space_and_through_Time_I_01020_2",
-    "status" : "In Development"
+  "I01020_2": {
+    "id": "I01020_2",
+    "lon": "-10",
+    "contact": "Dr. Rasoul Sorkhabi",
+    "title": "Source Rocks in Space & through Time, Phase 2",
+    "price": "$87k USD",
+    "lat": "-47",
+    "pdf": "Source_Rocks_in_Space_and_through_Time_I_01020_2",
+    "status": "In Development"
   },
-  "I01233" : {
-    "id" : "I01233",
-    "lon" : "101.7941952",
-    "contact" : "Dr. Shu Jiang",
-    "title" : "Myanmar to Java – Basin Analysis & Petroleum Systems",
-    "price" : "$76.5k USD",
-    "lat" : "0.726862296",
-    "pdf" : "Myanmar_Java_Petroleum_Systems_I_01233",
-    "status" : "In Development"
+  "I01233": {
+    "id": "I01233",
+    "lon": "101.7941952",
+    "contact": "Dr. Shu Jiang",
+    "title": "Myanmar to Java – Basin Analysis & Petroleum Systems",
+    "price": "$76.5k USD",
+    "lat": "0.726862296",
+    "pdf": "Myanmar_Java_Petroleum_Systems_I_01233",
+    "status": "In Development"
   },
-  "I01069_2" : {
-    "id" : "I01069_2",
-    "lon" : "110",
-    "contact" : "Dr. Michal Nemcok, Dr. John Conolly",
-    "title" : "Sheared Margins of Western Australia, Phase 2",
-    "price" : "$69k USD",
-    "lat" : "-20",
-    "pdf" : "Sheared_Margins_Western_Australia_Ph2_I_01069_2",
-    "status" : "In Development"
+  "I01069_2": {
+    "id": "I01069_2",
+    "lon": "110",
+    "contact": "Dr. Michal Nemcok, Dr. John Conolly",
+    "title": "Sheared Margins of Western Australia, Phase 2",
+    "price": "$69k USD",
+    "lat": "-20",
+    "pdf": "Sheared_Margins_Western_Australia_Ph2_I_01069_2",
+    "status": "In Development"
   }
 }

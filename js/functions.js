@@ -246,3 +246,17 @@ function saveProjectFromDetails(){
 function projectExists(id){
   return projects[id] != undefined;
 }
+
+function download(text, filename){
+  var blob = new Blob([text], {type: "application/json"}); // Types list: https://goo.gl/3EkJSx
+  var url = window.URL.createObjectURL(blob);
+  var a = document.createElement("a");
+  a.href = url;
+  a.download = filename;
+  a.click();
+}
+
+function downloadJSON(){
+  var text = JSON.stringify(projects, null, 2);
+  download(text, "research.json");
+}
