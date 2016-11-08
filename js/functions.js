@@ -276,6 +276,7 @@ function downloadJSON(){
 
 function removeSelectedProject(){
   delete projects[current.id];
+  modified = true;
   clearDetails();
   refreshList();
 }
