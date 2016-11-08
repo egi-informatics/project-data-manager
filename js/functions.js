@@ -69,6 +69,7 @@ function loadFromWeb(){
   }
 
   currentlyLoading = true;
+  modified = false;
   clearProjectList();
   clearDetails();
 
@@ -105,8 +106,7 @@ function showProject(key){
       d[field].value = p[field];
     }
   }
-
-  showHideButtons("show");
+  showButtons("edit");
 }
 
 function setCurrent(key){
@@ -133,28 +133,22 @@ function clearDetails(){
   if(current != null){
     current.removeAttribute('class');
   }
-  showHideButtons("clear");
+  showButtons("new");
 }
 
-function showHideButtons(group){
+function showButtons(group){
   var hide = "none";
-  var show = "inline-block";
+  var show = "block";
 
-  if(group == "clear"){
-    document.getElementById("add-new").style.display = show;
-    document.getElementById("clear").style.display = show;
-    document.getElementById("close").style.display = hide;
-    document.getElementById("save").style.display = hide;
-    // document.getElementById("revert").style.display = hide;
+  if(group == "new"){
+    document.querySelector(".control-buttons .new").style.display = show;
+    document.querySelector(".control-buttons .edit").style.display = hide;
     return;
   }
 
-  if(group == "show"){
-    document.getElementById("add-new").style.display = hide;
-    document.getElementById("clear").style.display = hide;
-    document.getElementById("close").style.display = show;
-    document.getElementById("save").style.display = show;
-    // document.getElementById("revert").style.display = show;
+  if(group == "edit"){
+    document.querySelector(".control-buttons .new").style.display = hide;
+    document.querySelector(".control-buttons .edit").style.display = show;
   }
 }
 
@@ -232,6 +226,15 @@ function saveProjectFromDetails(){
     projects[id] = {};
   }
 
+  // If previously modified, stays modified. Otherwise checks if modified.
+  var different = differentThanData(details);
+  modified = modified || different;
+
+  if(!different){
+    console.log('Same as data. Not add/saved.');
+    return;
+  }
+
   for (var field in details) {
     var value = details[field].value;
     if(value != ""){
@@ -241,6 +244,16 @@ function saveProjectFromDetails(){
 
   refreshList();
   showProject(details.id.value);
+  console.log('Project modified.');
+}
+
+function differentThanData(d){
+  var id = d.id.value;
+  for (var field in d) {
+    if(projects[id][field] != d[field].value){
+      return true;
+    }
+  }
 }
 
 function projectExists(id){
@@ -259,4 +272,10 @@ function download(text, filename){
 function downloadJSON(){
   var text = JSON.stringify(projects, null, 2);
   download(text, "research.json");
+}
+
+function removeSelectedProject(){
+  delete projects[current.id];
+  clearDetails();
+  refreshList();
 }

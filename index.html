@@ -62,11 +62,15 @@
           </div> -->
         </fieldset>
         <div class="control-buttons">
-          <button class="small" id="close" onclick="clearDetails();" style="display:none;">Close</button>
-          <button class="small" id="save" onclick="saveProjectFromDetails();" style="display:none;">Save</button>
-          <!-- <button class="small" id="revert" style="display:none;">Revert Changes</button> -->
-          <button class="small" id="add-new" onclick="saveProjectFromDetails();">Add as New</button>
-          <button class="small" id="clear" onclick="clearDetails();">Clear</button>
+          <div class="new">
+            <button class="small" id="add-new" onclick="saveProjectFromDetails();">Add as New</button>
+            <button class="small" id="clear" onclick="clearDetails();">Clear</button>
+          </div>
+          <div class="edit" style="display: none;">
+            <button class="small" id="close" onclick="clearDetails();">Close</button>
+            <button class="small" id="save" onclick="saveProjectFromDetails();">Save</button>
+            <button class="small" id="remove" onclick="removeSelectedProject();">Remove</button>
+          </div>
         </div>
       </div>
     </div>

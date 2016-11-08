@@ -101,11 +101,20 @@ div.control-buttons #revert {
   div.control-buttons #revert:focus {
     outline: none; }
 div.control-buttons #close {
-  background-color: indianred;
+  background-color: darkgray;
   transition: all .15s; }
   div.control-buttons #close:hover {
-    background-color: #c74848; }
+    background-color: #9c9c9c; }
   div.control-buttons #close:focus {
+    outline: none; }
+div.control-buttons #remove {
+  background-color: indianred;
+  transition: all .15s;
+  float: right;
+  margin-right: 10px; }
+  div.control-buttons #remove:hover {
+    background-color: #c74848; }
+  div.control-buttons #remove:focus {
     outline: none; }
 div.control-buttons #clear {
   background-color: darkgray;

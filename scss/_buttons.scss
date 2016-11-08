@@ -72,7 +72,12 @@ div.control-buttons{
     float: right;
   }
   #close{
+    @include smart-background(darkgray);
+  }
+  #remove{
     @include smart-background($red);
+    float: right;
+    margin-right: 10px;
   }
   #clear{
     @include smart-background(darkgray);
