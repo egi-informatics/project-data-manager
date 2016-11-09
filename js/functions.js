@@ -237,10 +237,28 @@ function childScrollFix(){
   }
 }
 
+function hasAllRequiredProperties(details){
+  var valid = true;
+  for(key in details){
+    if(details[key].value == ""){
+      details[key].setAttribute('class', 'invalid');
+      valid = false;
+    }
+  }
+  return valid;
+}
+
 function saveProjectFromDetails(){
   var details = getDetailFields();
+
+  var valid = hasAllRequiredProperties(details);
+  if(!valid){
+    return;
+  }
+
   var id = details.id.value;
 
+  // Create new project object in projects if does not already exist
   if(!projectExists(id)){
     projects[id] = {};
   }

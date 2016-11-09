@@ -13,6 +13,9 @@ $lable-width: 120px;
   &:focus {
     outline: 1px solid $blue;
   }
+  &.invalid{
+    background-color: lightpink;
+  }
 }
 @mixin common-label {
   float: left;

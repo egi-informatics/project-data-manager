@@ -154,6 +154,8 @@ div.details {
         border: 1px solid lightgray; }
         div.details fieldset div.field input:focus {
           outline: 1px solid steelblue; }
+        div.details fieldset div.field input.invalid {
+          background-color: lightpink; }
       div.details fieldset div.field textarea {
         width: 400px;
         max-width: 400px;
@@ -163,6 +165,8 @@ div.details {
         min-height: 80px; }
         div.details fieldset div.field textarea:focus {
           outline: 1px solid steelblue; }
+        div.details fieldset div.field textarea.invalid {
+          background-color: lightpink; }
       div.details fieldset div.field #p-pdf {
         width: 360px; }
         div.details fieldset div.field #p-pdf + span {
