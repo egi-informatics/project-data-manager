@@ -153,6 +153,7 @@ function clearDetails(){
   var d = getDetailFields();
   for (var key in d) {
     d[key].value = "";
+    d[key].removeAttribute('class');
   }
   if(current != null){
     current.removeAttribute('class');
