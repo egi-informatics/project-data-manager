@@ -60,8 +60,13 @@ div.details{
            color: darkgray;
         }
       }
-      select:focus{
-        outline: none;
+      select{
+        &:focus{
+          outline: none;
+        }
+        &.invalid{
+          outline: 3px solid lightpink;
+        }
       }
     }
     & + fieldset{

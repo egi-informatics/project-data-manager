@@ -243,6 +243,8 @@ function hasAllRequiredProperties(details){
     if(details[key].value == ""){
       details[key].setAttribute('class', 'invalid');
       valid = false;
+    } else {
+      details[key].setAttribute('class', '');
     }
   }
   return valid;
