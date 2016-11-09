@@ -1,14 +1,4 @@
 {
-  "I01168": {
-    "id": "I01168",
-    "lon": "25",
-    "contact": "Dr. Stuart Simmons",
-    "title": "Fluid Mineral and Source Rock Chemistry",
-    "price": "TBD USD",
-    "lat": "-53",
-    "pdf": "Fluid_Mineral_Source_Rock_Chemistry_I_01168",
-    "status": "In Development"
-  },
   "I01232": {
     "id": "I01232",
     "lon": "145.2431532",
@@ -1137,16 +1127,6 @@
     "pdf": "Source_Rocks_in_Space_and_through_Time_I_01020",
     "status": "In Progress"
   },
-  "I01244": {
-    "id": "I01244",
-    "lon": "-29",
-    "contact": "Dr. Xiaochun “Jacob” Jin, Dr. John McLennan",
-    "title": "Optimizing Refracturing & Infill Drilling",
-    "price": "$TBDk USD",
-    "lat": "-53",
-    "pdf": "Optimize_Refracturing_Infill_Drilling_I_01244",
-    "status": "In Development"
-  },
   "I01229": {
     "id": "I01229",
     "lon": "-41.3541789",
@@ -1156,36 +1136,6 @@
     "lat": "32.42128289",
     "pdf": "EGIOceans_C&N_Atlantic_I_01229",
     "status": "In Progress"
-  },
-  "I01231": {
-    "id": "I01231",
-    "lon": "-32.59970759",
-    "contact": "Dr. Michal Nemcok",
-    "title": "EGI Oceans – Oceanic Crust",
-    "price": "$74K USD",
-    "lat": "40.53914637",
-    "pdf": "EGIOceans_i01231_Oceanic_Crust_D_p",
-    "status": "In Development"
-  },
-  "I01022_2": {
-    "id": "I01022_2",
-    "lon": "-5",
-    "contact": "Dr. Michal Nemcok, Dr. Júlia Kotulová",
-    "title": "Petroleum Systems of Sheared Margins, Phase 2",
-    "price": "$74k USD",
-    "lat": "-53",
-    "pdf": "Petroleum_Systems_Sheared_Margins_Ph2_I_01022_2",
-    "status": "In Development"
-  },
-  "I01230": {
-    "id": "I01230",
-    "lon": "-110.3109588",
-    "contact": "Dr. Michal Nemcok, Mr. David Thul, Dr. Joseph Moore",
-    "title": "Frontier Basins of Mexico Region 1: Gulf of California",
-    "price": "$72k USD",
-    "lat": "28.11445847",
-    "pdf": "Frontier_Basins_Mexico_Gulf_of_CA_I_01230",
-    "status": "In Development"
   },
   "I00980_2": {
     "id": "I00980_2",
@@ -3287,132 +3237,6 @@
     "pdf": "Petroleum_Systems_Atlas_Mexico_I_01210",
     "status": "In Progress"
   },
-  "I01025": {
-    "id": "I01025",
-    "lon": "140.926464",
-    "contact": "Dr. John McLennan, Dr. John Conolly",
-    "layover": [
-      [
-        [
-          "110.3860641",
-          "-25.04563208"
-        ],
-        [
-          "116.9652738",
-          "-19.64128127"
-        ],
-        [
-          "116.9652738",
-          "-16.49265949"
-        ],
-        [
-          "119.0330254",
-          "-13.90796997"
-        ],
-        [
-          "122.8395681",
-          "-11.32328046"
-        ],
-        [
-          "132.1914448",
-          "-7.986681261"
-        ],
-        [
-          "150.5662375",
-          "-7.798703842"
-        ],
-        [
-          "150.5662375",
-          "-12.12218449"
-        ],
-        [
-          "144.3629827",
-          "-12.12218449"
-        ],
-        [
-          "145.6788246",
-          "-15.41178933"
-        ],
-        [
-          "145.6788246",
-          "-19.35931514"
-        ],
-        [
-          "153.4328932",
-          "-23.91776756"
-        ],
-        [
-          "155.0307012",
-          "-26.03251353"
-        ],
-        [
-          "155.0307012",
-          "-32.65871757"
-        ],
-        [
-          "151.2711528",
-          "-40.08382563"
-        ],
-        [
-          "151.2711528",
-          "-44.68927241"
-        ],
-        [
-          "144.8799206",
-          "-44.68927241"
-        ],
-        [
-          "136.5149254",
-          "-38.43902321"
-        ],
-        [
-          "136.5149254",
-          "-31.85981353"
-        ],
-        [
-          "122.2286415",
-          "-31.85981353"
-        ],
-        [
-          "122.2286415",
-          "-22.88389175"
-        ],
-        [
-          "118.6100762",
-          "-21.09810627"
-        ],
-        [
-          "116.2603585",
-          "-22.46094256"
-        ],
-        [
-          "116.2603585",
-          "-36.04231112"
-        ],
-        [
-          "113.158731",
-          "-36.04231112"
-        ],
-        [
-          "113.158731",
-          "-31.34287563"
-        ],
-        [
-          "110.3860641",
-          "-26.78442321"
-        ],
-        [
-          "110.3860641",
-          "-25.04563208"
-        ]
-      ]
-    ],
-    "title": "Australian Shales",
-    "price": "$70k USD",
-    "lat": "-25.984158",
-    "pdf": "Australia_Shale_Gas_Shale_Oil_I_01025",
-    "status": "In Development"
-  },
   "I01024": {
     "id": "I01024",
     "lon": "-25",
@@ -3600,16 +3424,6 @@
     "lat": "54.265230",
     "pdf": "UK_Shale_Gas_I_01023",
     "status": "Completed"
-  },
-  "I01169": {
-    "id": "I01169",
-    "lon": "5",
-    "contact": "Dr. Peter Rose",
-    "title": "Tracers for Characterizing Shale Gas Hydrofractures",
-    "price": "$TBD  USD",
-    "lat": "-53",
-    "pdf": "Tracer_Testing_in_Shale_Hydrofractures_I_01169",
-    "status": "In Development"
   },
   "I01020_2": {
     "id": "I01020_2",

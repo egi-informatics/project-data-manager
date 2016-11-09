@@ -38,11 +38,33 @@ function hasAllProperties(data){
   return !invalid;
 }
 
-function listAllProjects(projects){
+function alphebetical(a, b){
+  if(a.title > b.title){
+    return 1;
+  }
+  if(a.title < b.title){
+    return -1;
+  }
+  return 0;
+}
+
+function listAllProjects(){
+  clearProjectList();
   var list = document.getElementsByClassName('list')[0];
   var ul = list.getElementsByTagName('ul')[0];
 
+  // Sorting the projects before listing them
+  var order = [];
   for(key in projects){
+    order.push({
+      id: key,
+      title: projects[key].title
+    });
+  }
+  order = order.sort(alphebetical);
+
+  for(var i = 0; i < order.length; i++){
+    var key = order[i].id;
     var p = projects[key];
     var li = document.createElement('li');
     li.setAttribute("onclick", "showProject('" + key + "');");
@@ -78,10 +100,11 @@ function loadFromWeb(){
     if(this.readyState == 4 && this.status == 200){
       projects = JSON.parse(this.responseText);
       backup = JSON.parse(this.responseText);
-      listAllProjects(projects);
+      listAllProjects();
       currentlyLoading = false;
     }
   };
+  //xhr.open('GET', 'https://egi.utah.edu/api/research.json');
   xhr.open('GET', './api/research.json');
   xhr.send();
 }
@@ -98,6 +121,7 @@ function showProject(key){
     return;
   }
 
+  clearDetails();
   setCurrent(key);
   var p = projects[key];
   var d = getDetailFields();
@@ -213,11 +237,6 @@ function childScrollFix(){
   }
 }
 
-function refreshList(){
-  clearProjectList();
-  listAllProjects(projects);
-}
-
 function saveProjectFromDetails(){
   var details = getDetailFields();
   var id = details.id.value;
@@ -242,7 +261,7 @@ function saveProjectFromDetails(){
     }
   }
 
-  refreshList();
+  listAllProjects();
   showProject(details.id.value);
   console.log('Project modified.');
 }
@@ -278,5 +297,5 @@ function removeSelectedProject(){
   delete projects[current.id];
   modified = true;
   clearDetails();
-  refreshList();
+  listAllProjects();
 }
