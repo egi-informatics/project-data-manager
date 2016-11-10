@@ -48,6 +48,16 @@ div.details{
       }
       input{
         @include common-input;
+        &:disabled{
+          background-color: whitesmoke;
+        }
+        &#thematic{
+          //float: left;
+          height: 1.6em;
+          &:focus{
+            outline: none;
+          }
+        }
       }
       textarea{
         @include common-input;

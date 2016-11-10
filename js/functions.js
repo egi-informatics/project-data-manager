@@ -130,6 +130,9 @@ function showProject(key){
       d[field].value = p[field];
     }
   }
+  if(p["lat"] == '-1' && p["lon"] == -1){
+    setAsThematic();
+  }
   showButtons("edit");
 }
 
@@ -154,7 +157,9 @@ function clearDetails(){
   for (var key in d) {
     d[key].value = "";
     d[key].removeAttribute('class');
+    d[key].disabled = false;
   }
+  document.querySelector('input#thematic').checked = false;
   if(current != null){
     current.removeAttribute('class');
   }
@@ -319,4 +324,37 @@ function removeSelectedProject(){
   modified = true;
   clearDetails();
   listAllProjects();
+}
+
+function toggleThematic(){
+  var lat = document.getElementById('p-lat');
+  var lon = document.getElementById('p-lon');
+  var checkbox = document.querySelector('#thematic');
+
+  if(checkbox.checked){
+    setAsThematic();
+    return;
+  }
+  lat.disabled = false;
+  lon.disabled = false;
+  if(previousLat != "" && previousLon != ""){
+    lat.value = previousLat;
+    lon.value = previousLon;
+  } else{
+    lat.value = "";
+    lon.value = "";
+  }
+}
+
+function setAsThematic(){
+  var lat = document.getElementById('p-lat');
+  var lon = document.getElementById('p-lon');
+  var checkbox = document.querySelector('#thematic');
+  checkbox.checked = true;
+  previousLat = lat.value;
+  previousLon = lon.value;
+  lat.disabled = true;
+  lon.disabled = true;
+  lat.value = "-1";
+  lon.value = "-1";
 }

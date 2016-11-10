@@ -156,6 +156,12 @@ div.details {
           outline: 1px solid steelblue; }
         div.details fieldset div.field input.invalid {
           background-color: lightpink; }
+        div.details fieldset div.field input:disabled {
+          background-color: whitesmoke; }
+        div.details fieldset div.field input#thematic {
+          height: 1.6em; }
+          div.details fieldset div.field input#thematic:focus {
+            outline: none; }
       div.details fieldset div.field textarea {
         width: 400px;
         max-width: 400px;
