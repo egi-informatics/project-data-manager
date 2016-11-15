@@ -124,6 +124,17 @@ div.control-buttons #clear {
   div.control-buttons #clear:focus {
     outline: none; }
 
+div.details .status {
+  padding: 10px 15px;
+  margin: -15px;
+  margin-top: 15px;
+  background-color: #333;
+  transition: .3s all;
+  font-weight: 100;
+  color: white; }
+  div.details .status.saved {
+    background-color: #4caf50; }
+
 div.details {
   padding: 15px;
   margin-left: 360px;

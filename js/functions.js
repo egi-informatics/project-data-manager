@@ -1,3 +1,7 @@
+var jsonURL =
+//'https://egi.utah.edu/api/research.json';
+'./api/research.json';
+
 function checkProject(projects, data){
   if(alreadyInList(projects, data)){
     alert("Project not added. " + data.id + " is already is in the list.");
@@ -90,6 +94,13 @@ function loadFromWeb(){
     return;
   }
 
+  if(modified){
+    var c = confirm("Are you sure you want to reload the list?\n\nYour changes to the project list will be lost!");
+    if(c == false){
+      return;
+    }
+  }
+
   currentlyLoading = true;
   modified = false;
   clearProjectList();
@@ -104,8 +115,8 @@ function loadFromWeb(){
       currentlyLoading = false;
     }
   };
-  //xhr.open('GET', 'https://egi.utah.edu/api/research.json');
-  xhr.open('GET', './api/research.json');
+  xhr.open('GET', jsonURL);
+  //xhr.open('GET', './api/research.json');
   xhr.send();
 }
 
@@ -256,6 +267,26 @@ function hasAllRequiredProperties(details){
   return valid;
 }
 
+function saveShortcut(e){
+  if(e.key == "Meta") {
+    toggleMeta(e);
+    return;
+  }
+  if(e.key = "s" && metaDown == true){
+    e.preventDefault();
+    saveProjectFromDetails();
+  }
+}
+
+function toggleMeta(e){
+  if(e.type == "keydown"){
+    metaDown = true;
+  } else{
+    metaDown = false;
+  }
+
+}
+
 function saveProjectFromDetails(){
   var details = getDetailFields();
 
@@ -290,6 +321,25 @@ function saveProjectFromDetails(){
   listAllProjects();
   showProject(details.id.value);
   console.log('Project modified.');
+  setStatus("saved");
+}
+
+function setStatus(status){
+  var bar = document.querySelector(".details .status");
+  switch(status){
+    case "saved":
+      bar.className += " saved";
+      bar.innerText = "Project Saved";
+    break;
+  }
+  revertBack(bar);
+}
+
+function revertBack(bar){
+  setTimeout(function(){
+    bar.innerHTML = "&nbsp;";
+    bar.className = "status";
+  }, 2000);
 }
 
 function differentThanData(d){

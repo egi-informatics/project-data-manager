@@ -1119,11 +1119,11 @@
   },
   "I01020": {
     "id": "I01020",
-    "lon": "-10",
+    "lon": "-1",
     "contact": "Dr. Rasoul Sorkhabi",
     "title": "Source Rocks in Space & through Time",
     "price": "$87.8k USD",
-    "lat": "-47",
+    "lat": "-1",
     "pdf": "Source_Rocks_in_Space_and_through_Time_I_01020",
     "status": "In Progress"
   },
@@ -1237,11 +1237,11 @@
   },
   "I01243": {
     "id": "I01243",
-    "lon": "0",
+    "lon": "-1",
     "contact": "Dr. Matthias Greb, Dr. David J. Thul",
     "title": "Improved Kinetic Models for Resource Play Assessment",
     "price": "$75k USD",
-    "lat": "-47",
+    "lat": "-1",
     "pdf": "Improved_Kinetic_Models_Resource_Play_I_01243",
     "status": "In Development"
   },
@@ -1557,31 +1557,31 @@
   },
   "I01216": {
     "id": "I01216",
-    "lon": "-13.51448513",
+    "lon": "5.800822",
     "contact": "Dr. Sudeep Kanungo, Mr. David Thul,  Dr. Eiichi Setoyama, Mr. Matthias Greb",
     "title": "EGI Oceans – South Atlantic",
     "price": "$88K USD",
-    "lat": "-33.25184087",
+    "lat": "-33.137290",
     "pdf": "EGIOceans_So_Atlantic_I_01216",
     "status": "In Progress"
   },
   "I01073": {
     "id": "I01073",
-    "lon": "20",
+    "lon": "-1",
     "contact": "Dr. Milind Deo",
     "title": "Improved Liquid Recovery in Shales",
     "price": "$50k USD",
-    "lat": "-47",
+    "lat": "-1",
     "pdf": "Improved_Liquid_Recovery_in_Shales_I_01073",
     "status": "In Progress"
   },
   "I01214": {
     "id": "I01214",
-    "lon": "15",
+    "lon": "-1",
     "contact": "Dr. Ian Walton",
     "title": "Shale Liquids Production Analysis",
     "price": "$52k USD",
-    "lat": "-53",
+    "lat": "-1",
     "pdf": "Shale_Liquids_Production_Analysis_I_01214",
     "status": "In Development"
   },
@@ -2209,11 +2209,11 @@
   },
   "Q42014": {
     "id": "Q42014",
-    "lon": "0",
+    "lon": "-1",
     "contact": "Dr. Michal Nemcok",
     "title": "Rifts & Passive Margins",
     "price": "$15k USD",
-    "lat": "-47",
+    "lat": "-1",
     "pdf": "Rifts_and_Passive_Margins_P_p",
     "status": "In Progress"
   },
@@ -2993,11 +2993,11 @@
   },
   "I01162": {
     "id": "I01162",
-    "lon": "10",
+    "lon": "-1",
     "contact": "Dr. John McLennan",
     "title": "Large-Scale Geologic Controls on Hydraulic Stimulation",
     "price": "$45k USD",
-    "lat": "-47",
+    "lat": "-1",
     "pdf": "Large_Scale_Geologic_Controls_I_01162",
     "status": "In Progress"
   },
@@ -3219,11 +3219,11 @@
   },
   "I01209": {
     "id": "I01209",
-    "lon": "-15",
+    "lon": "-1",
     "contact": "Dr. Milind Deo, Dr. John McLennan, Dr. Bryony Richards-McClung, Dr. Michael Bartl",
     "title": "Flow in Nanoporous Rocks",
     "price": "$70k USD",
-    "lat": "-53",
+    "lat": "-1",
     "pdf": "Flow_in_Nanoporous_Rocks_I_01209",
     "status": "In Progress"
   },
@@ -3239,11 +3239,11 @@
   },
   "I01024": {
     "id": "I01024",
-    "lon": "-25",
+    "lon": "-1",
     "contact": "Dr. Ian Walton",
     "title": "More Efficient Hydraulic Fracturing Systems",
     "price": "$40k USD",
-    "lat": "-53",
+    "lat": "-1",
     "pdf": "More_Efficient_Hydraulic_Fracturing_Systems_I_01024",
     "status": "Completed"
   },
@@ -3427,11 +3427,11 @@
   },
   "I01020_2": {
     "id": "I01020_2",
-    "lon": "-10",
+    "lon": "-1",
     "contact": "Dr. Rasoul Sorkhabi",
     "title": "Source Rocks in Space & through Time, Phase 2",
     "price": "$87k USD",
-    "lat": "-47",
+    "lat": "-1",
     "pdf": "Source_Rocks_in_Space_and_through_Time_I_01020_2",
     "status": "In Development"
   },
@@ -3454,5 +3454,95 @@
     "lat": "-20",
     "pdf": "Sheared_Margins_Western_Australia_Ph2_I_01069_2",
     "status": "In Development"
+  },
+  "I01170": {
+    "title": "East African Basins & Petroleum Systems",
+    "id": "I01170",
+    "contact": "Dr. Rasoul Sorkhabi",
+    "price": "$55k USD",
+    "status": "In Development",
+    "pdf": "#",
+    "lat": "1.792078",
+    "lon": "41.518050"
+  },
+  "I01284": {
+    "title": "Enhanced Oil Recovery in Shales",
+    "id": "I01284",
+    "contact": "Dr. Milind Deo, Dr. Palash Panja",
+    "price": "$75k USD",
+    "status": "In Development",
+    "pdf": "Enhanced_Oil_Recovery_Shales_I_01284",
+    "lat": "-1",
+    "lon": "-1"
+  },
+  "I01285": {
+    "title": "Beyond Digital Rock Physics",
+    "id": "I01285",
+    "contact": "Dr. Milind Deo, Mr. Manas Pathak",
+    "price": "Module 1 - $60k USD\nModule 2 - $45k USD",
+    "status": "In Development",
+    "pdf": "Beyond_Digital_Rock Physics_I_01285",
+    "lat": "-1",
+    "lon": "-1"
+  },
+  "I01286": {
+    "title": "Petroleum Migration History - Colombian Foreland",
+    "id": "I01286",
+    "contact": "Dr. Michal Nemcok, Mr. David Thul",
+    "price": "$59k USD",
+    "status": "In Development",
+    "pdf": "Colombia_Foreland_I_01286",
+    "lat": "5.953535",
+    "lon": "-71.085611"
+  },
+  "I01287": {
+    "title": "Heterogeneity of Fine-grained Reservoirs",
+    "id": "I01287",
+    "contact": "Dr. Shu Jiang",
+    "price": "$68k USD",
+    "status": "In Development",
+    "pdf": "Heterogeneity_FineGrained_Reservoirs",
+    "lat": "-1",
+    "lon": "-1"
+  },
+  "I01288": {
+    "title": "Production & Economic Analysis of Tight Reservoirs",
+    "id": "I01288",
+    "contact": "Dr. Palash Panja, Dr. Raul Velasco, Dr. Milind Deo",
+    "price": "$TBD USD",
+    "status": "In Progress",
+    "pdf": "Production_Economic_Analysis_Tight_Reservoir_I_01288",
+    "lat": "-1",
+    "lon": "-1"
+  },
+  "I01289": {
+    "title": "Timely Tectonics: In-situ Stress, Creep & Relaxation",
+    "id": "I01289",
+    "contact": "W. Lansing Taylor",
+    "price": "$TBD USD",
+    "status": "In Development",
+    "pdf": "#",
+    "lat": "-1",
+    "lon": "-1"
+  },
+  "I01290": {
+    "title": "Slippery Surfaces: On the Behavior of Bedding",
+    "id": "I01290",
+    "contact": "W. Lansing Taylor",
+    "price": "$TBD USD",
+    "status": "In Development",
+    "pdf": "#",
+    "lat": "-1",
+    "lon": "-1"
+  },
+  "I01291": {
+    "title": "Circum-Adriatic Petroleum Systems",
+    "id": "I01291",
+    "contact": "Dr. Michal Nemcok",
+    "price": "$50k USD",
+    "status": "In Development",
+    "pdf": "Circum_Adriatic_I_01291",
+    "lat": "43.197393",
+    "lon": "17.578167"
   }
 }
