@@ -272,7 +272,7 @@ function saveShortcut(e){
     toggleMeta(e);
     return;
   }
-  if(e.key = "s" && metaDown == true){
+  if(e.key == "s" && metaDown == true){
     e.preventDefault();
     saveProjectFromDetails();
   }
