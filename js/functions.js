@@ -1,6 +1,6 @@
 var jsonURL =
-//'https://egi.utah.edu/api/research.json';
-'./api/research.json';
+//'https://egi.utah.edu/api/research.json' + "?time=" + new Date().getTime();
+'./api/research.json' + "?time=" + new Date().getTime();
 
 function checkProject(projects, data){
   if(alreadyInList(projects, data)){
