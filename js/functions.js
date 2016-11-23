@@ -1,6 +1,6 @@
 var jsonURL =
-//'https://egi.utah.edu/api/research.json' + "?time=" + new Date().getTime();
-'./api/research.json' + "?time=" + new Date().getTime();
+//'https://egi.utah.edu/api/research.json';
+'./api/research.json';
 
 function checkProject(projects, data){
   if(alreadyInList(projects, data)){
@@ -115,7 +115,8 @@ function loadFromWeb(){
       currentlyLoading = false;
     }
   };
-  xhr.open('GET', jsonURL);
+  var timestampUrl = jsonURL + "?time=" + new Date().getTime();
+  xhr.open('GET', timestampUrl);
   //xhr.open('GET', './api/research.json');
   xhr.send();
 }
